@@ -9,5 +9,23 @@
       "Comprehensive range of services, from routine maintenance to complex installations and repairs.",
       "Prompt and courteous service, with a focus on minimizing disruptions and ensuring customer satisfaction."
     ]
-  }
+  },
+  "businessName": "WaterWorks Plumbing & Drain LLC",
+  "place_id": "ChIJkaa22MbdvIsRoM3u1UirX00",
+  "phone": "+1 251-394-6890",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.731721,
+  "longitude": -87.899299,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
