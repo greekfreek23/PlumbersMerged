@@ -4,7 +4,7 @@
     {
       "searchString": "place_id:ChIJK23-Zj6YcG4RJe5KhoC1Kxg",
       "name": "kisha Godfrey",
-      "text": "Davy came out and fixed my mothers well pump he was super quick and explained everything very well and he\u2019s one of the only people around here that knows anything about well pumps anymore. We greatly appreciate him and will definitely use him in the future!",
+      "text": "Davy came out and fixed my mothers well pump he was super quick and explained everything very well and he?s one of the only people around here that knows anything about well pumps anymore. We greatly appreciate him and will definitely use him in the future!",
       "textTranslated": null,
       "publishAt": "2 months ago",
       "publishedAtDate": "2024-10-17T21:52:41.086Z",
@@ -229,7 +229,7 @@
     {
       "searchString": "place_id:ChIJK23-Zj6YcG4RJe5KhoC1Kxg",
       "name": "Caleb Lovell",
-      "text": "Did an excellent job at my house with some shower and sink faucet issues. Punctual, and knowledgeable. You won\u2019t be disappointed.",
+      "text": "Did an excellent job at my house with some shower and sink faucet issues. Punctual, and knowledgeable. You won?t be disappointed.",
       "textTranslated": null,
       "publishAt": "5 months ago",
       "publishedAtDate": "2024-07-24T10:48:39.136Z",
@@ -245,7 +245,7 @@
       "stars": 5,
       "rating": null,
       "responseFromOwnerDate": "2024-07-24T17:40:11.000Z",
-      "responseFromOwnerText": "Thank you so much for giving us a call and trusting us to resolve your plumbing issues. We know having a new home can be such a blessing and a headache at the same time! We are grateful for your kind words and review and hope to be your continued \u201cgo to plumbing company\u201d Best Wishes!",
+      "responseFromOwnerText": "Thank you so much for giving us a call and trusting us to resolve your plumbing issues. We know having a new home can be such a blessing and a headache at the same time! We are grateful for your kind words and review and hope to be your continued ?go to plumbing company? Best Wishes!",
       "reviewImageUrls": [],
       "reviewContext": {},
       "reviewDetailedRating": {},
@@ -295,5 +295,22 @@
       "Commitment to using the latest techniques and high-quality materials for long-lasting solutions.",
       "Prompt response times and flexible scheduling to accommodate your busy schedule."
     ]
-  }
+  },
+  "businessName": "Ala-Ten Plumbing LLC",
+  "place_id": "ChIJK23-Zj6YcG4RJe5KhoC1Kxg",
+  "phone": "+1 256-993-8830",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.739951999999995,
+  "longitude": -86.74529249999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
