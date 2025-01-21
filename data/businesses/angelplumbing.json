@@ -370,7 +370,7 @@
     {
       "searchString": "place_id:ChIJ7W9lIJxsYogRoQm1yGwO5Ys",
       "name": "S W",
-      "text": "Highly recommend Larry and Angel Plumbing. Came out right away for our plumbing emergency. Super nice and reasonably priced. Will use again\u2019n",
+      "text": "Highly recommend Larry and Angel Plumbing. Came out right away for our plumbing emergency. Super nice and reasonably priced. Will use again?n",
       "textTranslated": null,
       "publishAt": "6 years ago",
       "publishedAtDate": "2018-10-11T18:32:35.876Z",
@@ -661,5 +661,22 @@
       "Prompt emergency response and same-day service to quickly resolve your plumbing issues.",
       "Commitment to using the latest techniques and equipment to provide efficient and long-lasting solutions."
     ]
-  }
+  },
+  "businessName": "angelplumbing",
+  "place_id": "ChIJ7W9lIJxsYogRoQm1yGwO5Ys",
+  "phone": "+1 256-539-0039",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.7014286,
+  "longitude": -86.65974949999999,
+  "categories": [],
+  "working_hours": {},
+  "rating": 4.4,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
