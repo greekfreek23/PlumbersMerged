@@ -41,5 +41,20 @@
       "State-of-the-art equipment and techniques, allowing us to tackle even the most challenging plumbing problems with precision and efficiency.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "place_id": "ChIJZVH9vCNZ9IgRaLJTdKWKdSY",
+  "phone": "+1 770-302-0128",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.731282,
+  "longitude": -84.32788839999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
