@@ -9,5 +9,23 @@
       "Customized solutions tailored to your unique requirements and preferences.",
       "Commitment to using high-quality materials and implementing best practices for long-lasting results."
     ]
-  }
+  },
+  "businessName": "DD&H SERVICES LLC",
+  "place_id": "ChIJk6Ohx1keiYgRlLMb5pxzGac",
+  "phone": "+1 205-276-1223",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
