@@ -293,7 +293,7 @@
     {
       "searchString": "place_id:ChIJq6qqqnoMYogRj1ivk0BVK7M",
       "name": "Michele Kennedy",
-      "text": "Anything Plumbing replaced our water heater.They were able to readily schedule our appointment, arrived promptly, were pleasant, communicative, skilled, and efficient.\u00a0 They charged a fair price for good honest work. Will call again for future plumbing needs.",
+      "text": "Anything Plumbing replaced our water heater.They were able to readily schedule our appointment, arrived promptly, were pleasant, communicative, skilled, and efficient.? They charged a fair price for good honest work. Will call again for future plumbing needs.",
       "textTranslated": null,
       "publishAt": "8 months ago",
       "publishedAtDate": "2024-04-22T00:37:37.016Z",
@@ -1496,7 +1496,7 @@
     {
       "searchString": "place_id:ChIJq6qqqnoMYogRj1ivk0BVK7M",
       "name": "Lydia White",
-      "text": "Our \u201cgo to\u201d people for plumbing. Always responsive, on time and very knowledgeable. Reasonable costs.  Would highly recommend for anything plumbing!",
+      "text": "Our ?go to? people for plumbing. Always responsive, on time and very knowledgeable. Reasonable costs.  Would highly recommend for anything plumbing!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-10-12T18:43:10.382Z",
@@ -2658,7 +2658,7 @@
     {
       "searchString": "place_id:ChIJq6qqqnoMYogRj1ivk0BVK7M",
       "name": "Jeff Case",
-      "text": "We had a \u201cwater\u201d leak, in the yard and after a couple of days of trying to decide if it was our neighbors or ours! We found it was ours, we then spent the next two days waiting on another plumbing company, that first called to come at 8 pm, to work in the yard. Too late to dig and see outside.They then didn\u2019t show up by 5 the next day, when we called , couldn\u2019t say when they were going to get to us.\nSo we moved on to Anything Plumbing, Jarrett and crew, showed up on time, diagnosed the problem, fixed it, and seemed fair in the price.  Not a big name brand, but I\u2019d call him again before I\u2019d call the others. Oct2019",
+      "text": "We had a ?water? leak, in the yard and after a couple of days of trying to decide if it was our neighbors or ours! We found it was ours, we then spent the next two days waiting on another plumbing company, that first called to come at 8 pm, to work in the yard. Too late to dig and see outside.They then didn?t show up by 5 the next day, when we called , couldn?t say when they were going to get to us.\nSo we moved on to Anything Plumbing, Jarrett and crew, showed up on time, diagnosed the problem, fixed it, and seemed fair in the price.  Not a big name brand, but I?d call him again before I?d call the others. Oct2019",
       "textTranslated": null,
       "publishAt": "5 years ago",
       "publishedAtDate": "2019-10-02T19:46:28.954Z",
@@ -3452,5 +3452,19 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to tackle any plumbing challenge.",
       "Commitment to customer satisfaction, delivering reliable and long-lasting solutions tailored to your specific needs."
     ]
-  }
+  },
+  "place_id": "ChIJq6qqqnoMYogRj1ivk0BVK7M",
+  "phone": "+1 256-684-9601",
+  "address": "3229 Maysville Rd NE, Huntsville, AL 35811",
+  "city": "Huntsville",
+  "state": "Alabama",
+  "postal_code": 35811,
+  "country": "United States of America",
+  "latitude": 34.7738196,
+  "longitude": -86.4310228,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "reviews": []
 }
