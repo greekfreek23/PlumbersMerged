@@ -112,5 +112,22 @@
       "Highly trained and knowledgeable technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
       "Commitment to professionalism, cleanliness, and clear communication throughout every job, ensuring a seamless experience."
     ]
-  }
+  },
+  "businessName": "AAA Plumbing",
+  "place_id": "ChIJd0LLkb2rNgYRZtx8ptPhIM8",
+  "phone": "+1 256-454-0265",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.762195,
+  "longitude": -85.8378286,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
