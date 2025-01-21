@@ -46,5 +46,22 @@
       "State-of-the-art equipment and techniques to diagnose and resolve even the most complex plumbing problems.",
       "Commitment to transparent pricing and exceptional customer service, ensuring your satisfaction every step of the way."
     ]
-  }
+  },
+  "businessName": "Sellers Emergency Plumber Repair",
+  "place_id": "ChIJCdKySlBHi0URSwEuIQK96T0",
+  "phone": "+1 251-900-6624",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
