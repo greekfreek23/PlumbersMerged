@@ -28,7 +28,7 @@
     },
     {
       "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipP9vuIDOZxwGH7cWjqNe0ENbSyJpa1HBLbbB1Oy=w2048-h2048-k-no",
-      "description": "This image captures the heart of our business \u2013 providing top-notch plumbing services. It showcases our ability to handle intricate plumbing systems, from water heaters to piping, ensuring reliable and efficient water supply for our customers.",
+      "description": "This image captures the heart of our business ? providing top-notch plumbing services. It showcases our ability to handle intricate plumbing systems, from water heaters to piping, ensuring reliable and efficient water supply for our customers.",
       "relevance": "This image is an excellent representation of our core plumbing services, showcasing our expertise and commitment to delivering high-quality solutions, making it a perfect fit for the About Us section."
     }
   ],
@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJTdlNKtFL9qUREKqQwnImuF8",
       "name": "QUAKE Of 76 GFM",
-      "text": "I called Nfinity Services around Christmas to service a hole in my ceiling. They came in a speedy manner and got the job done just as speedy. From plumbing to electrical\u2026he\u2019s your guy.",
+      "text": "I called Nfinity Services around Christmas to service a hole in my ceiling. They came in a speedy manner and got the job done just as speedy. From plumbing to electrical?he?s your guy.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-06-21T07:43:53.848Z",
@@ -150,5 +150,19 @@
       "Prompt and reliable emergency services available 24/7 to address urgent plumbing issues and minimize disruptions to your daily routine.",
       "Comprehensive range of plumbing solutions tailored to meet the unique needs of residential and commercial clients, ensuring a seamless and hassle-free experience."
     ]
-  }
+  },
+  "place_id": "ChIJTdlNKtFL9qUREKqQwnImuF8",
+  "phone": "+1 334-324-4482",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.2730289,
+  "longitude": -86.58164649999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
