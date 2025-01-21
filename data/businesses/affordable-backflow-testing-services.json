@@ -83,5 +83,19 @@
       "Transparent, upfront pricing with no hidden fees, including a $24.99 basic annual test option.",
       "Customer-friendly policies like not charging for failed tests and offering same-day payment options."
     ]
-  }
+  },
+  "place_id": "ChIJF6jmAHgRiYgRR7WsyJzfN1w",
+  "phone": "+1 205-585-0773",
+  "address": "1820 1st Ave S M, Irondale, AL 35210",
+  "city": "Irondale",
+  "state": "Alabama",
+  "postal_code": 35210,
+  "country": "United States of America",
+  "latitude": 33.5373621,
+  "longitude": -86.7085453,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"6:30AM-6:30PM\", \"Tuesday\": \"6:30AM-6:30PM\", \"Wednesday\": \"6:30AM-6:30PM\", \"Thursday\": \"6:30AM-6:30PM\", \"Friday\": \"6:30AM-6:30PM\", \"Saturday\": \"6:30AM-6:30PM\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": []
 }
