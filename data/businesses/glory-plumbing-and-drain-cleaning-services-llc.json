@@ -96,7 +96,7 @@
     {
       "searchString": "place_id:ChIJvWB2IN0ci4gR5cLLcxnI2Vo",
       "name": "Wakeelah Collier",
-      "text": "Love his work..Accurate,Knowledgeable and got the job done for a good price..5 \u2b50\ufe0f",
+      "text": "Love his work..Accurate,Knowledgeable and got the job done for a good price..5 ??",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-08-02T00:14:22.687Z",
@@ -282,7 +282,7 @@
     {
       "searchString": "place_id:ChIJvWB2IN0ci4gR5cLLcxnI2Vo",
       "name": "Rotesha Herron",
-      "text": "He was very professional. He finished at a timely fashion. It\u2019s very hard trying to find a reasonable plumber. I feel he is a very fair plumber!",
+      "text": "He was very professional. He finished at a timely fashion. It?s very hard trying to find a reasonable plumber. I feel he is a very fair plumber!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-01-20T22:01:49.727Z",
@@ -373,7 +373,7 @@
     },
     {
       "searchString": "place_id:ChIJvWB2IN0ci4gR5cLLcxnI2Vo",
-      "name": "Tiffany\u2019s Choice",
+      "name": "Tiffany?s Choice",
       "text": "This company is the BEST!!! Very professional, very clean, and very fast. He came in same day repaired a broken toilet and flange. He is the best in town!!!! HANDS DOWN!!!!",
       "textTranslated": null,
       "publishAt": "2 years ago",
@@ -512,7 +512,7 @@
     {
       "searchString": "place_id:ChIJvWB2IN0ci4gR5cLLcxnI2Vo",
       "name": "GARY YOUNG",
-      "text": "This is one of the best Plummer by Far. If he gives you a time trust me he's on point. His work is very professional and he does a great job. And don't mind explaining any questions you might have. I don't know about most people but being a home owner it's hard to find a professional Plummer. My search is over he is the real deal \ud83d\udcaf",
+      "text": "This is one of the best Plummer by Far. If he gives you a time trust me he's on point. His work is very professional and he does a great job. And don't mind explaining any questions you might have. I don't know about most people but being a home owner it's hard to find a professional Plummer. My search is over he is the real deal ?",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-09-14T03:31:59.855Z",
@@ -742,7 +742,7 @@
     {
       "searchString": "place_id:ChIJvWB2IN0ci4gR5cLLcxnI2Vo",
       "name": "Kristie Curtis",
-      "text": "The last company made a quick fix to stop our kitchen sink from clogging, but it came back and this company was referred to me.  They explained the issue, costs and made repairs in a timely manner.  They\u2019re thorough.",
+      "text": "The last company made a quick fix to stop our kitchen sink from clogging, but it came back and this company was referred to me.  They explained the issue, costs and made repairs in a timely manner.  They?re thorough.",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-07-19T06:54:01.654Z",
@@ -906,5 +906,22 @@
       "State-of-the-art equipment and techniques to diagnose and resolve even the most complex plumbing challenges.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect with no hidden fees."
     ]
-  }
+  },
+  "businessName": "Glory Plumbing and Drain Cleaning Services, Llc",
+  "place_id": "ChIJvWB2IN0ci4gR5cLLcxnI2Vo",
+  "phone": "+1 205-810-3147",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.5040329,
+  "longitude": -86.56812839999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5:30PM\", \"Tuesday\": \"7AM-5:30PM\", \"Wednesday\": \"7AM-5:30PM\", \"Thursday\": \"7AM-5:30PM\", \"Friday\": \"7AM-5:30PM\", \"Saturday\": \"7AM-5:30PM\", \"Sunday\": \"9AM-2PM\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
