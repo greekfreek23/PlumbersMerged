@@ -340,5 +340,19 @@
       "Meticulous attention to detail and a commitment to leaving every job site clean and organized.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "place_id": "ChIJR_n2VXXkgCkRTplRvnkaous",
+  "phone": "+1 256-309-7240",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.631774,
+  "longitude": -86.7596775,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
