@@ -4,7 +4,7 @@
     {
       "searchString": "place_id:ChIJHWZb98VGjIgRrNVqAQQkruU",
       "name": "Teresa Hutcheson",
-      "text": "Mr Derrick was called out for a water pressure problem we had from the original connection to the house.  He was prompt and courteous however instead of taking the original part off and replacing it he chose to do a by-pass. We have.a 1\u201d pipe coming from the meter to our house and he put a 3/4\u201d pressure valve. Because of this our water pressure problem wasn\u2019t fixed and today we had the correct part installed. Mr .Derrick was reasonable but didn\u2019t fix our issue.",
+      "text": "Mr Derrick was called out for a water pressure problem we had from the original connection to the house.  He was prompt and courteous however instead of taking the original part off and replacing it he chose to do a by-pass. We have.a 1? pipe coming from the meter to our house and he put a 3/4? pressure valve. Because of this our water pressure problem wasn?t fixed and today we had the correct part installed. Mr .Derrick was reasonable but didn?t fix our issue.",
       "textTranslated": null,
       "publishAt": "8 months ago",
       "publishedAtDate": "2024-04-17T02:43:03.173Z",
@@ -96,7 +96,7 @@
     {
       "searchString": "place_id:ChIJHWZb98VGjIgRrNVqAQQkruU",
       "name": "Janice Butler",
-      "text": "Derrick and partner were timely, professional and awesome with completion of repairs! Our world need more people of businesses who cares about the customer!! Five stars aren\u2019t enough, God Bless them!",
+      "text": "Derrick and partner were timely, professional and awesome with completion of repairs! Our world need more people of businesses who cares about the customer!! Five stars aren?t enough, God Bless them!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-11-16T16:58:50.683Z",
@@ -188,7 +188,7 @@
     {
       "searchString": "place_id:ChIJHWZb98VGjIgRrNVqAQQkruU",
       "name": "Karen Fugger",
-      "text": "Derrick and his assistant replaced my hot water heater today. They were efficient, professional, and friendly. I couldn\u2019t have asked for better service.\nThanks Guys!",
+      "text": "Derrick and his assistant replaced my hot water heater today. They were efficient, professional, and friendly. I couldn?t have asked for better service.\nThanks Guys!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-03-02T21:27:22.166Z",
@@ -374,7 +374,7 @@
     {
       "searchString": "place_id:ChIJHWZb98VGjIgRrNVqAQQkruU",
       "name": "Jeff Hammonds",
-      "text": "Mr. Derrick is awesome! His price was low but his quality of service was high. He was prompt and most importantly, honest. This man knows how to run a business. If you call anybody else other than Mr. Derrick for your plumbing needs, I hate to tell you but you\u2019re wrong. Make it easy on yourself and call this man first. Thank you so much! I got you saved in my contacts for the next plumbing mishap I have!",
+      "text": "Mr. Derrick is awesome! His price was low but his quality of service was high. He was prompt and most importantly, honest. This man knows how to run a business. If you call anybody else other than Mr. Derrick for your plumbing needs, I hate to tell you but you?re wrong. Make it easy on yourself and call this man first. Thank you so much! I got you saved in my contacts for the next plumbing mishap I have!",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-04-17T18:52:36.210Z",
@@ -562,7 +562,7 @@
     {
       "searchString": "place_id:ChIJHWZb98VGjIgRrNVqAQQkruU",
       "name": "Shelia Chambers",
-      "text": "Derrick repaired my bathroom shower faucet instead of replacing it. I\u2019m very happy with the results and it saved  me money. Will be calling him again when I need a plumber.",
+      "text": "Derrick repaired my bathroom shower faucet instead of replacing it. I?m very happy with the results and it saved  me money. Will be calling him again when I need a plumber.",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-02-25T23:01:47.715Z",
@@ -793,7 +793,7 @@
     {
       "searchString": "place_id:ChIJHWZb98VGjIgRrNVqAQQkruU",
       "name": "Cathi Niner",
-      "text": "Mr. Derrick and John came the day we called, resolved our pipe issue and installed a new p-trap. Extremely polite, professional and knowledgeable.  Call them when you need plumbing repairs-you won\u2019t be disappointed.",
+      "text": "Mr. Derrick and John came the day we called, resolved our pipe issue and installed a new p-trap. Extremely polite, professional and knowledgeable.  Call them when you need plumbing repairs-you won?t be disappointed.",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-08-28T16:01:43.692Z",
@@ -1772,5 +1772,22 @@
       "Expertise and professionalism: With our extensive knowledge and adherence to industry best practices, you can trust that your plumbing issues will be handled with the utmost care and professionalism.",
       "Comprehensive solutions: From routine maintenance to complex installations and emergency repairs, we offer a comprehensive range of plumbing services tailored to meet your specific requirements."
     ]
-  }
+  },
+  "businessName": "Cherokee Services Plumbing Co.",
+  "place_id": "ChIJHWZb98VGjIgRrNVqAQQkruU",
+  "phone": "+1 334-283-3249",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5712874,
+  "longitude": -85.922112,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"9AM-4PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.8,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
