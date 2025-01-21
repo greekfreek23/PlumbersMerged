@@ -41,5 +41,20 @@
       "Comprehensive range of services, from plumbing repairs to commercial electrical installations.",
       "Commitment to using the latest techniques and equipment for efficient and long-lasting solutions."
     ]
-  }
+  },
+  "place_id": "ChIJeUzmB1iKkogRmlLq5h8ybJI",
+  "phone": "+1 334-714-7139",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 31.3836114,
+  "longitude": -85.5978964,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.2,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
