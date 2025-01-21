@@ -41,5 +41,20 @@
       "Comprehensive repair services for all types and brands of torches and regulators.",
       "Convenient local service, ensuring prompt and efficient solutions for your equipment maintenance."
     ]
-  }
+  },
+  "place_id": "ChIJjViR6lCjiYgRcB7JunASUoQ",
+  "phone": "+1 205-681-4731",
+  "address": "3350 Deaver Walker Rd, Cleveland, AL 35049",
+  "city": "Cleveland",
+  "state": "Alabama",
+  "postal_code": 35049,
+  "country": "United States of America",
+  "latitude": 33.9198703,
+  "longitude": -86.65481199999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
