@@ -334,5 +334,19 @@
       "Comprehensive solutions backed by in-depth knowledge and cutting-edge techniques, guaranteeing long-lasting results.",
       "Personalized attention and transparent communication, fostering a trustworthy partnership throughout the entire process."
     ]
-  }
+  },
+  "place_id": "ChIJlbD4yhVpiYgRIczjr_o8mo4",
+  "phone": "+1 205-678-8084",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
