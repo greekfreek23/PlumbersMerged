@@ -45,5 +45,22 @@
       "Meticulous attention to detail and adherence to industry best practices for long-lasting results.",
       "Transparent pricing and clear communication throughout the entire process, eliminating surprises."
     ]
-  }
+  },
+  "businessName": "All American Septic and plumbing",
+  "place_id": "ChIJ65nejtER_4ARuj5aedw5mLc",
+  "phone": "+1 256-309-8672",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.5631229,
+  "longitude": -87.1057689,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
