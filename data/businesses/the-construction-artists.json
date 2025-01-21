@@ -132,7 +132,7 @@
     {
       "searchString": "place_id:ChIJ0492c2rthogRiPpawgB8Og0",
       "name": "Christine Burdick",
-      "text": "We just purchased a home in Columbus and needed a variety of work done from installing floodlights to installing a new dishwasher to assembling a trampoline and child\u2019s play set to assembling and hanging two porch swings to putting new hardware and shower heads in the bathrooms and a few other items. Mike did a great job. Did everything well and as promised. We will definitely use him again.",
+      "text": "We just purchased a home in Columbus and needed a variety of work done from installing floodlights to installing a new dishwasher to assembling a trampoline and child?s play set to assembling and hanging two porch swings to putting new hardware and shower heads in the bathrooms and a few other items. Mike did a great job. Did everything well and as promised. We will definitely use him again.",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-09-22T19:47:25.466Z",
@@ -376,7 +376,7 @@
     "dishwasher installation",
     "floodlights installation",
     "trampoline assembly",
-    "child\u2019s play set assembly",
+    "child?s play set assembly",
     "porch swings assembly",
     "hardware installation",
     "shower heads installation",
@@ -398,5 +398,19 @@
       "Prompt and courteous service, with a focus on minimizing disruptions and ensuring your complete satisfaction.",
       "Comprehensive solutions that address all your plumbing needs, from minor repairs to large-scale installations."
     ]
-  }
+  },
+  "place_id": "ChIJ0492c2rthogRiPpawgB8Og0",
+  "phone": "+1 662-505-5008",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.317561999999995,
+  "longitude": -88.46262899999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
