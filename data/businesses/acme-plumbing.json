@@ -79,18 +79,18 @@
       "Comprehensive range of services, from routine maintenance to complex installations, all delivered with meticulous attention to detail."
     ]
   },
-  "place_id": "ChIJacwYVAtrCWMRSZ0_OLClP1E",
+  "place_id": "ChIJtWwSyuoriIgRGPDT6QAE2Ss",
   "phone": "+1 256-655-8322",
   "address": "",
   "city": "",
   "state": "",
   "postal_code": "",
   "country": "",
-  "latitude": 34.6244154,
-  "longitude": -87.03392439999999,
+  "latitude": 34.631774,
+  "longitude": -86.7596775,
   "categories": [],
   "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
-  "rating": null,
+  "rating": 4.7,
   "reviews_count": 0,
   "reviews": []
 }
