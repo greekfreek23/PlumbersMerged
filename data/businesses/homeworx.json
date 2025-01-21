@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJce68Wq5CBwERoxOrUgi-93U",
       "name": "Joshua Purser",
-      "text": "Barry and his crew showed up early , knocked out a 200 foot fence for us in half a day . I\u2019m a very picky person , woth that being said . I couldn\u2019t find a flaw . These guys are as top notch as they come !",
+      "text": "Barry and his crew showed up early , knocked out a 200 foot fence for us in half a day . I?m a very picky person , woth that being said . I couldn?t find a flaw . These guys are as top notch as they come !",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-02-20T22:18:14.738Z",
@@ -103,5 +103,19 @@
       "Prompt and efficient service, with a focus on minimizing disruptions and ensuring your plumbing systems are functioning optimally.",
       "Comprehensive range of plumbing services, from routine maintenance and repairs to complex installations and renovations, all delivered with meticulous attention to detail."
     ]
-  }
+  },
+  "place_id": "ChIJce68Wq5CBwERoxOrUgi-93U",
+  "phone": "+1 256-566-9771",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.4853404,
+  "longitude": -87.2828579,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
