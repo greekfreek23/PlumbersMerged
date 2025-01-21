@@ -1372,5 +1372,19 @@
       "Comprehensive solutions tailored to your specific plumbing requirements, whether it's a minor repair or a major installation.",
       "Meticulous attention to detail and a dedication to quality workmanship, ensuring long-lasting results you can trust."
     ]
-  }
+  },
+  "place_id": "ChIJ2wJJi-Tzi4gRRgqJjT8A7bw",
+  "phone": "+1 256-267-6012",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.1381619,
+  "longitude": -86.0484249,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.5,
+  "reviews_count": 0,
+  "reviews": []
 }
