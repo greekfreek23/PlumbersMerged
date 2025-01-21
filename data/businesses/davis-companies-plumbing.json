@@ -71,5 +71,22 @@
       "Prompt and efficient service, with a commitment to minimizing disruptions and ensuring your complete satisfaction.",
       "Comprehensive range of plumbing services, from routine maintenance to complex installations and repairs, all delivered with precision and attention to detail."
     ]
-  }
+  },
+  "businessName": "Davis Companies Plumbing",
+  "place_id": "ChIJC0f65ObniIgRzrBmtxKF-oY",
+  "phone": "+1 205-281-6844",
+  "address": "3515 Virginia Dr, Bessemer, AL 35023",
+  "city": "Bessemer",
+  "state": "Alabama",
+  "postal_code": 35023,
+  "country": "United States of America",
+  "latitude": 33.4226404,
+  "longitude": -87.05559799999999,
+  "categories": [],
+  "working_hours": {},
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
