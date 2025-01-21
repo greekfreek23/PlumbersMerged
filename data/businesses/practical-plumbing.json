@@ -367,5 +367,19 @@
       "We prioritize customer satisfaction by providing transparent communication, fair pricing, and meticulous attention to detail on every job.",
       "As a local business, we understand the unique needs of our community and are dedicated to delivering personalized solutions tailored to your specific requirements."
     ]
-  }
+  },
+  "place_id": "ChIJ8VMgarFMkS8RqyP0BUKMSg8",
+  "phone": "+1 205-514-5322",
+  "address": "2097 Clevet Springs Rd, Hayden, AL 35079",
+  "city": "Hayden",
+  "state": "Alabama",
+  "postal_code": 35079,
+  "country": "United States of America",
+  "latitude": 33.8958406,
+  "longitude": -86.7684735,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
