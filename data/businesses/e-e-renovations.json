@@ -41,5 +41,20 @@
       "Comprehensive plumbing solutions tailored to your specific needs, from minor repairs to major renovations.",
       "Highly trained and certified technicians equipped with the latest tools and techniques to tackle any plumbing challenge."
     ]
-  }
+  },
+  "place_id": "ChIJK5jCiD3_B0oRAVuHwqd0CYI",
+  "phone": "+1 205-641-0235",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.3486894,
+  "longitude": -86.7315306,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
