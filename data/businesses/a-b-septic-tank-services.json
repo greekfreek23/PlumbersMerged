@@ -41,5 +41,20 @@
       "Comprehensive range of services, from septic tank pumping and installation to sewer line construction and grease trap cleaning.",
       "Prompt and efficient service, backed by over three decades of experience in the local community."
     ]
-  }
+  },
+  "place_id": "ChIJr9SLv2FgmogRF2bYeeINqqo",
+  "phone": "+1 251-937-7609",
+  "address": "10807 Charlie Hodges Rd, Bay Minette, AL 36507",
+  "city": "Bay Minette",
+  "state": "Alabama",
+  "postal_code": 36507,
+  "country": "United States of America",
+  "latitude": 30.8330926,
+  "longitude": -87.8388013,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+  "rating": 4.4,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
