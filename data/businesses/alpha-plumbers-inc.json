@@ -78,5 +78,19 @@
       "Rapid response times and 24/7 emergency service availability to address urgent plumbing issues promptly.",
       "Commitment to using the latest techniques and state-of-the-art equipment to ensure efficient and long-lasting solutions."
     ]
-  }
+  },
+  "place_id": "ChIJNVITTC0dm4gRk-K2KS9nBo4",
+  "phone": "+1 251-222-2461",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.6871276,
+  "longitude": -87.9746254,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": []
 }
