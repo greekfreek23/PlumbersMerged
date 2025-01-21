@@ -163,5 +163,19 @@
       "Comprehensive range of services, from residential plumbing repairs to commercial water supply system installations.",
       "Personalized attention and tailored solutions to address your specific plumbing requirements."
     ]
-  }
+  },
+  "place_id": "ChIJsQtuozkNiYgRzhO4ZZJJNA0",
+  "phone": "+1 205-577-6339",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 46.423669,
+  "longitude": -129.9427086,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-3PM\", \"Sunday\": \"Closed\"}",
+  "rating": 1,
+  "reviews_count": 0,
+  "reviews": []
 }
