@@ -358,7 +358,7 @@
     {
       "searchString": "place_id:ChIJfdOG8T8JmogRDK58vX5gMSk",
       "name": "Scott Marshall",
-      "text": "Had water Emergency while visiting at my Moms house even though I\u2019m very handy was out of range of my skills and  required a professional. Her hallway was flooding with water. Plumber (Josh) got here fast and did a great job of fixing the problem. Bless His heart he even crawled in the attic for me to check for leaks from shower pipes. Very knowledgeable and explained what he was doing. Josh you are the best, made me feel safe and checked all her plumbing so i didn't have to worry about something happening while i wasn\u2019t there. Tell your boss I said you deserve a raise.",
+      "text": "Had water Emergency while visiting at my Moms house even though I?m very handy was out of range of my skills and  required a professional. Her hallway was flooding with water. Plumber (Josh) got here fast and did a great job of fixing the problem. Bless His heart he even crawled in the attic for me to check for leaks from shower pipes. Very knowledgeable and explained what he was doing. Josh you are the best, made me feel safe and checked all her plumbing so i didn't have to worry about something happening while i wasn?t there. Tell your boss I said you deserve a raise.",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-05-16T18:05:48.081Z",
@@ -485,5 +485,19 @@
       "Highly trained and experienced technicians equipped with the latest tools and techniques to tackle even the most complex plumbing challenges.",
       "Upfront pricing with a flat-rate trip charge, providing transparency and peace of mind for every service call."
     ]
-  }
+  },
+  "place_id": "ChIJfdOG8T8JmogRDK58vX5gMSk",
+  "phone": "+1 251-600-9868",
+  "address": "10589 Kenneth Lee Ln, Elberta, AL 36530",
+  "city": "Elberta",
+  "state": "Alabama",
+  "postal_code": 36530,
+  "country": "United States of America",
+  "latitude": 30.3789789,
+  "longitude": -87.55770079999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.5,
+  "reviews_count": 0,
+  "reviews": []
 }
