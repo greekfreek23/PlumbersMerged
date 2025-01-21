@@ -199,5 +199,19 @@
   "last60": 0,
   "last90": 0,
   "last180": 0,
-  "last365": 0
+  "last365": 0,
+  "place_id": "ChIJ45FDOfVDXyARRKuvgsFR0a0",
+  "phone": "+1 205-758-6237",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.2868815,
+  "longitude": -87.4521089,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
