@@ -48,8 +48,8 @@
     },
     {
       "searchString": "place_id:ChIJU43tre4TmogRL7dsNoUTbU8",
-      "name": "Jenn \u201cJenn Lee\u201d Lee",
-      "text": "We\u2019ve hired Josh and his crew several times over the years and every time they have shown up on time, performed the work in a professional manner and very reasonably priced! Local guys who love their community and show that pride in their work.",
+      "name": "Jenn ?Jenn Lee? Lee",
+      "text": "We?ve hired Josh and his crew several times over the years and every time they have shown up on time, performed the work in a professional manner and very reasonably priced! Local guys who love their community and show that pride in their work.",
       "textTranslated": null,
       "publishAt": "6 days ago",
       "publishedAtDate": "2025-01-09T15:30:54.537Z",
@@ -139,7 +139,7 @@
     {
       "searchString": "place_id:ChIJU43tre4TmogRL7dsNoUTbU8",
       "name": "Dee Nichols",
-      "text": "One late night in November, I experienced that the pressure in my hot water line wasn\u2019t the same as usual. Well after checking everywhere inside my home, I discovered that I indeed had an awful hot water line leak under my home in its crawl space. What\u2019s a girl to do? Well call her granny of course! Granny gives me a referral to a Graham Plumbing, and I am so happy she did! I couldn\u2019t praise the gentlemen that came to my rescue long enough. From start to finish there was no disappointment. Pricing is definitely reasonable. I will forever be calling Graham for all my plumbing needs. :)",
+      "text": "One late night in November, I experienced that the pressure in my hot water line wasn?t the same as usual. Well after checking everywhere inside my home, I discovered that I indeed had an awful hot water line leak under my home in its crawl space. What?s a girl to do? Well call her granny of course! Granny gives me a referral to a Graham Plumbing, and I am so happy she did! I couldn?t praise the gentlemen that came to my rescue long enough. From start to finish there was no disappointment. Pricing is definitely reasonable. I will forever be calling Graham for all my plumbing needs. :)",
       "textTranslated": null,
       "publishAt": "a month ago",
       "publishedAtDate": "2024-11-17T04:08:09.786Z",
@@ -249,5 +249,22 @@
       "Prompt and efficient service, with a commitment to minimizing disruptions and ensuring timely project completion.",
       "Comprehensive range of plumbing services, from routine maintenance to complex installations and emergency repairs."
     ]
-  }
+  },
+  "businessName": "Graham Plumbing Repair",
+  "place_id": "ChIJU43tre4TmogRL7dsNoUTbU8",
+  "phone": "+1 251-979-6026",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.4681706,
+  "longitude": -87.7064702,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
