@@ -463,7 +463,7 @@
     {
       "searchString": "place_id:ChIJ26sTG-XOjIgRv3bDOm8PX_I",
       "name": "Chelsea Messer",
-      "text": "I was home at the time they came out. Seem very rude even i understand we all have bad days so I\u2019m not taking it to heart. Then knocks on my door says it\u2019s gonna be extra $50 to dig up I was like ok but ain\u2019t that y\u2019all job you\u2019re charging to dig it up mhm. Didn\u2019t even flatten it back down also and smells bad in our backyard. Then comes to my door asking if I was paying them I said no my parents called y\u2019all out here, you will get your money. Anyways they get done and both them leave out my back yard remind you if you came in with the gate shut shouldn\u2019t you close it when you leave? Very disappointed. Not only did I found that out I get phone call 2 miles up the road my dog got out you know on 240 cars go fast they don\u2019t care if they hit dog that is family to us I\u2019m not the one call someone out I tend leave it alone. But my dog could have got hit by a car thanks to y\u2019all. Please learn to shut gates you go in next time.I know y\u2019all got my voicemail but we all know you\u2019re not gonna say you\u2019re sorry for the mistake. Do better next time please.",
+      "text": "I was home at the time they came out. Seem very rude even i understand we all have bad days so I?m not taking it to heart. Then knocks on my door says it?s gonna be extra $50 to dig up I was like ok but ain?t that y?all job you?re charging to dig it up mhm. Didn?t even flatten it back down also and smells bad in our backyard. Then comes to my door asking if I was paying them I said no my parents called y?all out here, you will get your money. Anyways they get done and both them leave out my back yard remind you if you came in with the gate shut shouldn?t you close it when you leave? Very disappointed. Not only did I found that out I get phone call 2 miles up the road my dog got out you know on 240 cars go fast they don?t care if they hit dog that is family to us I?m not the one call someone out I tend leave it alone. But my dog could have got hit by a car thanks to y?all. Please learn to shut gates you go in next time.I know y?all got my voicemail but we all know you?re not gonna say you?re sorry for the mistake. Do better next time please.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-11-17T19:40:05.689Z",
@@ -932,7 +932,7 @@
     {
       "searchString": "place_id:ChIJ26sTG-XOjIgRv3bDOm8PX_I",
       "name": "Bumble Bee",
-      "text": "These guys were friendly and they did an exceptional job and took time to explain what the problem was. I felt so relieved to know that when they were done, my problem was solved.  If ever needed, I\u2019m calling them again and I recommend them to anyone as well.",
+      "text": "These guys were friendly and they did an exceptional job and took time to explain what the problem was. I felt so relieved to know that when they were done, my problem was solved.  If ever needed, I?m calling them again and I recommend them to anyone as well.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-03-12T20:41:11.872Z",
@@ -3009,5 +3009,22 @@
       "State-of-the-art equipment and techniques, ensuring efficient and effective septic system maintenance and repairs.",
       "Comprehensive range of services, from routine pumping to complex system installations, all under one trusted provider."
     ]
-  }
+  },
+  "businessName": "Royal Flush Septic Tank Pumping Company",
+  "place_id": "ChIJ26sTG-XOjIgRv3bDOm8PX_I",
+  "phone": "+1 334-480-0960",
+  "address": "118 Co Rd 222, Smiths Station, AL 36877",
+  "city": "Smiths Station",
+  "state": "Alabama",
+  "postal_code": 36877,
+  "country": "United States of America",
+  "latitude": 32.5060811,
+  "longitude": -85.06940449999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"Closed\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
