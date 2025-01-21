@@ -338,7 +338,7 @@
     {
       "searchString": "place_id:ChIJrzMrUj1CsmwRMAhIuCm_r-c",
       "name": "Patricia Hughes",
-      "text": "We have used Wynn Construction a few times now and will definitely use them again. We were put in touch with the owner Chris to get our land cleared. He then was able to put in concrete posts for our arched cabin to built on top of. Not only that he and his employees helped us erect the frame of our cabin and framed part of the house. They were so nice and punctual and worked extremely hard. We have them down to put in our septic system when we\u2019re ready. They are honest and very reasonably priced. And last but not the least they are just extremely funny and just enjoyable to work with. I would recommend them to anyone \ud83d\udcaf!",
+      "text": "We have used Wynn Construction a few times now and will definitely use them again. We were put in touch with the owner Chris to get our land cleared. He then was able to put in concrete posts for our arched cabin to built on top of. Not only that he and his employees helped us erect the frame of our cabin and framed part of the house. They were so nice and punctual and worked extremely hard. We have them down to put in our septic system when we?re ready. They are honest and very reasonably priced. And last but not the least they are just extremely funny and just enjoyable to work with. I would recommend them to anyone ?!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-10-20T01:39:34.304Z",
@@ -397,7 +397,7 @@
     {
       "searchString": "place_id:ChIJrzMrUj1CsmwRMAhIuCm_r-c",
       "name": "Ryan Evans",
-      "text": "Great, hard-working, honest folks! Best prices around on septic installs and repairs! You can\u2019t go wrong with Wynn construction!",
+      "text": "Great, hard-working, honest folks! Best prices around on septic installs and repairs! You can?t go wrong with Wynn construction!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-09-20T23:14:35.553Z",
@@ -472,5 +472,19 @@
       "Comprehensive plumbing solutions backed by cutting-edge techniques and state-of-the-art equipment.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect."
     ]
-  }
+  },
+  "place_id": "ChIJrzMrUj1CsmwRMAhIuCm_r-c",
+  "phone": "+1 256-609-8157",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.605009599999995,
+  "longitude": -86.2522125,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5:30PM\", \"Tuesday\": \"7AM-5:30PM\", \"Wednesday\": \"7AM-5:30PM\", \"Thursday\": \"7AM-5:30PM\", \"Friday\": \"7AM-5:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
