@@ -872,5 +872,19 @@
       "Fully licensed and insured for your protection and our accountability",
       "Comprehensive plumbing solutions tailored to your specific needs"
     ]
-  }
+  },
+  "place_id": "ChIJkcb1yd-0jIgRRzV2S_ksF8I",
+  "phone": "+1 706-322-2159",
+  "address": "37 Fortson Rd, Fortson, GA 31808",
+  "city": "Fortson",
+  "state": "Georgia",
+  "postal_code": 31808,
+  "country": "United States of America",
+  "latitude": 32.665036,
+  "longitude": -84.95871,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "reviews": []
 }
