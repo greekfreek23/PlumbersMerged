@@ -70,5 +70,22 @@
       "Comprehensive range of installation services, from plumbing and gas fitting to specialized solutions, all delivered with meticulous attention to detail.",
       "Commitment to using top-quality materials and cutting-edge techniques, guaranteeing long-lasting and efficient installations that stand the test of time."
     ]
-  }
+  },
+  "businessName": "True Trim Installation Services",
+  "place_id": "ChIJs6NOsy37hogRzZvj4PFzOQI",
+  "phone": "+1 662-769-5059",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.6235134,
+  "longitude": -88.11872699999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
