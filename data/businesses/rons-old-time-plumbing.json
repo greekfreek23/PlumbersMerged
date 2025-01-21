@@ -17,7 +17,7 @@
     {
       "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipParMsK-nhW8eUZ3D931OwKUNERkrWe9dcQACO5=w2048-h2048-k-no",
       "description": "A well-branded service van from Ron's Old Time Plumbing, showcasing the company's professional image and commitment to quality service.",
-      "callToAction": "Experience the difference with Ron's Old Time Plumbing \u2013 licensed, bonded, and insured for your peace of mind."
+      "callToAction": "Experience the difference with Ron's Old Time Plumbing ? licensed, bonded, and insured for your peace of mind."
     }
   ],
   "aboutUsSection": [
@@ -148,7 +148,7 @@
     {
       "searchString": "place_id:ChIJq6qqqvqPjogRsErcd7JmEmY",
       "name": "Stephanie Moeller",
-      "text": "I called to have my gas logs started. He and his helper cleaned the apparatus and lit the pilot light. Afterwards they could not replace the logs properly. I had previously asked for a price quote but he said he would find out. He sent his helper in with a bill of $375. Yes $375. I asked what I was specifically charged for. The helper did not know. Ron came in and said he was giving me a discount. I couldn\u2019t believe this was happening. He became angry, threatened to disconnect my gas and said don\u2019t pay me anything! He then paused and asked if I was going to pay him anything. I thought $125 was fair and paid him that.I had to threaten to call the gas company to finally get them to leave. I am also looking into seeing how to report him to the better business bureau along with anything else to warn consumers of his tactics.",
+      "text": "I called to have my gas logs started. He and his helper cleaned the apparatus and lit the pilot light. Afterwards they could not replace the logs properly. I had previously asked for a price quote but he said he would find out. He sent his helper in with a bill of $375. Yes $375. I asked what I was specifically charged for. The helper did not know. Ron came in and said he was giving me a discount. I couldn?t believe this was happening. He became angry, threatened to disconnect my gas and said don?t pay me anything! He then paused and asked if I was going to pay him anything. I thought $125 was fair and paid him that.I had to threaten to call the gas company to finally get them to leave. I am also looking into seeing how to report him to the better business bureau along with anything else to warn consumers of his tactics.",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2022-01-03T21:30:07.373Z",
@@ -559,5 +559,19 @@
       "Transparent pricing with no hidden fees, ensuring you know the cost upfront.",
       "Comprehensive range of services, from routine maintenance to complex installations."
     ]
-  }
+  },
+  "place_id": "ChIJq6qqqvqPjogRsErcd7JmEmY",
+  "phone": "+1 205-288-7198",
+  "address": "Prattville, AL 36066",
+  "city": "Prattville",
+  "state": "Alabama",
+  "postal_code": 36066,
+  "country": "United States of America",
+  "latitude": 32.4754941,
+  "longitude": -86.4288534,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.6,
+  "reviews_count": 0,
+  "reviews": []
 }
