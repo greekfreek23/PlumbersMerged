@@ -105,7 +105,7 @@
       "stars": 1,
       "rating": null,
       "responseFromOwnerDate": "2024-02-16T15:30:48.000Z",
-      "responseFromOwnerText": "MCB, we are concerned by your review and would like to clarify that it was Triple B Plumbing from Decatur Alabama that did your work. We don\u2019t have any young men in our employment nor would we charge an amount that requires change. We strive to provide the best service possible and would like to discuss this further. Please reach out to us at Russell@triplebplumbing.net",
+      "responseFromOwnerText": "MCB, we are concerned by your review and would like to clarify that it was Triple B Plumbing from Decatur Alabama that did your work. We don?t have any young men in our employment nor would we charge an amount that requires change. We strive to provide the best service possible and would like to discuss this further. Please reach out to us at Russell@triplebplumbing.net",
       "reviewImageUrls": [],
       "reviewContext": {},
       "reviewDetailedRating": {},
@@ -140,7 +140,7 @@
     {
       "searchString": "place_id:ChIJh7m_Fz-FYogRbsc8IkwOHko",
       "name": "Felicia Terry",
-      "text": "Wonderful crew. Got the job done quick and didn\u2019t break the bank! Thanks guys",
+      "text": "Wonderful crew. Got the job done quick and didn?t break the bank! Thanks guys",
       "textTranslated": null,
       "publishAt": "11 months ago",
       "publishedAtDate": "2024-01-24T14:13:43.461Z",
@@ -309,5 +309,19 @@
       "Prompt and reliable service, with a commitment to arriving on time and completing projects efficiently without compromising quality.",
       "Transparent pricing and upfront cost estimates, ensuring you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "place_id": "ChIJh7m_Fz-FYogRbsc8IkwOHko",
+  "phone": "+1 256-808-8355",
+  "address": "1629 4th Ave SE, Decatur, AL 35601",
+  "city": "Decatur",
+  "state": "Alabama",
+  "postal_code": 35601,
+  "country": "United States of America",
+  "latitude": 34.581876699999995,
+  "longitude": -86.98344519999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+  "rating": 4.2,
+  "reviews_count": 0,
+  "reviews": []
 }
