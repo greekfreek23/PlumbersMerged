@@ -96,7 +96,7 @@
     {
       "searchString": "place_id:ChIJT5nx4LIGiYgRTU1qzEcrars",
       "name": "Shelia Douglas",
-      "text": "Pickle Septic is top notch company. They have done work for me and my mom. Their work is amazing. Highly recommend this company for septic tank work. \ud83d\udc4d\ud83d\udc4d",
+      "text": "Pickle Septic is top notch company. They have done work for me and my mom. Their work is amazing. Highly recommend this company for septic tank work. ??",
       "textTranslated": null,
       "publishAt": "5 months ago",
       "publishedAtDate": "2024-08-12T23:04:12.826Z",
@@ -234,7 +234,7 @@
     {
       "searchString": "place_id:ChIJT5nx4LIGiYgRTU1qzEcrars",
       "name": "Marilyn Mahon",
-      "text": "Judd and his assistant (didn\u2019t get his name), did an outstanding job on our septic tank.  Kept me in the know about arrival time, and so polite and professional.  Great job, guys!  Highly recommend.",
+      "text": "Judd and his assistant (didn?t get his name), did an outstanding job on our septic tank.  Kept me in the know about arrival time, and so polite and professional.  Great job, guys!  Highly recommend.",
       "textTranslated": null,
       "publishAt": "7 months ago",
       "publishedAtDate": "2024-05-21T18:43:28.307Z",
@@ -372,7 +372,7 @@
     {
       "searchString": "place_id:ChIJT5nx4LIGiYgRTU1qzEcrars",
       "name": "Jake Hodges",
-      "text": "I give Pickle Septic Tank & Plumbing five stars for the outstanding service they provided me. In the past, I had a different septic tank service come out for a pump out. After few minutes, they told me that tank was under my driveway and they couldn\u2019t help me. Devin and his crew were servicing my son\u2019s tank and I mention this experience to him. He assured me that he could help me. After investigation, he discovered that my tank was NOT under the drive. He serviced the tank and it is now operating properly. In addition, my son was very pleased with his service. I highly recommend Pickle, first class service!",
+      "text": "I give Pickle Septic Tank & Plumbing five stars for the outstanding service they provided me. In the past, I had a different septic tank service come out for a pump out. After few minutes, they told me that tank was under my driveway and they couldn?t help me. Devin and his crew were servicing my son?s tank and I mention this experience to him. He assured me that he could help me. After investigation, he discovered that my tank was NOT under the drive. He serviced the tank and it is now operating properly. In addition, my son was very pleased with his service. I highly recommend Pickle, first class service!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2024-01-11T19:56:32.373Z",
@@ -558,7 +558,7 @@
     {
       "searchString": "place_id:ChIJT5nx4LIGiYgRTU1qzEcrars",
       "name": "Randy Simmons",
-      "text": "Judd and Steven came out today to clean out my septic tank they arrived on time was very polite and explained what they did and gave advice on how to deal with a root situation that was just starting would have gave them each a cold Coors light if they wasn\u2019t on duty would recommend Pickle and these two guys to anyone thank",
+      "text": "Judd and Steven came out today to clean out my septic tank they arrived on time was very polite and explained what they did and gave advice on how to deal with a root situation that was just starting would have gave them each a cold Coors light if they wasn?t on duty would recommend Pickle and these two guys to anyone thank",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-09-11T16:18:25.421Z",
@@ -888,7 +888,7 @@
     {
       "searchString": "place_id:ChIJT5nx4LIGiYgRTU1qzEcrars",
       "name": "Karly Rogers",
-      "text": "My first experience with Pickle Plumbing was incredible!! They were kind, efficient, professional and took the time to explain what was going on. Couldn\u2019t recommend them more!!",
+      "text": "My first experience with Pickle Plumbing was incredible!! They were kind, efficient, professional and took the time to explain what was going on. Couldn?t recommend them more!!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-05-16T18:10:15.618Z",
@@ -2120,5 +2120,22 @@
       "Comprehensive range of services, from septic system maintenance to complex plumbing installations.",
       "Prompt and reliable service, with a focus on minimizing disruptions and ensuring customer satisfaction."
     ]
-  }
+  },
+  "businessName": "Pickle Septic Tank and Plumbing",
+  "place_id": "ChIJT5nx4LIGiYgRTU1qzEcrars",
+  "phone": "+1 205-631-8073",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.544616,
+  "longitude": -86.92918,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
