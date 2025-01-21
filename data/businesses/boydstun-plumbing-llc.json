@@ -82,7 +82,7 @@
     {
       "searchString": "place_id:ChIJU2euNoRnYogRFJlGAQtnCqo",
       "name": "Liah C",
-      "text": "Great plumbing business. Very knowledgeable, patient and kind. 100 percent guaranteed to get the job done accurately, punctually , the first time! Look no further for a great plumber, you\u2019ve found them here!!!!",
+      "text": "Great plumbing business. Very knowledgeable, patient and kind. 100 percent guaranteed to get the job done accurately, punctually , the first time! Look no further for a great plumber, you?ve found them here!!!!",
       "textTranslated": null,
       "publishAt": "9 months ago",
       "publishedAtDate": "2024-04-08T23:27:55.703Z",
@@ -332,5 +332,19 @@
       "Prompt response times and emergency services to address your plumbing needs promptly.",
       "Transparent pricing and upfront cost estimates, ensuring no hidden fees."
     ]
-  }
+  },
+  "place_id": "ChIJU2euNoRnYogRFJlGAQtnCqo",
+  "phone": "+1 256-400-9606",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.754010099999995,
+  "longitude": -86.760846,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
