@@ -284,8 +284,8 @@
     {
       "searchString": "place_id:ChIJs1RV9ukeiYgR5aWQh3xeKYg",
       "name": "Hilario Rodriguez",
-      "text": "Ching\u00f3 es mi trabajo",
-      "textTranslated": "Ching\u00f3 is my job",
+      "text": "Ching? es mi trabajo",
+      "textTranslated": "Ching? is my job",
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-08-31T12:27:38.685Z",
       "likesCount": 0,
@@ -395,7 +395,7 @@
     },
     {
       "searchString": "place_id:ChIJs1RV9ukeiYgR5aWQh3xeKYg",
-      "name": "Hilario Rodr\u00edguez",
+      "name": "Hilario Rodr?guez",
       "text": null,
       "textTranslated": null,
       "publishAt": "6 years ago",
@@ -583,5 +583,22 @@
       "Highly trained technicians with specialized certifications in fire alarm systems and hazard mitigation.",
       "Prompt and reliable emergency response, ensuring your safety is our top priority."
     ]
-  }
+  },
+  "businessName": "Central Fire Protection",
+  "place_id": "ChIJs1RV9ukeiYgR5aWQh3xeKYg",
+  "phone": "+1 205-315-9767",
+  "address": "41 W Park Cir, Birmingham, AL 35211",
+  "city": "Birmingham",
+  "state": "Alabama",
+  "postal_code": 35211,
+  "country": "United States of America",
+  "latitude": 33.4591727,
+  "longitude": -86.8424058,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.2,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
