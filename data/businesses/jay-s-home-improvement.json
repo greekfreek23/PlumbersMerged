@@ -1,0 +1,16 @@
+{
+  "businessName": "Jay's Home Improvement",
+  "place_id": "ChIJja101ZNrYogR8144Ftw2PGM",
+  "phone": "+1 256-945-2548",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.567972,
+  "longitude": -89.3886869,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.5,
+  "reviews_count": 0
+}
