@@ -46,5 +46,22 @@
       "Prompt and reliable service, with a focus on minimizing disruptions and ensuring your complete satisfaction.",
       "Comprehensive solutions that address the root cause of your plumbing issues, ensuring lasting repairs and preventing future problems."
     ]
-  }
+  },
+  "businessName": "Southern Waters Plumbing LLC",
+  "place_id": "ChIJ2XFFEfl4LGkRbBAiBhBQKTE",
+  "phone": "+1 251-979-5851",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.6148588,
+  "longitude": -87.5644585,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"9AM-5PM\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
