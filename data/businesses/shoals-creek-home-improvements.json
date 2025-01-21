@@ -211,5 +211,22 @@
       "Comprehensive range of services, from routine plumbing repairs to complete bathroom and kitchen remodels.",
       "Commitment to using only the highest-quality materials and cutting-edge techniques for long-lasting results."
     ]
-  }
+  },
+  "businessName": "Shoals Creek Home Improvements",
+  "place_id": "ChIJhz9Skjc3mq4R87fVIFSl8b8",
+  "phone": "+1 256-702-3845",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.84768,
+  "longitude": -87.7068589,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"7AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
