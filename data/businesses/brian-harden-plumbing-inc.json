@@ -154,5 +154,19 @@
       "Comprehensive range of services, from routine maintenance to complex installations and repairs.",
       "Commitment to prompt response times and efficient project completion."
     ]
-  }
+  },
+  "place_id": "ChIJ7U09VnK1m4gRzof1GJ1x-r4",
+  "phone": "+1 251-973-2234",
+  "address": "7465 Oak Dr W, Theodore, AL 36582",
+  "city": "Theodore",
+  "state": "Alabama",
+  "postal_code": 36582,
+  "country": "United States of America",
+  "latitude": 30.5356351,
+  "longitude": -88.1992606,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
