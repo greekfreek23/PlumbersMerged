@@ -158,18 +158,18 @@
       "Commitment to using high-quality materials and implementing industry-best practices for long-lasting results."
     ]
   },
-  "place_id": "ChIJp86iXmow30cRTLbe4F_XGiQ",
+  "place_id": "ChIJz8NIJgDvW0kRjylwekVtpxM",
   "phone": "+1 256-755-2448",
   "address": "",
   "city": "",
   "state": "",
   "postal_code": "",
   "country": "",
-  "latitude": 34.733999,
-  "longitude": -86.68066549999999,
+  "latitude": 34.651859,
+  "longitude": -86.7672034,
   "categories": [],
   "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
-  "rating": 3,
+  "rating": null,
   "reviews_count": 0,
   "reviews": []
 }
