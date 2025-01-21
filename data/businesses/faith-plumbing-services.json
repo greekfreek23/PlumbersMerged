@@ -1041,5 +1041,22 @@
       "Comprehensive range of services, from remodels to repairs and maintenance, all under one roof.",
       "Personalized solutions tailored to your specific needs and preferences, ensuring optimal results."
     ]
-  }
+  },
+  "businessName": "Faith Plumbing Services",
+  "place_id": "ChIJqReQPqntjogRUARiTdp8MU4",
+  "phone": "+1 334-361-1418",
+  "address": "1386 US-82 W, Prattville, AL 36067",
+  "city": "Prattville",
+  "state": "Alabama",
+  "postal_code": 36067,
+  "country": "United States of America",
+  "latitude": 32.471342799999995,
+  "longitude": -86.5102543,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.8,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
