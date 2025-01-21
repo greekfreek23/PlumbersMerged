@@ -142,7 +142,7 @@
     {
       "searchString": "place_id:ChIJHQFmsCw1iYgRDMnSSMLiDZk",
       "name": "Jonathan Barber",
-      "text": "Had a sudden leak at the main water supply entering the house.  Called Cox plumbing. They were available and arrived within an hour.  They explained the process and had it fixed within an hour.  New line needed from outside through the wall to interior shut off.  Good price and fantastic service.  I\u2019ll definitely use Cox Plumbing again.  Very pleased.",
+      "text": "Had a sudden leak at the main water supply entering the house.  Called Cox plumbing. They were available and arrived within an hour.  They explained the process and had it fixed within an hour.  New line needed from outside through the wall to interior shut off.  Good price and fantastic service.  I?ll definitely use Cox Plumbing again.  Very pleased.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-10-11T19:19:30.065Z",
@@ -355,7 +355,7 @@
     },
     {
       "searchString": "place_id:ChIJHQFmsCw1iYgRDMnSSMLiDZk",
-      "name": "Gringl\u00eas",
+      "name": "Gringl?s",
       "text": "Rex did an awesome job! I had busted the water supply pipe trying to move my clawfoot tub and he came over to fix it the same day I called when no other plumber would answer the phone. He also went above and beyond what anyone would do and fixed a duct while he was in the crawlspace, put the feet back on my tub, pulled a rag out of my garbage disposal, and removed some dead rats out of the crawl space that he came across =O~. Not only that but he was polite and good with the kids and didn't overcharge. I'll definitely call him when I need something else!",
       "textTranslated": null,
       "publishAt": "2 years ago",
@@ -576,7 +576,7 @@
     {
       "searchString": "place_id:ChIJHQFmsCw1iYgRDMnSSMLiDZk",
       "name": "Kali",
-      "text": "I had a tough clog when Ii first got to my home, he worked on it and fixed it.\nVery friendly, got the job done immediately and wasn't too expensive. I would recommend him and this buiesness to anyone who needs any help with plumbing. I wish I could give a hundred stars bc he saved the day.... Also I had another company bloww me off bc the job was too difficult but not rex. So \ud83d\ude0a",
+      "text": "I had a tough clog when Ii first got to my home, he worked on it and fixed it.\nVery friendly, got the job done immediately and wasn't too expensive. I would recommend him and this buiesness to anyone who needs any help with plumbing. I wish I could give a hundred stars bc he saved the day.... Also I had another company bloww me off bc the job was too difficult but not rex. So ?",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-02-22T03:21:11.326Z",
@@ -1032,5 +1032,19 @@
       "Rapid emergency response: We understand the urgency of plumbing emergencies and offer prompt, reliable service to minimize disruptions and restore your plumbing system to optimal condition.",
       "Tailored solutions: We take a personalized approach, carefully assessing your unique needs and providing customized solutions that meet your specific requirements."
     ]
-  }
+  },
+  "place_id": "ChIJHQFmsCw1iYgRDMnSSMLiDZk",
+  "phone": "+1 205-415-9257",
+  "address": "4856 Hwy 47, Shelby, AL 35143",
+  "city": "Shelby",
+  "state": "Alabama",
+  "postal_code": 35143,
+  "country": "United States of America",
+  "latitude": 33.1058518,
+  "longitude": -86.58544909999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"1-11:30PM\"}",
+  "rating": 4.6,
+  "reviews_count": 0,
+  "reviews": []
 }
