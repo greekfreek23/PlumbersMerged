@@ -642,7 +642,7 @@
     {
       "searchString": "place_id:ChIJo_ZehjgPmogRRw8z1kaa79I",
       "name": "Tiffany Cazantzes",
-      "text": "Quality plumbing with great rates! I\u2019ve used Jesse on several occasions and he has always excelled. He is very efficient with his time and mine. I will continue to call Jesse for all of my plumbing needs.",
+      "text": "Quality plumbing with great rates! I?ve used Jesse on several occasions and he has always excelled. He is very efficient with his time and mine. I will continue to call Jesse for all of my plumbing needs.",
       "textTranslated": null,
       "publishAt": "5 years ago",
       "publishedAtDate": "2019-11-19T02:19:32.471Z",
@@ -753,5 +753,19 @@
       "Comprehensive expertise in a wide range of plumbing services, from routine maintenance to complex installations and repairs.",
       "Dedicated to delivering exceptional customer service and tailored solutions for your specific plumbing requirements."
     ]
-  }
+  },
+  "place_id": "ChIJo_ZehjgPmogRRw8z1kaa79I",
+  "phone": "+1 251-752-0803",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.7700696,
+  "longitude": -87.6979314,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"6AM-5PM\", \"Tuesday\": \"6AM-5PM\", \"Wednesday\": \"6AM-5PM\", \"Thursday\": \"6AM-5PM\", \"Friday\": \"6AM-5PM\", \"Saturday\": \"6AM-5PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
