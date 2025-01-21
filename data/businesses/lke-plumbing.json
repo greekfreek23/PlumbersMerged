@@ -130,7 +130,7 @@
     {
       "searchString": "place_id:ChIJz4XjicP54m8RQoa7d7BJq6M",
       "name": "Kelley Casey",
-      "text": "We have used LKE Plumbing on two different jobs. Zach and Chris are very quick in their response to your call and they give you a time of when to expect them to arrive at your home.  They are very professional and explain everything to you in \u201cplain\u201d terms.\n\n*They do not do any work without your approval             first.\n*There are no surprise cost at the end of the job. *They are very reasonably priced.\n* They are very knowledgeable plumbers!\n* They keep everything neat and they clean up after the job is complete.\n\nI would highly recommend LKE Plumbing and will use them again ~ 5 Stars!",
+      "text": "We have used LKE Plumbing on two different jobs. Zach and Chris are very quick in their response to your call and they give you a time of when to expect them to arrive at your home.  They are very professional and explain everything to you in ?plain? terms.\n\n*They do not do any work without your approval             first.\n*There are no surprise cost at the end of the job. *They are very reasonably priced.\n* They are very knowledgeable plumbers!\n* They keep everything neat and they clean up after the job is complete.\n\nI would highly recommend LKE Plumbing and will use them again ~ 5 Stars!",
       "textTranslated": null,
       "publishAt": "6 months ago",
       "publishedAtDate": "2024-06-26T04:08:05.502Z",
@@ -177,7 +177,7 @@
     {
       "searchString": "place_id:ChIJz4XjicP54m8RQoa7d7BJq6M",
       "name": "Amanda Campbell",
-      "text": "I have used LKE Plumbing 3 times now. Each time was for something different. If I called and had to leave a message, Zach messaged back within 10 minutes saying he got my message and would call me after he left his current Customer appointment  was over. He kept that promise everytime! Zach called to reconfirm my appointment, called when he was on his way to my house,  was right on time,  and didn\u2019t try to sell me things I did not need. He explained everything to me in \u2018non plumbing\u2019 terms and told me all of my options. It\u2019s hard to find that! He was very honest when he quoted me estimates. When  he left my house, you could not even tell a plumber was here. It was spotless! I didn\u2019t have to clean my bathrooms up and my carpet and hardwoods after him. I will ABSOLUTELY use him again!",
+      "text": "I have used LKE Plumbing 3 times now. Each time was for something different. If I called and had to leave a message, Zach messaged back within 10 minutes saying he got my message and would call me after he left his current Customer appointment  was over. He kept that promise everytime! Zach called to reconfirm my appointment, called when he was on his way to my house,  was right on time,  and didn?t try to sell me things I did not need. He explained everything to me in ?non plumbing? terms and told me all of my options. It?s hard to find that! He was very honest when he quoted me estimates. When  he left my house, you could not even tell a plumber was here. It was spotless! I didn?t have to clean my bathrooms up and my carpet and hardwoods after him. I will ABSOLUTELY use him again!",
       "textTranslated": null,
       "publishAt": "7 months ago",
       "publishedAtDate": "2024-06-02T15:11:15.782Z",
@@ -432,5 +432,19 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to tackle any plumbing challenge efficiently.",
       "Commitment to using high-quality materials and following industry best practices to ensure long-lasting repairs and installations."
     ]
-  }
+  },
+  "place_id": "ChIJz4XjicP54m8RQoa7d7BJq6M",
+  "phone": "+1 256-347-5914",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.1752014,
+  "longitude": -86.8386396,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
