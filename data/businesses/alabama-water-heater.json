@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJZzrnrdJbJUURCoYIf9V7sFY",
       "name": "Lilhotrod",
-      "text": "So my hot water heater decided to call it kaput two days before Thanksgiving. I called a couple places but they were super busy, and couldn\u2019t get out. I got referred to these guys and they came out the same day. My water heater was shot, and had to be replaced. Jarrett did a great job and cleaned up when he was done. Efficient and on time. I was so glad to have my hot water heater replaced right before the holiday- it would be horrible to have been without hot water on a major cooking holiday!",
+      "text": "So my hot water heater decided to call it kaput two days before Thanksgiving. I called a couple places but they were super busy, and couldn?t get out. I got referred to these guys and they came out the same day. My water heater was shot, and had to be replaced. Jarrett did a great job and cleaned up when he was done. Efficient and on time. I was so glad to have my hot water heater replaced right before the holiday- it would be horrible to have been without hot water on a major cooking holiday!",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-12-02T17:54:44.623Z",
@@ -102,5 +102,19 @@
       "Prompt and reliable service, with a commitment to minimizing disruptions to your daily routine.",
       "Customized solutions tailored to your specific requirements, ensuring optimal performance and energy efficiency."
     ]
-  }
+  },
+  "place_id": "ChIJZzrnrdJbJUURCoYIf9V7sFY",
+  "phone": "+1 256-656-5873",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.7321355,
+  "longitude": -86.6319669,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
