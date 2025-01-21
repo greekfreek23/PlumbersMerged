@@ -252,7 +252,7 @@
     {
       "searchString": "place_id:ChIJ_YAQpSg_YIgRRuuQ_9puIhQ",
       "name": "Rosario Queen",
-      "text": "Hands down the most professional, trustworthy and caring company. They\u2019re on time and top notch with communication! Recommend them over anyone else!!",
+      "text": "Hands down the most professional, trustworthy and caring company. They?re on time and top notch with communication! Recommend them over anyone else!!",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-01-24T17:48:48.678Z",
@@ -415,7 +415,7 @@
     {
       "searchString": "place_id:ChIJ_YAQpSg_YIgRRuuQ_9puIhQ",
       "name": "Katy Chattin",
-      "text": "Hands down the most professional and caring company. They\u2019re on time and top notch with communication. Recommend them in a heart beat",
+      "text": "Hands down the most professional and caring company. They?re on time and top notch with communication. Recommend them in a heart beat",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-07-30T22:28:44.250Z",
@@ -527,5 +527,19 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before we begin any work."
     ]
-  }
+  },
+  "place_id": "ChIJ_YAQpSg_YIgRRuuQ_9puIhQ",
+  "phone": "+1 423-617-8134",
+  "address": "312 W 3rd Ave, LaFayette, GA 30728",
+  "city": "LaFayette",
+  "state": "Georgia",
+  "postal_code": 30728,
+  "country": "United States of America",
+  "latitude": 34.708127,
+  "longitude": -85.2966433,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"9AM-5PM\", \"Wednesday\": \"9AM-5PM\", \"Thursday\": \"9AM-5PM\", \"Friday\": \"9AM-5PM\", \"Saturday\": \"9AM-5PM\", \"Sunday\": \"Closed\"}",
+  "rating": 4.5,
+  "reviews_count": 0,
+  "reviews": []
 }
