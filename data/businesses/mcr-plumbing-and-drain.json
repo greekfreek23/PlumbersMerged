@@ -78,5 +78,19 @@
       "State-of-the-art equipment and techniques, including sewer line video inspections, for accurate diagnoses and effective solutions.",
       "Highly trained and licensed plumbers dedicated to delivering exceptional workmanship and customer service."
     ]
-  }
+  },
+  "place_id": "ChIJtWMABpp6nIARRQWq7j9qaFA",
+  "phone": "+1 423-605-4981",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.3267575,
+  "longitude": -86.5060659,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": []
 }
