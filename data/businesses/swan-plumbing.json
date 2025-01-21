@@ -156,7 +156,7 @@
     {
       "searchString": "place_id:ChIJq--Ub1zZYYgRL31jXJAg58k",
       "name": "Mary Beth Escher",
-      "text": "He is a Awesome Gentelman did the job very well. VERY HONEST, WE are calling him back\u2763",
+      "text": "He is a Awesome Gentelman did the job very well. VERY HONEST, WE are calling him back?",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-12-08T23:25:03.805Z",
@@ -774,5 +774,22 @@
       "Comprehensive range of services, from routine maintenance to complex installations, all delivered with meticulous attention to detail.",
       "Commitment to transparent communication and personalized solutions, ensuring your satisfaction is our top priority."
     ]
-  }
+  },
+  "businessName": "Swan Plumbing",
+  "place_id": "ChIJq--Ub1zZYYgRL31jXJAg58k",
+  "phone": "+1 256-638-8338",
+  "address": "1887 McCurdy Ave N, Rainsville, AL 35986",
+  "city": "Rainsville",
+  "state": "Alabama",
+  "postal_code": 35986,
+  "country": "United States of America",
+  "latitude": 34.5187317,
+  "longitude": -85.83253909999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-3PM\", \"Tuesday\": \"7AM-3PM\", \"Wednesday\": \"7AM-3PM\", \"Thursday\": \"7AM-3PM\", \"Friday\": \"7AM-3PM\", \"Saturday\": \"7AM-3PM\", \"Sunday\": \"Closed\"}",
+  "rating": 4.1,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
