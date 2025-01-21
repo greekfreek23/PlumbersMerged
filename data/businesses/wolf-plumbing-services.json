@@ -91,7 +91,7 @@
     {
       "searchString": "place_id:ChIJIabfr7TGi4gRxxXnBfB9PVk",
       "name": "Amber Styles",
-      "text": "I\u2019m extremely happy with the service. They came out and unclogged my toilet as soon as they could, and the customer service was really amazing. My toddler tried to get in their way as much as possible, they were extremely patient. They were in and out and went the extra mile for customer service!",
+      "text": "I?m extremely happy with the service. They came out and unclogged my toilet as soon as they could, and the customer service was really amazing. My toddler tried to get in their way as much as possible, they were extremely patient. They were in and out and went the extra mile for customer service!",
       "textTranslated": null,
       "publishAt": "5 months ago",
       "publishedAtDate": "2024-07-16T19:58:06.107Z",
@@ -256,7 +256,7 @@
     {
       "searchString": "place_id:ChIJIabfr7TGi4gRxxXnBfB9PVk",
       "name": "Heather Carlisle",
-      "text": "Great service!!! Both guys who came out were very friendly. Didn\u2019t try to overcharge me just because I\u2019m a woman. Would definitely use again!",
+      "text": "Great service!!! Both guys who came out were very friendly. Didn?t try to overcharge me just because I?m a woman. Would definitely use again!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-08-31T23:30:48.157Z",
@@ -833,5 +833,19 @@
       "Extensive experience and specialized training in all aspects of plumbing, from leak detection to gas line repairs.",
       "Commitment to using the latest techniques and equipment to deliver efficient and long-lasting solutions."
     ]
-  }
+  },
+  "place_id": "ChIJIabfr7TGi4gRxxXnBfB9PVk",
+  "phone": "+1 256-223-2436",
+  "address": "2146 Chinnabee Rd, Munford, AL 36268",
+  "city": "Munford",
+  "state": "Alabama",
+  "postal_code": 36268,
+  "country": "United States of America",
+  "latitude": 33.4625214,
+  "longitude": -85.99604889999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "reviews": []
 }
