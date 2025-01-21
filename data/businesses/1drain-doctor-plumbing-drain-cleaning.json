@@ -1,0 +1,16 @@
+{
+  "businessName": "1Drain Doctor plumbing/drain cleaning",
+  "place_id": "ChIJHytFhE3vhogR9n15ZPn13-E",
+  "phone": "+1 662-242-7862",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.568379,
+  "longitude": -88.39672449999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-6:30PM\", \"Tuesday\": \"8AM-6:30PM\", \"Wednesday\": \"8AM-6:30PM\", \"Thursday\": \"8AM-6:30PM\", \"Friday\": \"8AM-6:30PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": 4.1,
+  "reviews_count": 0
+}
