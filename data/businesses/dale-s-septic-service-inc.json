@@ -64,7 +64,7 @@
     {
       "searchString": "place_id:ChIJkVjTQYQWjIgREp_lsZIT6DM",
       "name": "Barajas Sofia",
-      "text": "I called them and they said they couldn\u2019t get to my right away and recommended another company, so grateful that they shared the information even though they didn\u2019t do any work on my septic there kindness and professionalism speaks volumes!",
+      "text": "I called them and they said they couldn?t get to my right away and recommended another company, so grateful that they shared the information even though they didn?t do any work on my septic there kindness and professionalism speaks volumes!",
       "textTranslated": null,
       "publishAt": "10 months ago",
       "publishedAtDate": "2024-03-08T18:54:49.991Z",
@@ -2144,5 +2144,22 @@
   "last60": 0,
   "last90": 0,
   "last180": 0,
-  "last365": 4
+  "last365": 4,
+  "businessName": "Dale's Septic Service Inc",
+  "place_id": "ChIJkVjTQYQWjIgREp_lsZIT6DM",
+  "phone": "+1 334-857-3828",
+  "address": "5151 Mt Hebron Rd, Eclectic, AL 36024",
+  "city": "Eclectic",
+  "state": "Alabama",
+  "postal_code": 36024,
+  "country": "United States of America",
+  "latitude": 32.70756,
+  "longitude": -86.01855499999999,
+  "categories": [],
+  "working_hours": {},
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
