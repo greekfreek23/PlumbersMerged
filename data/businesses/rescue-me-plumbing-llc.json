@@ -100,5 +100,19 @@
       "Comprehensive solutions tailored to your specific plumbing needs, backed by our team's extensive expertise.",
       "Transparent pricing and upfront cost estimates, ensuring no surprises and complete customer satisfaction."
     ]
-  }
+  },
+  "place_id": "ChIJmxZ-6cCbjogRlWPxBqa3iNw",
+  "phone": "+1 334-201-1879",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.431509,
+  "longitude": -86.3141425,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-3PM\", \"Tuesday\": \"8AM-3PM\", \"Wednesday\": \"8AM-3PM\", \"Thursday\": \"8AM-3PM\", \"Friday\": \"8AM-2PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
