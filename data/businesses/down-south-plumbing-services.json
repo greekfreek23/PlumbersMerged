@@ -174,7 +174,7 @@
     {
       "searchString": "place_id:ChIJ6Sn_5YIXxaMRqkDTJNDUN2o",
       "name": "Emma Seale",
-      "text": "Alex is extremely professional and well-mannered! He was extremely helpful with explaining everything to my parents when they had their water heater replaced! I can\u2019t thank him enough! 10/10 in every category!",
+      "text": "Alex is extremely professional and well-mannered! He was extremely helpful with explaining everything to my parents when they had their water heater replaced! I can?t thank him enough! 10/10 in every category!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-05-10T23:43:20.671Z",
@@ -291,5 +291,19 @@
       "Cutting-edge techniques and state-of-the-art equipment to deliver efficient and long-lasting solutions.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect."
     ]
-  }
+  },
+  "place_id": "ChIJ6Sn_5YIXxaMRqkDTJNDUN2o",
+  "phone": "+1 251-656-4806",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.4681706,
+  "longitude": -87.8039464,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
