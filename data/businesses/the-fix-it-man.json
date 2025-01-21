@@ -47,5 +47,22 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to tackle any plumbing challenge.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before we begin."
     ]
-  }
+  },
+  "businessName": "The Fix It Man",
+  "place_id": "ChIJoTnIZqZcHYIRu1N3LeDBYJs",
+  "phone": "+1 256-282-2222",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.349608,
+  "longitude": -86.319824,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"9AM-5PM\", \"Tuesday\": \"8AM-5:30PM\", \"Wednesday\": \"8AM-5:30PM\", \"Thursday\": \"8AM-5:30PM\", \"Friday\": \"8AM-5:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
