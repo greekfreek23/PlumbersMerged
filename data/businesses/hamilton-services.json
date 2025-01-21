@@ -118,5 +118,22 @@
       "Comprehensive range of services, from routine maintenance to complex installations, all delivered with meticulous attention to detail.",
       "Commitment to using the latest techniques and equipment, ensuring efficient and long-lasting solutions for your plumbing needs."
     ]
-  }
+  },
+  "businessName": "Hamilton Services",
+  "place_id": "ChIJuw4DZiJNmogRsFm2LeZNmq4",
+  "phone": "+1 251-581-5577",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.5460962,
+  "longitude": -88.1874072,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-4AM\", \"Tuesday\": \"8AM-4AM\", \"Wednesday\": \"8AM-4AM\", \"Thursday\": \"8AM-4AM\", \"Friday\": \"8AM-4AM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
