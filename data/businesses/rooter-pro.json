@@ -45,5 +45,22 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
       "Commitment to transparent pricing and exceptional customer service, ensuring a hassle-free experience from start to finish."
     ]
-  }
+  },
+  "businessName": "Rooter Pro",
+  "place_id": "ChIJh4XR6zXNjIgRr1Drh1JESH4",
+  "phone": "+1 334-560-7533",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.486217,
+  "longitude": -84.8808304,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
