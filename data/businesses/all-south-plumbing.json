@@ -66,5 +66,22 @@
       "Rapid response times for emergency situations, ensuring that your plumbing issues are addressed promptly and efficiently.",
       "Comprehensive range of services, from routine maintenance and repairs to complex installations and renovations, all tailored to meet your specific needs."
     ]
-  }
+  },
+  "businessName": "All South Plumbing",
+  "place_id": "ChIJd4Lxi2OWGaMRHzQHESA8eTM",
+  "phone": "+1 205-659-6727",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.6395734,
+  "longitude": -86.4914134,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
