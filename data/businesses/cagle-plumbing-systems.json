@@ -78,5 +78,19 @@
       "Prompt emergency services available 24/7 to quickly resolve any plumbing issue",
       "Commitment to using the latest techniques and high-quality materials for long-lasting results"
     ]
-  }
+  },
+  "place_id": "ChIJAa4ntaCi7EoRqS2k8Ax3lJ0",
+  "phone": "+1 205-230-7930",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.954836,
+  "longitude": -86.65900099999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"7AM-5PM\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": []
 }
