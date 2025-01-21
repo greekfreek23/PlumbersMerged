@@ -1,0 +1,16 @@
+{
+  "businessName": "John's Home Services",
+  "place_id": "ChIJVzmtcDIpfGoRYIjV_ofeQd8",
+  "phone": "+1 706-566-8216",
+  "address": "1503 Fall Branch Dr, Phenix City, AL 36867",
+  "city": "Phenix City",
+  "state": "Alabama",
+  "postal_code": 36867,
+  "country": "United States of America",
+  "latitude": 32.5153333,
+  "longitude": -85.019915,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"5:30AM-9:30PM\", \"Tuesday\": \"5:30AM-9:30PM\", \"Wednesday\": \"5:30AM-9:30PM\", \"Thursday\": \"5:30AM-9:30PM\", \"Friday\": \"5:30AM-9:30PM\", \"Saturday\": \"5:30AM-9PM\", \"Sunday\": \"5:30AM-9PM\"}",
+  "rating": 4.9,
+  "reviews_count": 0
+}
