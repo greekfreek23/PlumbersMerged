@@ -103,5 +103,19 @@
   "last60": 0,
   "last90": 0,
   "last180": 0,
-  "last365": 0
+  "last365": 0,
+  "place_id": "ChIJMUgoGYVlYogRYOBvRmJSAng",
+  "phone": "+1 256-990-8212",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.800313,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
