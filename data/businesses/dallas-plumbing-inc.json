@@ -200,5 +200,22 @@
       "Prompt and efficient service, ensuring your plumbing issues are resolved quickly and effectively.",
       "Commitment to using the latest techniques and high-quality materials for long-lasting solutions."
     ]
-  }
+  },
+  "businessName": "Dallas Plumbing INC",
+  "place_id": "ChIJRdlPS1MUe0MRj3DMTSsJ9dg",
+  "phone": "+1 256-442-8056",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.021177,
+  "longitude": -86.05364449999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"7:30AM-4:30PM\", \"Sunday\": \"8AM-4:30PM\"}",
+  "rating": 4.5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
