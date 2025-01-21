@@ -244,7 +244,7 @@
     {
       "searchString": "place_id:ChIJAVpioNljiogR56d4kzj5Jmk",
       "name": "Donna Rice",
-      "text": "Very disappointed. They came and drained my tank and that was it.\nNever even took the time to find out why I was having the odor in my bathroom \ud83d\ude14 the problem is still there.\nBeware..",
+      "text": "Very disappointed. They came and drained my tank and that was it.\nNever even took the time to find out why I was having the odor in my bathroom ? the problem is still there.\nBeware..",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-12-06T23:35:48.959Z",
@@ -616,7 +616,7 @@
     {
       "searchString": "place_id:ChIJAVpioNljiogR56d4kzj5Jmk",
       "name": "Susan S",
-      "text": "Two very professional & very kind gentlemen pumped my RV black tank today & I couldn't be more pleased with their service & fast response. Very reasonable price. You won't go wrong with this company. Just look at the rest of their reviews..\u2b50\u2b50\u2b50\u2b50\u2b50!  I HIGHLY recommend this company.",
+      "text": "Two very professional & very kind gentlemen pumped my RV black tank today & I couldn't be more pleased with their service & fast response. Very reasonable price. You won't go wrong with this company. Just look at the rest of their reviews..?????!  I HIGHLY recommend this company.",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-07-20T23:23:44.486Z",
@@ -1200,7 +1200,7 @@
     {
       "searchString": "place_id:ChIJAVpioNljiogR56d4kzj5Jmk",
       "name": "Janice Ray",
-      "text": "Would highly recommend this Company. They did exactly what they told me they were going to do. Was reasonably priced and told me to give them a call if the work they performed didn\u2019t solve my problem. They were very professional and knowledgeable .",
+      "text": "Would highly recommend this Company. They did exactly what they told me they were going to do. Was reasonably priced and told me to give them a call if the work they performed didn?t solve my problem. They were very professional and knowledgeable .",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-05-17T23:58:42.035Z",
@@ -1842,7 +1842,7 @@
     {
       "searchString": "place_id:ChIJAVpioNljiogR56d4kzj5Jmk",
       "name": "Lonnie Combs",
-      "text": "Tried to make contact for two days.  Made contact with a young lady once who said she would get in touch with one of the guys and call us back.  That call never came.  As a result we spent two nights in a hotel until we could get the problem fixed.  Lost time from work and time with my grand daughter.  Did not even have the decency to call back to say they couldn\u2019t make it.",
+      "text": "Tried to make contact for two days.  Made contact with a young lady once who said she would get in touch with one of the guys and call us back.  That call never came.  As a result we spent two nights in a hotel until we could get the problem fixed.  Lost time from work and time with my grand daughter.  Did not even have the decency to call back to say they couldn?t make it.",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-06-25T22:30:06.194Z",
@@ -2074,5 +2074,19 @@
       "Comprehensive solutions: From routine maintenance to complex repairs, we offer a wide range of plumbing and septic services tailored to meet your specific needs.",
       "Prompt and reliable service: With our commitment to excellence and customer satisfaction, you can count on us to provide prompt, efficient, and reliable service every time."
     ]
-  }
+  },
+  "place_id": "ChIJAVpioNljiogR56d4kzj5Jmk",
+  "phone": "+1 256-523-1555",
+  "address": "785 County Rd 473, Centre, AL 35960",
+  "city": "Centre",
+  "state": "Alabama",
+  "postal_code": 35960,
+  "country": "United States of America",
+  "latitude": 34.1165849,
+  "longitude": -85.6317954,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-4:30PM\", \"Tuesday\": \"7AM-4:30PM\", \"Wednesday\": \"7AM-4:30PM\", \"Thursday\": \"7AM-4:30PM\", \"Friday\": \"7AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.4,
+  "reviews_count": 0,
+  "reviews": []
 }
