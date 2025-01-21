@@ -1,0 +1,16 @@
+{
+  "businessName": "Pat's Plumbing LLC",
+  "place_id": "ChIJ1_NADoWGBkMRnlBQzXnSrQo",
+  "phone": "+1 720-276-4935",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.62312,
+  "longitude": -85.912168,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0
+}
