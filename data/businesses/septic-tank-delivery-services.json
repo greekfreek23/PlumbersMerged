@@ -380,5 +380,19 @@
       "Comprehensive range of services from septic tank pumping to complete system construction and maintenance.",
       "Dedicated to providing prompt and efficient solutions, minimizing disruptions to your daily operations."
     ]
-  }
+  },
+  "place_id": "ChIJ4_LYQ66ahYgRqTeCsR8fjjg",
+  "phone": "+1 334-216-4723",
+  "address": "110 E Z St, Gallion, AL 36742",
+  "city": "Gallion",
+  "state": "Alabama",
+  "postal_code": 36742,
+  "country": "United States of America",
+  "latitude": 32.5075986,
+  "longitude": -87.7042742,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
