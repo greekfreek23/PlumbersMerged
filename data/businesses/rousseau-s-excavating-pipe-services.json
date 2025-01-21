@@ -41,5 +41,20 @@
       "State-of-the-art equipment and techniques, allowing us to tackle complex projects with precision and minimal disruption.",
       "Personalized service and attention to detail, ensuring that every project is completed to your exact specifications and satisfaction."
     ]
-  }
+  },
+  "place_id": "ChIJrVBO43QlTSERb2MDVmTFB7w",
+  "phone": "+1 256-924-9142",
+  "address": "12229 Pulaski Pike, Toney, AL 35773",
+  "city": "Toney",
+  "state": "Alabama",
+  "postal_code": 35773,
+  "country": "United States of America",
+  "latitude": 34.946084,
+  "longitude": -86.7121049,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
