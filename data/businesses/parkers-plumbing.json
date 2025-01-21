@@ -37,7 +37,7 @@
   "last90": 0,
   "last180": 0,
   "last365": 0,
-  "plumberResearchFull.json": "Based on the provided identifiers, it appears there is a mix-up, as the details given do not match any of the sources provided. Here\u2019s what we can infer and what is missing:\n\n## Business Information\n- The provided phone number (+1 706-580-0849) and Google Place ID (ChIJmRL0-yP2rosR_zGhUclRFXY) do not match the businesses described in the sources. Therefore, no specific information about \"Parkers Plumbing\" with these identifiers can be found.\n- Without a matching business, details on Alabama business registration/license, physical location, service areas, hours, payment methods, and years in operation cannot be determined.\n\n## Services & Specialties\n- Since the business does not match any in the sources, the types of services offered, service areas covered, emergency service availability, and any listed prices or rates cannot be identified.\n\n## Customer Reviews & Reputation\n- There are no reviews or reputation information available for \"Parkers Plumbing\" with the given identifiers.\n- BBB rating and status, common customer feedback themes, and response to reviews cannot be determined.\n\n## Owner & Staff\n- The owner/management information, staff qualifications, and professional certifications for \"Parkers Plumbing\" with the given identifiers are not available.\n\nGiven the mismatch, it seems that \"Parkers Plumbing\" with the provided phone number and Google Place ID does not correspond to any of the businesses detailed in the sources. To find accurate information, it would be necessary to verify the business through other means, such as contacting the Alabama business registry or checking local business directories.",
+  "plumberResearchFull.json": "Based on the provided identifiers, it appears there is a mix-up, as the details given do not match any of the sources provided. Here?s what we can infer and what is missing:\n\n## Business Information\n- The provided phone number (+1 706-580-0849) and Google Place ID (ChIJmRL0-yP2rosR_zGhUclRFXY) do not match the businesses described in the sources. Therefore, no specific information about \"Parkers Plumbing\" with these identifiers can be found.\n- Without a matching business, details on Alabama business registration/license, physical location, service areas, hours, payment methods, and years in operation cannot be determined.\n\n## Services & Specialties\n- Since the business does not match any in the sources, the types of services offered, service areas covered, emergency service availability, and any listed prices or rates cannot be identified.\n\n## Customer Reviews & Reputation\n- There are no reviews or reputation information available for \"Parkers Plumbing\" with the given identifiers.\n- BBB rating and status, common customer feedback themes, and response to reviews cannot be determined.\n\n## Owner & Staff\n- The owner/management information, staff qualifications, and professional certifications for \"Parkers Plumbing\" with the given identifiers are not available.\n\nGiven the mismatch, it seems that \"Parkers Plumbing\" with the provided phone number and Google Place ID does not correspond to any of the businesses detailed in the sources. To find accurate information, it would be necessary to verify the business through other means, such as contacting the Alabama business registry or checking local business directories.",
   "aboutUs": "Parkers Plumbing is a trusted local plumbing service provider, offering expert solutions for all your residential and commercial plumbing needs. Our team of highly skilled and certified professionals specializes in everything from routine maintenance and repairs to complex installations and emergency services. We take pride in our prompt, reliable, and top-notch workmanship, ensuring your plumbing systems operate efficiently and effectively.",
   "whyChooseUs": {
     "mainPitch": "Experience the peace of mind that comes with choosing a plumbing partner committed to excellence and customer satisfaction.",
@@ -46,5 +46,22 @@
       "Comprehensive expertise in all aspects of plumbing, from drain cleaning and water heater installations to sewer line repairs and bathroom remodels.",
       "Commitment to using the latest techniques and high-quality materials, ensuring long-lasting and efficient plumbing solutions."
     ]
-  }
+  },
+  "businessName": "Parkers Plumbing",
+  "place_id": "ChIJmRL0-yP2rosR_zGhUclRFXY",
+  "phone": "+1 706-580-0849",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.4979174,
+  "longitude": -84.8741234,
+  "categories": [],
+  "working_hours": "{\"Sunday\": \"12AM-12PM\", \"Monday\": \"4PM-12AM\", \"Tuesday\": \"12-8AM,4PM-12AM\", \"Wednesday\": \"12-8AM,4PM-12AM\", \"Thursday\": \"12-8AM,4PM-12AM\", \"Friday\": \"12-8AM,4PM-12AM\", \"Saturday\": \"12AM-12PM\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
