@@ -46,5 +46,22 @@
       "Highly trained and certified technicians with the knowledge and skills to handle any plumbing challenge.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "businessName": "4G Plumbing and Drain Cleaning",
+  "place_id": "ChIJqe6cf3U1GAERrZ6pjst32HA",
+  "phone": "+1 256-393-8071",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.9198005,
+  "longitude": -85.9828505,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
