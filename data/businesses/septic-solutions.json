@@ -128,7 +128,7 @@
     {
       "searchString": "place_id:ChIJcfbg0NMFXIoRBOknDs1LBkc",
       "name": "Jon Reid",
-      "text": "There\u2019s only one choice and it\u2019s this guy. Quality work and very reliable. I highly recommend Johnny.",
+      "text": "There?s only one choice and it?s this guy. Quality work and very reliable. I highly recommend Johnny.",
       "textTranslated": null,
       "publishAt": "9 months ago",
       "publishedAtDate": "2024-04-02T23:27:35.316Z",
@@ -577,5 +577,19 @@
       "State-of-the-art equipment and techniques for efficient and effective septic system services.",
       "Prompt and courteous service, with a focus on minimizing disruptions to your daily routine."
     ]
-  }
+  },
+  "place_id": "ChIJcfbg0NMFXIoRBOknDs1LBkc",
+  "phone": "+1 251-238-2236",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 31.454304,
+  "longitude": -86.93318149999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
