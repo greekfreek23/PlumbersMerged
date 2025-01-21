@@ -1,0 +1,16 @@
+{
+  "businessName": "Ron's Old Time Plumbing, Inc.",
+  "place_id": "ChIJZ3dm8jDGjogRonOy_OYcCq8",
+  "phone": "+1 205-288-7198",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.6699369,
+  "longitude": -86.5587145,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.3,
+  "reviews_count": 0
+}
