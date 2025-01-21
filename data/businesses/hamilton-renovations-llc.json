@@ -81,5 +81,19 @@
       "Prompt and reliable service, with a focus on minimizing disruptions to your daily routine.",
       "Transparent pricing and detailed estimates, so you know exactly what to expect from the start."
     ]
-  }
+  },
+  "place_id": "ChIJe5BMXWHeZiMRq7PpIBstqvc",
+  "phone": "+1 423-883-3340",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 35.0371115,
+  "longitude": -85.238691,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-8PM\", \"Tuesday\": \"7AM-8PM\", \"Wednesday\": \"7AM-8PM\", \"Thursday\": \"7AM-8PM\", \"Friday\": \"7AM-8PM\", \"Saturday\": \"Closed\", \"Sunday\": \"7AM-8PM\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": []
 }
