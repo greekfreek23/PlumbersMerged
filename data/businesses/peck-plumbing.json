@@ -83,5 +83,19 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
       "Commitment to using high-quality materials and providing long-lasting solutions for your plumbing needs."
     ]
-  }
+  },
+  "place_id": "ChIJRffU5ws7YogRR_gqnTEGuts",
+  "phone": "+1 256-379-3560",
+  "address": "770 New Market Rd, New Market, AL 35761",
+  "city": "New Market",
+  "state": "Alabama",
+  "postal_code": 35761,
+  "country": "United States of America",
+  "latitude": 34.9261602,
+  "longitude": -86.4549049,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-4PM\", \"Tuesday\": \"7AM-4PM\", \"Wednesday\": \"7AM-4PM\", \"Thursday\": \"7AM-4PM\", \"Friday\": \"7AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": []
 }
