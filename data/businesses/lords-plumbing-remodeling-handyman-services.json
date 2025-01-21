@@ -9,5 +9,23 @@
       "Prompt and efficient service, with a commitment to arriving on time and completing projects within agreed timelines.",
       "Transparent pricing and upfront cost estimates, ensuring you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "businessName": "Lords plumbing, remodeling & handyman services",
+  "place_id": "ChIJKymItkgshogRXxrGSW2SPAA",
+  "phone": "+1 205-270-9776",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.6622164,
+  "longitude": -87.61411749999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"8AM-6PM\"}",
+  "rating": 4,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
