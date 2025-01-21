@@ -84,7 +84,7 @@
     {
       "searchString": "place_id:ChIJV5I0CTMHiYgR94Cu8YY0Wa8",
       "name": "Kaitlin Echols",
-      "text": "10/10 recommend, super friendly, arrived on time. got the job done in a timely manner and haven\u2019t had any complications since before they fixed my problems. Completely earned my trust and service, will be using them from here on out.",
+      "text": "10/10 recommend, super friendly, arrived on time. got the job done in a timely manner and haven?t had any complications since before they fixed my problems. Completely earned my trust and service, will be using them from here on out.",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-05-25T17:47:00.304Z",
@@ -247,5 +247,19 @@
       "State-of-the-art equipment and techniques to diagnose and resolve even the most challenging plumbing and drain problems.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "place_id": "ChIJV5I0CTMHiYgR94Cu8YY0Wa8",
+  "phone": "+1 205-352-9686",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 46.423669,
+  "longitude": -129.9427086,
+  "categories": [],
+  "working_hours": {},
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
