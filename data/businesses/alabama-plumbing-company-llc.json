@@ -65,5 +65,22 @@
       "Meticulous attention to detail and adherence to industry best practices, guaranteeing high-quality results that stand the test of time.",
       "Transparent communication and upfront pricing, allowing you to make informed decisions without hidden surprises."
     ]
-  }
+  },
+  "businessName": "Alabama Plumbing Company LLC",
+  "place_id": "ChIJTRP9VVxWby0Rv8TwIhl0YMY",
+  "phone": "+1 256-683-8052",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.733999,
+  "longitude": -86.58073739999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
