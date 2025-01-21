@@ -9,5 +9,23 @@
       "State-of-the-art equipment and techniques for thorough sewer cleaning and inspection, ensuring your pipes are functioning optimally.",
       "Expertise in propane gas plumbing, offering safe and reliable solutions for your gas-related plumbing needs."
     ]
-  }
+  },
+  "businessName": "Jack's Sewer & Plumbing Services",
+  "place_id": "ChIJkYnN-tIYiYgRV_ZdwtWtqHo",
+  "phone": "+1 205-369-6381",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.5312374,
+  "longitude": -86.85013699999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
