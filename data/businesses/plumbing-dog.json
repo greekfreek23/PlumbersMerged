@@ -70,5 +70,22 @@
       "Comprehensive services covering everything from drain cleaning to water heater installation, all under one roof.",
       "Highly trained and certified technicians equipped with the latest tools and techniques to tackle any plumbing challenge."
     ]
-  }
+  },
+  "businessName": "Plumbing Dog",
+  "place_id": "ChIJ3zU7eWvTkaURB54Herf01mY",
+  "phone": "+1 205-896-2012",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.546173,
+  "longitude": -86.56812839999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
