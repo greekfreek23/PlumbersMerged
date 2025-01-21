@@ -1,0 +1,16 @@
+{
+  "businessName": "Patrick's Home Services",
+  "place_id": "ChIJuRKcvixJfYgRMWRsAIm9TdA",
+  "phone": "+1 256-275-8161",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.653562,
+  "longitude": -87.654016,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"7AM-4PM\", \"Sunday\": \"12-4PM\"}",
+  "rating": 4,
+  "reviews_count": 0
+}
