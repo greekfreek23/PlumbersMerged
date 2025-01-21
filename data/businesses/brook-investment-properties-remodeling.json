@@ -68,7 +68,7 @@
     {
       "searchString": "place_id:ChIJ9Wn7io96DAERCkpnuMKv_Pg",
       "name": "John Garrett Yuhas",
-      "text": "This is one of the most professional companies I\u2019ve worked with in a long time\n\nFor the last year I have been trying to get a handyman out to my house to do some small projects. I had some rotten wood, some painting, etc.\n\nI couldn\u2019t get anyone to come out, nor could I get anyone to give me a quote or even return a phone call\n\nThey go above and beyond and exhibit extreme professionalism and courtesy\n\nSomething you don\u2019t see anymore\n\nI really appreciated them going above and beyond on my house project.\n\nI had cut a cable wire behind the house\n\nAnd they ended up having to stay three hours late to fix it in the dark with flashlights,\n\nAnd they did not have to fix my mistake.\n\nThat is professionalism Defined\n\nI will be using them again in the future and I really appreciate y\u2019all Brooke investment !",
+      "text": "This is one of the most professional companies I?ve worked with in a long time\n\nFor the last year I have been trying to get a handyman out to my house to do some small projects. I had some rotten wood, some painting, etc.\n\nI couldn?t get anyone to come out, nor could I get anyone to give me a quote or even return a phone call\n\nThey go above and beyond and exhibit extreme professionalism and courtesy\n\nSomething you don?t see anymore\n\nI really appreciated them going above and beyond on my house project.\n\nI had cut a cable wire behind the house\n\nAnd they ended up having to stay three hours late to fix it in the dark with flashlights,\n\nAnd they did not have to fix my mistake.\n\nThat is professionalism Defined\n\nI will be using them again in the future and I really appreciate y?all Brooke investment !",
       "textTranslated": null,
       "publishAt": "9 months ago",
       "publishedAtDate": "2024-03-25T08:34:49.498Z",
@@ -412,5 +412,22 @@
   "last60": 1,
   "last90": 1,
   "last180": 1,
-  "last365": 6
+  "last365": 6,
+  "businessName": "Brook Investment Properties /Remodeling",
+  "place_id": "ChIJ9Wn7io96DAERCkpnuMKv_Pg",
+  "phone": "+1 334-294-0149",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.2333775,
+  "longitude": -86.20855399999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
