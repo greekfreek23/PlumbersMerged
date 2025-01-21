@@ -707,7 +707,7 @@
     {
       "searchString": "place_id:ChIJmXaYG5hBiogRiRPQe5O7wVg",
       "name": "Samantha Colvin",
-      "text": "Great Plumber!!! Very professional!!!\ud83d\ude0a",
+      "text": "Great Plumber!!! Very professional!!!?",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-07-20T13:38:45.652Z",
@@ -830,5 +830,19 @@
       "Prompt and efficient service, minimizing disruptions to your daily routine",
       "Commitment to using cutting-edge techniques and eco-friendly practices"
     ]
-  }
+  },
+  "place_id": "ChIJmXaYG5hBiogRiRPQe5O7wVg",
+  "phone": "+1 256-438-4370",
+  "address": "4374 Lister Ferry Rd, Rainbow City, AL 35906",
+  "city": "Rainbow City",
+  "state": "Alabama",
+  "postal_code": 35906,
+  "country": "United States of America",
+  "latitude": 33.9421654,
+  "longitude": -86.0469487,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "reviews": []
 }
