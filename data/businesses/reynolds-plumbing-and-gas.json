@@ -464,7 +464,7 @@
     {
       "searchString": "place_id:ChIJjwjKfA9XCIMR5oQe028sM7Y",
       "name": "Matthew Odle",
-      "text": "Best plumbing company in town!!  I\u2019ve been using them for years. They are always respectful, professional and knowledgeable.  They are always there when they say they will be. I can\u2019t recommend Reynolds Plumbing highly enough!!",
+      "text": "Best plumbing company in town!!  I?ve been using them for years. They are always respectful, professional and knowledgeable.  They are always there when they say they will be. I can?t recommend Reynolds Plumbing highly enough!!",
       "textTranslated": null,
       "publishAt": "7 months ago",
       "publishedAtDate": "2024-06-12T13:48:17.684Z",
@@ -583,5 +583,22 @@
       "Meticulous attention to detail and adherence to industry standards for flawless installations and repairs.",
       "Comprehensive solutions tailored to your specific requirements, from routine maintenance to complex system overhauls."
     ]
-  }
+  },
+  "businessName": "Reynolds Plumbing and Gas",
+  "place_id": "ChIJjwjKfA9XCIMR5oQe028sM7Y",
+  "phone": "+1 256-527-3706",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.832311,
+  "longitude": -86.7596775,
+  "categories": [],
+  "working_hours": "{\"Sunday\": \"Closed\", \"Monday\": \"7AM-4:30PM\", \"Tuesday\": \"7AM-4:30PM\", \"Wednesday\": \"7AM-4:30PM\", \"Thursday\": \"7AM-4:30PM\", \"Friday\": \"7AM-4:30AM\", \"Saturday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
