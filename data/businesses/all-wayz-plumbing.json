@@ -46,5 +46,22 @@
       "Comprehensive diagnostic approach to identify and resolve even the most complex plumbing issues.",
       "Commitment to using high-quality materials and equipment, ensuring long-lasting and durable solutions."
     ]
-  }
+  },
+  "businessName": "All Wayz Plumbing",
+  "place_id": "ChIJgyQRmNoPmogRazvQMEXNdIc",
+  "phone": "+1 251-333-0514",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.731721,
+  "longitude": -87.60884949999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
