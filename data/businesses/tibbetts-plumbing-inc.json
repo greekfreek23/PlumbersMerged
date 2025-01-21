@@ -45,5 +45,22 @@
       "Prompt and efficient emergency services available beyond regular business hours, ensuring your plumbing issues are addressed promptly.",
       "Comprehensive range of services, from installations and new construction to repairs and maintenance, catering to all your plumbing requirements."
     ]
-  }
+  },
+  "businessName": "Tibbetts Plumbing Inc",
+  "place_id": "ChIJwSI1E4jzhIgR1g6uEESwRgE",
+  "phone": "+1 601-485-9828",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.291146,
+  "longitude": -88.58930699999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
