@@ -45,5 +45,22 @@
       "Prompt and reliable service, with a focus on minimizing disruptions and ensuring your plumbing systems are functioning optimally.",
       "Comprehensive range of services, from routine maintenance and repairs to complex installations and remodeling projects, all backed by our commitment to quality workmanship."
     ]
-  }
+  },
+  "businessName": "J. Tillman Plumbing",
+  "place_id": "ChIJBUwPfFcriIgR4GIpp9NEvEQ",
+  "phone": "+1 256-345-9241",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.631774,
+  "longitude": -86.7596775,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-7PM\", \"Tuesday\": \"8AM-7PM\", \"Wednesday\": \"8AM-7PM\", \"Thursday\": \"8AM-7PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"8AM-12:30PM\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
