@@ -9,5 +9,23 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to handle any maintenance challenge efficiently.",
       "Commitment to using high-quality materials and following industry best practices to ensure long-lasting results."
     ]
-  }
+  },
+  "businessName": "Bamas Best Maintenance & Repair",
+  "place_id": "ChIJ8WqZ0fG0YYgRUaskgN-pxfs",
+  "phone": "+1 251-504-8102",
+  "address": "8844 Gryder St, Foley, AL 36535",
+  "city": "Foley",
+  "state": "Alabama",
+  "postal_code": 36535,
+  "country": "United States of America",
+  "latitude": 30.3532742,
+  "longitude": -87.76026999999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
