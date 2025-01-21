@@ -46,5 +46,22 @@
       "Highly trained technicians equipped with state-of-the-art tools and diagnostic equipment to accurately identify and resolve issues efficiently.",
       "Commitment to using industry-approved techniques and high-quality materials to ensure long-lasting solutions."
     ]
-  }
+  },
+  "businessName": "Mik Emergency Repair Services",
+  "place_id": "ChIJV8shntN3YogR-fIzFAtr9FA",
+  "phone": "+1 256-287-4759",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
