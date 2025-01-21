@@ -69,5 +69,22 @@
       "Cutting-edge techniques and state-of-the-art equipment, ensuring efficient and long-lasting solutions.",
       "Commitment to customer satisfaction, with transparent communication and competitive pricing."
     ]
-  }
+  },
+  "businessName": "Plumbplus Company",
+  "place_id": "ChIJ8SVDJrTOMKwR0LFCLICWFmw",
+  "phone": "+1 256-797-2033",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.7014286,
+  "longitude": -86.65974949999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"5PM-5AM\", \"Tuesday\": \"5PM-5AM\", \"Wednesday\": \"5PM-5AM\", \"Thursday\": \"5PM-5AM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"7AM-7PM\", \"Sunday\": \"7AM-5AM\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
