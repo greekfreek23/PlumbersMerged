@@ -140,7 +140,7 @@
     {
       "searchString": "place_id:ChIJvYyZkMMehogR95mcjNUr1uI",
       "name": "Teresa Young",
-      "text": "I had used them a couple of years before to install a garbage disposal and was pleased with their work. I called them today - day after holiday - and got after hours service. I called twice and left messages at 8 AM and again at 9:15 AM and no response.  They advertise 24/7 service but that\u2019s obviously not the case.",
+      "text": "I had used them a couple of years before to install a garbage disposal and was pleased with their work. I called them today - day after holiday - and got after hours service. I called twice and left messages at 8 AM and again at 9:15 AM and no response.  They advertise 24/7 service but that?s obviously not the case.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-12-27T00:29:15.743Z",
@@ -2278,7 +2278,7 @@
     {
       "searchString": "place_id:ChIJvYyZkMMehogR95mcjNUr1uI",
       "name": "Isabel Lawrence",
-      "text": "The team, led by Brandon, was professional, courteous, and went above and beyond what I thought they would do! They ARE the best priced service, with best work anywhere \u203c\ufe0f",
+      "text": "The team, led by Brandon, was professional, courteous, and went above and beyond what I thought they would do! They ARE the best priced service, with best work anywhere ??",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-09-07T22:34:37.437Z",
@@ -3404,7 +3404,7 @@
     {
       "searchString": "place_id:ChIJvYyZkMMehogR95mcjNUr1uI",
       "name": "Skylar Campbell",
-      "text": "They were very professional about it and got in and left in no time! If you ever have any problems, they\u2019re the ones to call!",
+      "text": "They were very professional about it and got in and left in no time! If you ever have any problems, they?re the ones to call!",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-06-11T15:19:02.057Z",
@@ -4048,7 +4048,7 @@
     {
       "searchString": "place_id:ChIJvYyZkMMehogR95mcjNUr1uI",
       "name": "Wheh S",
-      "text": "Called them out last week to unstop our main line.  They were professional and fast.  They also installed me a new clean out.  Great job.  \ud83d\udc4c",
+      "text": "Called them out last week to unstop our main line.  They were professional and fast.  They also installed me a new clean out.  Great job.  ?",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-04-25T01:52:14.865Z",
@@ -5326,7 +5326,7 @@
     {
       "searchString": "place_id:ChIJvYyZkMMehogR95mcjNUr1uI",
       "name": "Summer Elzy",
-      "text": "Mr Chad came out and fixed my toilet it was slow to flush and slow to fill back up. The previous owner had a credit card in the toilet that causing the problem. Mr Chad was so nice and got me squared away in no time at all! Use this business they\u2019re the Best!!",
+      "text": "Mr Chad came out and fixed my toilet it was slow to flush and slow to fill back up. The previous owner had a credit card in the toilet that causing the problem. Mr Chad was so nice and got me squared away in no time at all! Use this business they?re the Best!!",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-01-26T15:57:50.022Z",
@@ -7262,7 +7262,7 @@
     {
       "searchString": "place_id:ChIJvYyZkMMehogR95mcjNUr1uI",
       "name": "Ashley Sherrill",
-      "text": "The service department was great. Showed on time and made quick work of the issues we were having and didn\u2019t charge me an arm and leg to do it! I would definitely recommend using them for any plumbing issues you may have!",
+      "text": "The service department was great. Showed on time and made quick work of the issues we were having and didn?t charge me an arm and leg to do it! I would definitely recommend using them for any plumbing issues you may have!",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-08-07T16:51:04.241Z",
@@ -7968,5 +7968,19 @@
       "Cutting-edge techniques and state-of-the-art equipment to tackle even the most complex plumbing challenges.",
       "Transparent pricing and upfront estimates, so you know exactly what to expect before we begin any work."
     ]
-  }
+  },
+  "place_id": "ChIJvYyZkMMehogR95mcjNUr1uI",
+  "phone": "+1 205-758-6237",
+  "address": "1001 30th Ave, Northport, AL 35476",
+  "city": "Northport",
+  "state": "Alabama",
+  "postal_code": 35476,
+  "country": "United States of America",
+  "latitude": 33.2223818,
+  "longitude": -87.58537079999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "reviews": []
 }
