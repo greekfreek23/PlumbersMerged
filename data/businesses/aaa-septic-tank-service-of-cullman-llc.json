@@ -132,7 +132,7 @@
     {
       "searchString": "place_id:ChIJ7c2nkznKiYgR1brcYUuce_g",
       "name": "Evan Hartwig",
-      "text": "DON\u2019T WASTE YOUR TIME!!! Incompetent and LAZY. Apparently they do not have the proper tools to locate your septic tank to do the job.",
+      "text": "DON?T WASTE YOUR TIME!!! Incompetent and LAZY. Apparently they do not have the proper tools to locate your septic tank to do the job.",
       "textTranslated": null,
       "publishAt": "9 months ago",
       "publishedAtDate": "2024-03-29T18:01:16.788Z",
@@ -430,7 +430,7 @@
     {
       "searchString": "place_id:ChIJ7c2nkznKiYgR1brcYUuce_g",
       "name": "9 Bachelors",
-      "text": "Will absolutely use again! Very responsive, timely and polite. Explained everything including recommendations, even for services they don\u2019t do. They pumped our septic tank after digging and cutting thru massive tree roots\ud83d\udcaa\ud83c\udffb",
+      "text": "Will absolutely use again! Very responsive, timely and polite. Explained everything including recommendations, even for services they don?t do. They pumped our septic tank after digging and cutting thru massive tree roots??",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-12-20T13:52:29.067Z",
@@ -530,7 +530,7 @@
     {
       "searchString": "place_id:ChIJ7c2nkznKiYgR1brcYUuce_g",
       "name": "Beth Allred",
-      "text": "Jay and Cody were very professional and worked extremely hard to get our issue fixed in a timely manner and\nat the lowest expense possible, I appreciate two young men showing up to do a job right the first time! \ud83d\udc4d  Would highly recommend AAA Septic Service to anyone needing their tank cleaned out!",
+      "text": "Jay and Cody were very professional and worked extremely hard to get our issue fixed in a timely manner and\nat the lowest expense possible, I appreciate two young men showing up to do a job right the first time! ?  Would highly recommend AAA Septic Service to anyone needing their tank cleaned out!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-09-08T02:25:36.682Z",
@@ -728,7 +728,7 @@
     {
       "searchString": "place_id:ChIJ7c2nkznKiYgR1brcYUuce_g",
       "name": "Ty Goodwin",
-      "text": "Called to schedule a residential septic tank clean out. They had guys available and I was told the guys could come within an hour to an hour and a half. They showed up up early, very polite, and professional. Did the service I asked for and cleaned up and covered up the hole to the point you almost wouldn\u2019t know they were ever there. Great service and I will use again for the next septic clean out.",
+      "text": "Called to schedule a residential septic tank clean out. They had guys available and I was told the guys could come within an hour to an hour and a half. They showed up up early, very polite, and professional. Did the service I asked for and cleaned up and covered up the hole to the point you almost wouldn?t know they were ever there. Great service and I will use again for the next septic clean out.",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-10-29T16:06:19.561Z",
@@ -1669,5 +1669,19 @@
       "Comprehensive range of services, from septic tank pumping and installation to sewer line maintenance and grease trap cleaning.",
       "Skilled technicians dedicated to providing educational guidance and preventative maintenance tips for optimal system performance."
     ]
-  }
+  },
+  "place_id": "ChIJ7c2nkznKiYgR1brcYUuce_g",
+  "phone": "+1 256-739-5917",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.2256039,
+  "longitude": -86.7272759,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "reviews": []
 }
