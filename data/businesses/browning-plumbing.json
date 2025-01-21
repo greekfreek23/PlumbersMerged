@@ -124,5 +124,22 @@
       "Extensive knowledge and experience in tackling even the most challenging plumbing issues with innovative solutions.",
       "Commitment to using the latest techniques and high-quality materials to ensure long-lasting and efficient plumbing systems."
     ]
-  }
+  },
+  "businessName": "Browning Plumbing",
+  "place_id": "ChIJk0KhesoZIQsRTMXoaAPLUxE",
+  "phone": "+1 251-422-3286",
+  "address": "13313 Co Rd 48, Silverhill, AL 36576",
+  "city": "Silverhill",
+  "state": "Alabama",
+  "postal_code": 36576,
+  "country": "United States of America",
+  "latitude": 30.5236461,
+  "longitude": -87.79642779999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-5PM\", \"Sunday\": \"8AM-5PM\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
