@@ -756,7 +756,7 @@
     {
       "searchString": "place_id:ChIJ70j0OX8t9YgRKg0E6FTZP4c",
       "name": "Susan Hendrix",
-      "text": "Very polite and professional! I have used this young man several times. He knows his plumbing. You won\u2019t be disappointed!",
+      "text": "Very polite and professional! I have used this young man several times. He knows his plumbing. You won?t be disappointed!",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-06-20T01:41:49.907Z",
@@ -1346,5 +1346,19 @@
       "Comprehensive plumbing solutions, from water heater installations to sewer line repairs, all under one roof.",
       "Transparent pricing and upfront estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "place_id": "ChIJ70j0OX8t9YgRKg0E6FTZP4c",
+  "phone": "+1 770-639-7228",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.678529999999995,
+  "longitude": -83.19406239999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
