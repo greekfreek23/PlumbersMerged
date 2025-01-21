@@ -9,5 +9,23 @@
       "Meticulous attention to detail and adherence to industry best practices for every job.",
       "Comprehensive services tailored to your specific septic system needs, from routine maintenance to complex repairs."
     ]
-  }
+  },
+  "businessName": "M & M Pumping & Septic Repair",
+  "place_id": "ChIJjyHCB3nGjIgRRzglr7w_TbU",
+  "phone": "+1 706-289-6899",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -84.62809349999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": 4.2,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
