@@ -200,5 +200,22 @@
       "Meticulous attention to detail and a commitment to using high-quality materials for long-lasting results.",
       "Personalized service and open communication, keeping you informed every step of the way."
     ]
-  }
+  },
+  "businessName": "Happy Home Repair Service",
+  "place_id": "ChIJLWBCCjtBkogRVHJzfmFUsYo",
+  "phone": "+1 334-406-4806",
+  "address": "158 Mt Carmel Ave, Coffee Springs, AL 36318",
+  "city": "Coffee Springs",
+  "state": "Alabama",
+  "postal_code": 36318,
+  "country": "United States of America",
+  "latitude": 31.1673545,
+  "longitude": -85.9111337,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
