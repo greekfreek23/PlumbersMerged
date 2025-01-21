@@ -45,5 +45,22 @@
       "24/7 emergency service for prompt response to urgent plumbing issues",
       "Upfront, transparent pricing with no hidden fees or surprises"
     ]
-  }
+  },
+  "businessName": "Nabor Plumbing Inc",
+  "place_id": "ChIJr5PRjhJq9YgRS7612tZOX7o",
+  "phone": "+1 970-201-5761",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.731282,
+  "longitude": -84.32788839999999,
+  "categories": [],
+  "working_hours": {},
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
