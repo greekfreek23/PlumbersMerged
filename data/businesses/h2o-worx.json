@@ -192,5 +192,19 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
       "Commitment to using high-quality materials and adhering to industry best practices, ensuring long-lasting and durable solutions."
     ]
-  }
+  },
+  "place_id": "ChIJNy38tQc_iYgRoHAPtKsnFpk",
+  "phone": "+1 205-964-5300",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.4309505,
+  "longitude": -86.8413174,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": 3.7,
+  "reviews_count": 0,
+  "reviews": []
 }
