@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJ_dD27rjE70YRqHC2bVn8FLw",
       "name": "Ruth McKee",
-      "text": "Extremely happy with Southern Shores Plumbing Services! I\u2019ve used him twice now. He\u2019s extremely reasonable and does a quick and efficient job. I highly recommend using Austin!",
+      "text": "Extremely happy with Southern Shores Plumbing Services! I?ve used him twice now. He?s extremely reasonable and does a quick and efficient job. I highly recommend using Austin!",
       "textTranslated": null,
       "publishAt": "2 months ago",
       "publishedAtDate": "2024-10-18T13:44:50.834Z",
@@ -272,5 +272,19 @@
       "Rapid response times and 24/7 emergency service to ensure your plumbing issues are resolved promptly.",
       "Commitment to using the latest techniques and equipment to deliver long-lasting, cost-effective solutions."
     ]
-  }
+  },
+  "place_id": "ChIJ_dD27rjE70YRqHC2bVn8FLw",
+  "phone": "+1 251-786-0661",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.7327891,
+  "longitude": -87.70195,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-6PM\", \"Tuesday\": \"8AM-6PM\", \"Wednesday\": \"8AM-6PM\", \"Thursday\": \"8AM-6PM\", \"Friday\": \"8AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
