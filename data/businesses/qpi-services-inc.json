@@ -220,7 +220,7 @@
     {
       "searchString": "place_id:ChIJU4YAj19aL2kRhiFox_-hseM",
       "name": "John B",
-      "text": "Great experience, they showed up on time and fixed my shower lines I\u2019ve been having problems with.",
+      "text": "Great experience, they showed up on time and fixed my shower lines I?ve been having problems with.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-12-04T23:35:20.221Z",
@@ -471,5 +471,19 @@
       "Comprehensive plumbing services, from minor repairs to major installations, all handled with expertise.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect."
     ]
-  }
+  },
+  "place_id": "ChIJU4YAj19aL2kRhiFox_-hseM",
+  "phone": "+1 251-609-2925",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.731721,
+  "longitude": -87.899299,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
