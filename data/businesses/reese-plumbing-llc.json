@@ -82,7 +82,7 @@
     {
       "searchString": "place_id:ChIJkUsHLO-S6k4RquPYl5V1n54",
       "name": "Anna",
-      "text": "Great service\u2026.Josh was dependable, knowledgeable and offered fair pricing.  I would call again for future service.",
+      "text": "Great service?.Josh was dependable, knowledgeable and offered fair pricing.  I would call again for future service.",
       "textTranslated": null,
       "publishAt": "a month ago",
       "publishedAtDate": "2024-11-18T02:14:47.437Z",
@@ -450,7 +450,7 @@
     {
       "searchString": "place_id:ChIJkUsHLO-S6k4RquPYl5V1n54",
       "name": "Kenneth Stephens",
-      "text": "We got a recommendation for Josh from the company who sold us a new kitchen faucet.  We called him after receiving a ridiculous installation quote from our normal plumbers, and Josh did excellent work for a more reasonable price.  He showed up on time.  He was very kind and professional.  He didn\u2019t leave a mess.  I realized that the plumbing he had to connect to was wonky because of a previous bad installation, but he did not complain and he handled the challenge with ease and got everything working in no time.  We will absolutely use Josh from now on for all plumbing work, and we recommend him highly.  It was a stroke of luck to find him.",
+      "text": "We got a recommendation for Josh from the company who sold us a new kitchen faucet.  We called him after receiving a ridiculous installation quote from our normal plumbers, and Josh did excellent work for a more reasonable price.  He showed up on time.  He was very kind and professional.  He didn?t leave a mess.  I realized that the plumbing he had to connect to was wonky because of a previous bad installation, but he did not complain and he handled the challenge with ease and got everything working in no time.  We will absolutely use Josh from now on for all plumbing work, and we recommend him highly.  It was a stroke of luck to find him.",
       "textTranslated": null,
       "publishAt": "3 months ago",
       "publishedAtDate": "2024-09-26T16:06:57.284Z",
@@ -588,7 +588,7 @@
     {
       "searchString": "place_id:ChIJkUsHLO-S6k4RquPYl5V1n54",
       "name": "Haley Cumbie",
-      "text": "I would definitely recommend Reese Plumbing! I have used Josh\u2019s services twice and was pleased with the results both times. It was easy to make an appointment, Josh showed up on time and was friendly, efficient and professional. He fixed the problems quickly  and I will call him the next time I need a plumber.",
+      "text": "I would definitely recommend Reese Plumbing! I have used Josh?s services twice and was pleased with the results both times. It was easy to make an appointment, Josh showed up on time and was friendly, efficient and professional. He fixed the problems quickly  and I will call him the next time I need a plumber.",
       "textTranslated": null,
       "publishAt": "8 months ago",
       "publishedAtDate": "2024-05-09T18:32:19.394Z",
@@ -679,8 +679,8 @@
     },
     {
       "searchString": "place_id:ChIJkUsHLO-S6k4RquPYl5V1n54",
-      "name": "Lab\u00e9 Harris",
-      "text": "Josh is an excellent plumber who has always shown up, and he has always fixed our issues. He has completed every job with a smile and appreciation. He always answers the phone and is willing to help. If Josh tells you he\u2019s going to be there, he\u2019s there. He keeps the schedule he tells you which really helps on construction jobs. Thanks for the always excellent service, Josh! 5 stars, highly recommend!",
+      "name": "Lab? Harris",
+      "text": "Josh is an excellent plumber who has always shown up, and he has always fixed our issues. He has completed every job with a smile and appreciation. He always answers the phone and is willing to help. If Josh tells you he?s going to be there, he?s there. He keeps the schedule he tells you which really helps on construction jobs. Thanks for the always excellent service, Josh! 5 stars, highly recommend!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2024-01-16T02:06:21.945Z",
@@ -839,5 +839,19 @@
       "Comprehensive solutions tailored to your specific plumbing requirements, ensuring long-lasting results.",
       "Strict adherence to industry standards and safety protocols, prioritizing your well-being and property protection."
     ]
-  }
+  },
+  "place_id": "ChIJkUsHLO-S6k4RquPYl5V1n54",
+  "phone": "+1 334-430-6864",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.490317,
+  "longitude": -85.912168,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
