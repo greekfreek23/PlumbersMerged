@@ -244,7 +244,7 @@
     {
       "searchString": "place_id:ChIJdzqroP9ziYgRf6mzg3TAtEU",
       "name": "Chuck Glover",
-      "text": "Just want to give a shout out to Champion Plumbing and Remodeling LLC and Remodeling LLCas we had had a water line break yesterday and Patrick and his friend went \u201cabove and beyond\u201d yesterday and last night. They made sure we had water and fixed our busted line well after midnight. As a Retired Veteran I know about going above and beyond. Thank you both so much as you were truly a blessing me and my family. I will highly recommend Champion Plumbing to everyone. Extremely professional and friendly!!!",
+      "text": "Just want to give a shout out to Champion Plumbing and Remodeling LLC and Remodeling LLCas we had had a water line break yesterday and Patrick and his friend went ?above and beyond? yesterday and last night. They made sure we had water and fixed our busted line well after midnight. As a Retired Veteran I know about going above and beyond. Thank you both so much as you were truly a blessing me and my family. I will highly recommend Champion Plumbing to everyone. Extremely professional and friendly!!!",
       "textTranslated": null,
       "publishAt": "11 months ago",
       "publishedAtDate": "2024-02-08T00:18:25.853Z",
@@ -454,7 +454,7 @@
     {
       "searchString": "place_id:ChIJdzqroP9ziYgRf6mzg3TAtEU",
       "name": "R J",
-      "text": "MOST EXCELLENT SERVICE\u203c\ufe0f I HIGHLY RECOMMEND THIS COMPANY. EFFICIENT, FRIENDLY, PROFESSIONAL.",
+      "text": "MOST EXCELLENT SERVICE?? I HIGHLY RECOMMEND THIS COMPANY. EFFICIENT, FRIENDLY, PROFESSIONAL.",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-12-28T16:55:55.708Z",
@@ -1343,5 +1343,19 @@
       "Comprehensive expertise in all aspects of plumbing, from minor fixes to large-scale renovations.",
       "Commitment to using the latest techniques and high-quality materials for long-lasting solutions."
     ]
-  }
+  },
+  "place_id": "ChIJdzqroP9ziYgRf6mzg3TAtEU",
+  "phone": "+1 205-902-1405",
+  "address": "80 Bryan Ln, Warrior, AL 35180",
+  "city": "Warrior",
+  "state": "Alabama",
+  "postal_code": 35180,
+  "country": "United States of America",
+  "latitude": 33.8896814,
+  "longitude": -86.8373486,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.8,
+  "reviews_count": 0,
+  "reviews": []
 }
