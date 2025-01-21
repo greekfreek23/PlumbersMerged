@@ -45,5 +45,22 @@
       "Meticulous attention to detail and a commitment to using only the highest-quality materials for long-lasting solutions.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect without any hidden fees."
     ]
-  }
+  },
+  "businessName": "TradeLink Plumbing",
+  "place_id": "ChIJqdWmInUmh6QRPGy95XywYso",
+  "phone": "+1 205-644-9282",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5:30PM\", \"Tuesday\": \"8AM-5:30PM\", \"Wednesday\": \"8AM-5:30PM\", \"Thursday\": \"8AM-5:30PM\", \"Friday\": \"8AM-5:30PM\", \"Saturday\": \"8AM-5:30AM\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
