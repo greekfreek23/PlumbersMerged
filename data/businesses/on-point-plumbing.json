@@ -295,7 +295,7 @@
     {
       "searchString": "place_id:ChIJBw1WvpTPi4gRyxUDmb6Bef0",
       "name": "Kay Robertson",
-      "text": "Scott, who owns, On Point Plumbing was the absolute answer for all of my plumbing needs!! He is professional, an excellent plumber, was on time and does quality workmanship! I would recommend, On Point Plumbing for anyone\u2019s plumbing needs!!",
+      "text": "Scott, who owns, On Point Plumbing was the absolute answer for all of my plumbing needs!! He is professional, an excellent plumber, was on time and does quality workmanship! I would recommend, On Point Plumbing for anyone?s plumbing needs!!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-07-07T16:08:18.551Z",
@@ -1473,5 +1473,19 @@
       "Expertise in a wide range of plumbing services, from leak detection and repair to fixture installation and system upgrades.",
       "Commitment to using the latest techniques and high-quality materials, ensuring long-lasting solutions."
     ]
-  }
+  },
+  "place_id": "ChIJBw1WvpTPi4gRyxUDmb6Bef0",
+  "phone": "+1 205-405-6755",
+  "address": "61 Sterling Rd, Eastaboga, AL 36260",
+  "city": "Eastaboga",
+  "state": "Alabama",
+  "postal_code": 36260,
+  "country": "United States of America",
+  "latitude": 33.5646749,
+  "longitude": -86.0234426,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
