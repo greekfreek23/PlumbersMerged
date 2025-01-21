@@ -6,7 +6,7 @@
   "heroSection": [
     {
       "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPGGW8t33F1ShQBraOSLPOP6Sl3okJEVeVhTixZ=w2048-h2048-k-no",
-      "description": "A professional logo for Dorsey Plumbing LLC, featuring crossed plumbing tools and the text 'Licensed \u2022 Bonded \u2022 Insured', conveying the company's expertise and reliability.",
+      "description": "A professional logo for Dorsey Plumbing LLC, featuring crossed plumbing tools and the text 'Licensed ? Bonded ? Insured', conveying the company's expertise and reliability.",
       "callToAction": "Trust the experts at Dorsey Plumbing LLC for all your plumbing needs. Licensed, bonded, and insured for your peace of mind."
     },
     {
@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJeTIrzE1TrKMRCq-vILpE01A",
       "name": "Elton Curtis",
-      "text": "I\u2019ve always had a good experience with Dorsey plumbing. He\u2019s done several jobs at my house and I had no problems with the work. I would have no problems  referring him to family and friends.",
+      "text": "I?ve always had a good experience with Dorsey plumbing. He?s done several jobs at my house and I had no problems with the work. I would have no problems  referring him to family and friends.",
       "textTranslated": null,
       "publishAt": "a month ago",
       "publishedAtDate": "2024-11-19T01:33:27.446Z",
@@ -144,5 +144,19 @@
       "Commitment to using high-quality materials and following industry best practices for long-lasting solutions.",
       "Personalized service tailored to your specific requirements, ensuring your complete satisfaction."
     ]
-  }
+  },
+  "place_id": "ChIJeTIrzE1TrKMRCq-vILpE01A",
+  "phone": "+1 470-489-8841",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.680307899999995,
+  "longitude": -85.485253,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
