@@ -1,0 +1,16 @@
+{
+  "businessName": "Bob's Handyman Service",
+  "place_id": "ChIJR-52NbXxYYgRW4Fdh8UNFQc",
+  "phone": "+1 256-609-5487",
+  "address": "1184 Co Rd 17, Scottsboro, AL 35768",
+  "city": "Scottsboro",
+  "state": "Alabama",
+  "postal_code": 35768,
+  "country": "United States of America",
+  "latitude": 34.6562632,
+  "longitude": -86.127175,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"7AM-6PM\", \"Sunday\": \"7AM-6PM\"}",
+  "rating": 5,
+  "reviews_count": 0
+}
