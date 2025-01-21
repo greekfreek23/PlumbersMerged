@@ -116,5 +116,22 @@
       "Prompt and efficient service, ensuring your plumbing issues are resolved quickly and effectively.",
       "Commitment to using the latest techniques and high-quality materials for long-lasting solutions."
     ]
-  }
+  },
+  "businessName": "Stewart Plumbing LLC",
+  "place_id": "ChIJSdyCs8wEmogRDKHwslG01vg",
+  "phone": "+1 251-233-3056",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.5724405,
+  "longitude": -89.03751,
+  "categories": [],
+  "working_hours": {},
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
