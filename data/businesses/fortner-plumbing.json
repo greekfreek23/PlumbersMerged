@@ -101,5 +101,19 @@
       "Cutting-edge equipment and techniques, including hydro jetting and video camera inspections, for precise diagnostics and lasting solutions.",
       "Emergency services available 24/7, with prompt response times to address urgent plumbing situations."
     ]
-  }
+  },
+  "place_id": "ChIJMS0Zzfzm-kcRrofgE_ykHcY",
+  "phone": "+1 256-244-3030",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.5490484,
+  "longitude": -86.396124,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"6AM-6PM\", \"Tuesday\": \"6AM-6PM\", \"Wednesday\": \"6AM-6PM\", \"Thursday\": \"6AM-6PM\", \"Friday\": \"6AM-6PM\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
