@@ -174,7 +174,7 @@
     {
       "searchString": "place_id:ChIJB3cKwZkCiC4Rpysr3_MXxWU",
       "name": "Brandon Bynum",
-      "text": "Amazing experience! Blake was out here quickly! Communicated the entire time ! Was the best plumber experience we have ever had. Very nice guy, extremely kind and respectful.  10/10 highly recommend. \ud83d\ude0a",
+      "text": "Amazing experience! Blake was out here quickly! Communicated the entire time ! Was the best plumber experience we have ever had. Very nice guy, extremely kind and respectful.  10/10 highly recommend. ?",
       "textTranslated": null,
       "publishAt": "8 months ago",
       "publishedAtDate": "2024-04-19T18:52:12.936Z",
@@ -432,5 +432,19 @@
       "Prompt and efficient service, with a commitment to minimizing disruptions and ensuring your complete satisfaction.",
       "Comprehensive solutions backed by extensive knowledge and the latest techniques in plumbing and gas services."
     ]
-  }
+  },
+  "place_id": "ChIJB3cKwZkCiC4Rpysr3_MXxWU",
+  "phone": "+1 256-622-9955",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.021177,
+  "longitude": -86.05364449999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
