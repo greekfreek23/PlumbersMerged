@@ -652,7 +652,7 @@
     {
       "searchString": "place_id:ChIJU6_IQ0Qti4gRhjT114TxHWE",
       "name": "Thomas Grimm",
-      "text": "If I can put 10 stars I would. Robby was on time, and very knowledgeable about the work process of the busted water lines in my yard. He\u2019s clean on his work and quick turn over. Not to mention this is a family owned business and that right there speaks for itself. Thanks again Pipers Plumbing!",
+      "text": "If I can put 10 stars I would. Robby was on time, and very knowledgeable about the work process of the busted water lines in my yard. He?s clean on his work and quick turn over. Not to mention this is a family owned business and that right there speaks for itself. Thanks again Pipers Plumbing!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-07-03T18:55:14.416Z",
@@ -807,7 +807,7 @@
     {
       "searchString": "place_id:ChIJU6_IQ0Qti4gRhjT114TxHWE",
       "name": "Hunter Thornton",
-      "text": "The most professional and experienced plumber I\u2019ve had the actual pleasure of hiring! Won\u2019t talk to you like you\u2019re stupid and is actually on time with the best communication skills I\u2019ve seen in a while. Would recommend. Did an amazing job fixing my sink!",
+      "text": "The most professional and experienced plumber I?ve had the actual pleasure of hiring! Won?t talk to you like you?re stupid and is actually on time with the best communication skills I?ve seen in a while. Would recommend. Did an amazing job fixing my sink!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-07-03T17:33:11.255Z",
@@ -911,7 +911,7 @@
     {
       "searchString": "place_id:ChIJU6_IQ0Qti4gRhjT114TxHWE",
       "name": "Seth Arnell",
-      "text": "Reasonably priced and fantastic customer service. 10/10 recommend pipers plumbing if you\u2019re in the West Ga area",
+      "text": "Reasonably priced and fantastic customer service. 10/10 recommend pipers plumbing if you?re in the West Ga area",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-06-23T17:17:33.740Z",
@@ -964,7 +964,7 @@
     {
       "searchString": "place_id:ChIJU6_IQ0Qti4gRhjT114TxHWE",
       "name": "Fairytale Cinderella",
-      "text": "Pipers came out today and did a fantastic job!  Technician was on time, very kind and reasonably priced. Especially pleased he did not feel like he \u201ctalked down\u201d to me as a female like other service providers have done. Would absolutely recommend this company to everyone!",
+      "text": "Pipers came out today and did a fantastic job!  Technician was on time, very kind and reasonably priced. Especially pleased he did not feel like he ?talked down? to me as a female like other service providers have done. Would absolutely recommend this company to everyone!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-06-22T16:07:13.947Z",
@@ -1039,5 +1039,19 @@
       "State-of-the-art equipment and techniques for efficient and lasting solutions",
       "Upfront pricing and transparent communication for a hassle-free experience"
     ]
-  }
+  },
+  "place_id": "ChIJU6_IQ0Qti4gRhjT114TxHWE",
+  "phone": "+1 678-664-2017",
+  "address": "318 Laurel Ln, Carrollton, GA 30116",
+  "city": "Carrollton",
+  "state": "Georgia",
+  "postal_code": 30116,
+  "country": "United States of America",
+  "latitude": 33.5259011,
+  "longitude": -85.0020055,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-7PM\", \"Tuesday\": \"8AM-7PM\", \"Wednesday\": \"8AM-7PM\", \"Thursday\": \"8AM-7PM\", \"Friday\": \"8AM-7PM\", \"Saturday\": \"8AM-7PM\", \"Sunday\": \"8AM-7PM\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
