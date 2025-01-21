@@ -143,7 +143,7 @@
     {
       "searchString": "place_id:ChIJdx_5fANL84gRAZ0HAnv563A",
       "name": "Cody Burger",
-      "text": "Really easy to work with Jon Barnes Plumbing. Great prices and outstanding work. Had a leaking toilet flange that Jon identified quickly and ensured the repair was clean and professional. Several months later, our hot water heater began leaking. Jon and Joey saved us from having to replace our hot water heaters and also fixed a water pressure issue that we had been trying to find a cause for since we moved into our home.\nIf you\u2019re looking for a great plumber, this is it.",
+      "text": "Really easy to work with Jon Barnes Plumbing. Great prices and outstanding work. Had a leaking toilet flange that Jon identified quickly and ensured the repair was clean and professional. Several months later, our hot water heater began leaking. Jon and Joey saved us from having to replace our hot water heaters and also fixed a water pressure issue that we had been trying to find a cause for since we moved into our home.\nIf you?re looking for a great plumber, this is it.",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-10-23T20:14:58.247Z",
@@ -237,7 +237,7 @@
     {
       "searchString": "place_id:ChIJdx_5fANL84gRAZ0HAnv563A",
       "name": "arden cheney",
-      "text": "This is the most efficient and professional business I have worked with! I can\u2019t speak highly enough about them. David Whitehead was running my project - he is incredible.",
+      "text": "This is the most efficient and professional business I have worked with! I can?t speak highly enough about them. David Whitehead was running my project - he is incredible.",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-11-05T18:14:51.254Z",
@@ -443,5 +443,22 @@
       "Comprehensive solutions backed by extensive knowledge and cutting-edge techniques, guaranteeing long-lasting results.",
       "Unwavering commitment to customer satisfaction, with transparent pricing and open communication throughout every project."
     ]
-  }
+  },
+  "businessName": "Jon Barnes Plumbing",
+  "place_id": "ChIJdx_5fANL84gRAZ0HAnv563A",
+  "phone": "+1 762-207-9719",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.557192,
+  "longitude": -84.8741234,
+  "categories": [],
+  "working_hours": {},
+  "rating": 4.6,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
