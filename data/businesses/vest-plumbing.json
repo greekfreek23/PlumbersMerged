@@ -1118,5 +1118,19 @@
       "Comprehensive range of services, from routine maintenance to complex installations and repairs, all performed with precision and attention to detail.",
       "Commitment to using the latest techniques and equipment to ensure efficient and effective solutions for all your plumbing needs."
     ]
-  }
+  },
+  "place_id": "ChIJF09EatdHiIgRGcgGB0NOmko",
+  "phone": "+1 256-735-9857",
+  "address": "197 Co Rd 351, Crane Hill, AL 35053",
+  "city": "Crane Hill",
+  "state": "Alabama",
+  "postal_code": 35053,
+  "country": "United States of America",
+  "latitude": 34.083762,
+  "longitude": -87.06606699999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
