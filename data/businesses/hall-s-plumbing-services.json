@@ -1,0 +1,16 @@
+{
+  "businessName": "Hall's Plumbing Services",
+  "place_id": "ChIJAS1nXYq5m4gRepHHKTs5qAQ",
+  "phone": "+1 251-209-1908",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.6588654,
+  "longitude": -88.1779755,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0
+}
