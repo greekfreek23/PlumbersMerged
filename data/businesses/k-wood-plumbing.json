@@ -677,5 +677,22 @@
       "Comprehensive range of services, from routine maintenance to complex installations and repairs, all delivered with precision and attention to detail.",
       "Commitment to customer satisfaction, ensuring timely response, clear communication, and transparent pricing for every project."
     ]
-  }
+  },
+  "businessName": "K-Wood Plumbing",
+  "place_id": "ChIJvdu-umEfiYgRKtzuuWW4wek",
+  "phone": "+1 205-915-1098",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.4605594,
+  "longitude": -86.85013699999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.6,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
