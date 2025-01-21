@@ -106,7 +106,7 @@
     {
       "searchString": "place_id:ChIJ2Sm99wNHjYgRkrVmNKVQDT4",
       "name": "Jimmy",
-      "text": "Prompt and professional service! Toilets were backing up and I called Lawrence septic. They called me back and showed up the next morning. The young gentleman Sterling was very courteous and professional. Very affordable! I highly recommend their services! \ud83d\udc4d\ud83c\udffcA+",
+      "text": "Prompt and professional service! Toilets were backing up and I called Lawrence septic. They called me back and showed up the next morning. The young gentleman Sterling was very courteous and professional. Very affordable! I highly recommend their services! ??A+",
       "textTranslated": null,
       "publishAt": "7 months ago",
       "publishedAtDate": "2024-05-17T14:40:32.974Z",
@@ -957,5 +957,22 @@
       "Comprehensive knowledge of local regulations and soil conditions, enabling us to provide tailored solutions that meet your specific needs.",
       "Commitment to using the latest techniques and equipment, ensuring your septic system is serviced with the highest level of professionalism and care."
     ]
-  }
+  },
+  "businessName": "LAWRENCE SEPTIC SERVICE",
+  "place_id": "ChIJ2Sm99wNHjYgRkrVmNKVQDT4",
+  "phone": "+1 334-687-2301",
+  "address": "505 W Boundary St, Eufaula, AL 36027",
+  "city": "Eufaula",
+  "state": "Alabama",
+  "postal_code": 36027,
+  "country": "United States of America",
+  "latitude": 31.8804779,
+  "longitude": -85.1550862,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5:30PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5:30PM\", \"Friday\": \"8AM-5:30PM\", \"Saturday\": \"8AM-1PM\", \"Sunday\": \"Closed\"}",
+  "rating": 4.6,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
