@@ -17,7 +17,7 @@
     {
       "imageIndex": "https://lh5.googleusercontent.com/p/AF1QipPii-3g4GL1Uc-hPJz2t0h7LUteZSEdoHyxE8oN=w2048-h2048-k-no",
       "description": "A large American flag proudly displayed amidst the company's equipment and supplies, representing their patriotic values and dedication to serving the local community.",
-      "callToAction": "Experience the American dream with Crowe's Trenching \u2013 reliable, hardworking, and committed to your success."
+      "callToAction": "Experience the American dream with Crowe's Trenching ? reliable, hardworking, and committed to your success."
     }
   ],
   "aboutUsSection": [
@@ -41,5 +41,20 @@
       "Unwavering commitment to using top-quality materials and adhering to industry best practices, ensuring durable and code-compliant solutions.",
       "Personalized attention and clear communication throughout the process, keeping you informed and addressing your concerns promptly."
     ]
-  }
+  },
+  "place_id": "ChIJGwJ1Ls-QJa0RD-7Pnpbfxz8",
+  "phone": "+1 334-498-6942",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.759439,
+  "longitude": -85.34898749999999,
+  "categories": [],
+  "working_hours": {},
+  "rating": 4.4,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
