@@ -292,5 +292,19 @@
       "Prompt and efficient service, ensuring your plumbing issues are resolved quickly and effectively.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before we begin any work."
     ]
-  }
+  },
+  "place_id": "ChIJT-y2-QVOGqgRfcbQLR1YWqw",
+  "phone": "+1 256-247-8660",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.3853514,
+  "longitude": -87.04668749999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
