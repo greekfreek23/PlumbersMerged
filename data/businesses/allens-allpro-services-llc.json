@@ -49,5 +49,22 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to tackle any plumbing challenge.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "businessName": "Allens AllPro Services LLC",
+  "place_id": "ChIJKzv9Mw5X9IgR3qzjyIYeuSo",
+  "phone": "+1 470-778-6391",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.678529999999995,
+  "longitude": -83.19406239999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
