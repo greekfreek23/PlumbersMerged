@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJNXlekSCbJ0ERjtG2r3D36CA",
       "name": "Gary Morton",
-      "text": "They came out and put a brand new septic system in one day very professional and it\u2019s all done right with great quality! They even fixed my hot water heater while they was here. They also provided a lot of other service im sure are well worth it 10/10 would recommend!",
+      "text": "They came out and put a brand new septic system in one day very professional and it?s all done right with great quality! They even fixed my hot water heater while they was here. They also provided a lot of other service im sure are well worth it 10/10 would recommend!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-03-28T13:15:45.293Z",
@@ -105,5 +105,19 @@
       "Comprehensive range of services, from septic system design and installation to plumbing renovations and emergency repairs.",
       "Commitment to using the latest techniques and equipment to deliver efficient, long-lasting solutions."
     ]
-  }
+  },
+  "place_id": "ChIJNXlekSCbJ0ERjtG2r3D36CA",
+  "phone": "+1 205-236-9022",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.5312374,
+  "longitude": -86.85013699999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"6AM-6PM\", \"Tuesday\": \"6AM-6PM\", \"Wednesday\": \"6AM-6PM\", \"Thursday\": \"6AM-6PM\", \"Friday\": \"6AM-6PM\", \"Saturday\": \"6AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
