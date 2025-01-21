@@ -46,7 +46,7 @@
     {
       "searchString": "place_id:ChIJ0VVeS1ufkIgR8u7V91OiOOk",
       "name": "Gerri I",
-      "text": "Todd Brown did a great job! He replaced my tub, my tub was an odd size and he took his time and figured out a way to make a smaller tub work in that spot. Very good work ethic and honest and had a great little helper named Jackson. My new tub looks GREAT! Thanks guys.  Will use BROWN\u2019S PLUMBING SOLUTIONS for all my plumbing needs from now on!",
+      "text": "Todd Brown did a great job! He replaced my tub, my tub was an odd size and he took his time and figured out a way to make a smaller tub work in that spot. Very good work ethic and honest and had a great little helper named Jackson. My new tub looks GREAT! Thanks guys.  Will use BROWN?S PLUMBING SOLUTIONS for all my plumbing needs from now on!",
       "textTranslated": null,
       "publishAt": "a month ago",
       "publishedAtDate": "2024-12-13T16:16:01.494Z",
@@ -201,7 +201,7 @@
     {
       "searchString": "place_id:ChIJ0VVeS1ufkIgR8u7V91OiOOk",
       "name": "Eleonora Cravatt",
-      "text": "Todd did a great job replacing my leaking shower/tab valve. He came on the scheduled time and explained to me what needs to be done. Also, his price is affordable. Please don\u2019t hesitate to contact Todd Brown and hire him for all your plumbing needs. I found his plumbing service through HomeDepot website. They do background check on all their contractors before recommending.",
+      "text": "Todd did a great job replacing my leaking shower/tab valve. He came on the scheduled time and explained to me what needs to be done. Also, his price is affordable. Please don?t hesitate to contact Todd Brown and hire him for all your plumbing needs. I found his plumbing service through HomeDepot website. They do background check on all their contractors before recommending.",
       "textTranslated": null,
       "publishAt": "3 months ago",
       "publishedAtDate": "2024-09-23T18:51:15.733Z",
@@ -353,7 +353,7 @@
     },
     {
       "searchString": "place_id:ChIJ0VVeS1ufkIgR8u7V91OiOOk",
-      "name": "Carolyn \u201cWhoDatRN!\u201d Laskowski",
+      "name": "Carolyn ?WhoDatRN!? Laskowski",
       "text": "Plumbing Genius!",
       "textTranslated": null,
       "publishAt": "5 months ago",
@@ -468,5 +468,19 @@
   "last60": 2,
   "last90": 3,
   "last180": 7,
-  "last365": 8
+  "last365": 8,
+  "place_id": "ChIJ0VVeS1ufkIgR8u7V91OiOOk",
+  "phone": "+1 850-530-8130",
+  "address": "20222 Erin Pond Rd, Seminole, AL 36574",
+  "city": "Seminole",
+  "state": "Alabama",
+  "postal_code": 36574,
+  "country": "United States of America",
+  "latitude": 30.5194634,
+  "longitude": -87.4754061,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
