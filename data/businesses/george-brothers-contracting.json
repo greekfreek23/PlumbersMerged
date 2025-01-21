@@ -40,5 +40,22 @@
   "last60": 0,
   "last90": 0,
   "last180": 0,
-  "last365": 0
+  "last365": 0,
+  "businessName": "George Brothers' Contracting",
+  "place_id": "ChIJqVsZfr8084gRzQzlp63cz3M",
+  "phone": "+1 706-527-1060",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.678529999999995,
+  "longitude": -83.19406239999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
