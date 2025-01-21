@@ -41,5 +41,20 @@
       "Rapid response times and availability for emergency plumbing situations, minimizing disruptions and potential damage.",
       "Comprehensive range of services, from routine maintenance to complex installations, all delivered with meticulous attention to detail."
     ]
-  }
+  },
+  "place_id": "ChIJTxBP5nIjiYgRbG-KkLQzTZw",
+  "phone": "+1 205-368-0503",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.4309505,
+  "longitude": -86.8413174,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.6,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
