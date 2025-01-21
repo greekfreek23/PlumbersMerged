@@ -9,5 +9,23 @@
       "Locally focused service: As a trusted member of the Dawson community, we understand the specific challenges and requirements of our region, allowing us to provide tailored solutions that meet your needs.",
       "Commitment to quality: With a focus on professionalism and attention to detail, we strive to deliver work of the highest caliber, ensuring your complete satisfaction with every project."
     ]
-  }
+  },
+  "businessName": "Lakeith's Plumbing & Electric LLC",
+  "place_id": "ChIJv04uAWPSVQcRjJwsj-_SN4M",
+  "phone": "+1 256-717-7562",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.46785,
+  "longitude": -85.936599,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"8AM-12PM\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
