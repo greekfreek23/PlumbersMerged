@@ -50,7 +50,7 @@
     {
       "searchString": "place_id:ChIJi8b0Z1B3iYgRr4cuUIRlpls",
       "name": "Fil Gilmer",
-      "text": "Sometimes you make the right decision.  Daniel Goforth immediately responded to my request for an estimate to provide and install a tankless hot water heater.  Helped me decide on model and what was included in his estimate to achieve what I wanted.  Yep!  Again,  immediate response to install the unit.  I was impressed with care and attention to details to my satisfaction.  While Daniel was here I asked a simple question, he immediately told me the answer and solved the problem.  I always ask myself:  Would I make the same decision.  Yep! Like watching A&E.  Time (and money) well spent. I now enjoy \u201cendless hot water\u201d knowing I can call Daniel for any future plumbing needs.",
+      "text": "Sometimes you make the right decision.  Daniel Goforth immediately responded to my request for an estimate to provide and install a tankless hot water heater.  Helped me decide on model and what was included in his estimate to achieve what I wanted.  Yep!  Again,  immediate response to install the unit.  I was impressed with care and attention to details to my satisfaction.  While Daniel was here I asked a simple question, he immediately told me the answer and solved the problem.  I always ask myself:  Would I make the same decision.  Yep! Like watching A&E.  Time (and money) well spent. I now enjoy ?endless hot water? knowing I can call Daniel for any future plumbing needs.",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-02-14T14:18:59.296Z",
@@ -303,5 +303,22 @@
       "Comprehensive range of services, from routine maintenance to complex commercial installations, all under one roof.",
       "Commitment to using the latest techniques and technologies to provide efficient, cost-effective, and environmentally-friendly solutions."
     ]
-  }
+  },
+  "businessName": "Goforth Enterprises",
+  "place_id": "ChIJi8b0Z1B3iYgRr4cuUIRlpls",
+  "phone": "+1 205-405-4129",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.5415784,
+  "longitude": -86.749246,
+  "categories": [],
+  "working_hours": "{\"Sunday\": \"Closed\", \"Monday\": \"8AM-5AM\", \"Tuesday\": \"8AM-5AM\", \"Wednesday\": \"8AM-5AM\", \"Thursday\": \"8AM-5AM\", \"Friday\": \"8AM-5AM\", \"Saturday\": \"Closed\"}",
+  "rating": 4.8,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
