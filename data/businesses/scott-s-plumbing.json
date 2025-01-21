@@ -1,0 +1,16 @@
+{
+  "businessName": "Scott's Plumbing",
+  "place_id": "ChIJ5WDNMk4QiYgR_cilQamVFwE",
+  "phone": "+1 205-249-4491",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"12AM-5:30PM\", \"Tuesday\": \"12AM-5:30PM\", \"Wednesday\": \"12AM-5:30PM\", \"Thursday\": \"12AM-5:30PM\", \"Friday\": \"12AM-5:30PM\", \"Saturday\": \"12AM-5:30PM\", \"Sunday\": \"12AM-12PM\"}",
+  "rating": null,
+  "reviews_count": 0
+}
