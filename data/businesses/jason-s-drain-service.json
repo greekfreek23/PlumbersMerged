@@ -1,0 +1,16 @@
+{
+  "businessName": "Jason's Drain Service",
+  "place_id": "ChIJXRkQEk8IhogR_lyzlUctFH4",
+  "phone": "+1 205-764-8182",
+  "address": "2010 Mountainbrook Dr, Cottondale, AL 35453",
+  "city": "Cottondale",
+  "state": "Alabama",
+  "postal_code": 35453,
+  "country": "United States of America",
+  "latitude": 33.1867702,
+  "longitude": -87.4287397,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0
+}
