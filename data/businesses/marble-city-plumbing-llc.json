@@ -735,5 +735,19 @@
       "Comprehensive range of services tailored to meet the unique needs of residential and commercial clients in the Sylacauga area.",
       "Commitment to using high-quality materials and equipment, ensuring durable and reliable results for every project."
     ]
-  }
+  },
+  "place_id": "ChIJJ5zrDKVPiYgRyNpt4HjGofs",
+  "phone": "+1 256-267-1569",
+  "address": "245 Blue Heron Ln, Sylacauga, AL 35151",
+  "city": "Sylacauga",
+  "state": "Alabama",
+  "postal_code": 35151,
+  "country": "United States of America",
+  "latitude": 33.1926831,
+  "longitude": -86.49082969999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
