@@ -144,5 +144,19 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques.",
       "Transparent pricing and upfront cost estimates, ensuring no hidden fees or surprises."
     ]
-  }
+  },
+  "place_id": "ChIJqVC9cVsmLA8R-hQ8-Eob-OI",
+  "phone": "+1 251-463-0016",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 46.423669,
+  "longitude": -129.9427086,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"7AM-7PM\", \"Sunday\": \"7AM-7PM\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
