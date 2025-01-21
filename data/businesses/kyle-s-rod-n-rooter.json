@@ -966,5 +966,22 @@
   "last60": 0,
   "last90": 0,
   "last180": 0,
-  "last365": 1
+  "last365": 1,
+  "businessName": "Kyle's Rod-N Rooter",
+  "place_id": "ChIJXQrPdaaMkogRG2yd8I_iJ7o",
+  "phone": "+1 334-794-1384",
+  "address": "2139 County Line Rd, Dothan, AL 36305",
+  "city": "Dothan",
+  "state": "Alabama",
+  "postal_code": 36305,
+  "country": "United States of America",
+  "latitude": 31.1980975,
+  "longitude": -85.5152186,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
