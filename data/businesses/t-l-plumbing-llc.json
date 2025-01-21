@@ -41,5 +41,20 @@
       "Comprehensive solutions tailored to your specific needs, backed by our team's extensive expertise.",
       "Commitment to transparent pricing and exceptional customer service, putting your satisfaction as our top priority."
     ]
-  }
+  },
+  "place_id": "ChIJdWtaSqFz9YwRDZWVCVHNwbg",
+  "phone": "+1 205-886-6801",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.396806,
+  "longitude": -87.1198694,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
