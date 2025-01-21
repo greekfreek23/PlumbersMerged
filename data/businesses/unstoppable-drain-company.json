@@ -9,5 +9,23 @@
       "State-of-the-art equipment and advanced techniques to ensure efficient and long-lasting solutions.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect."
     ]
-  }
+  },
+  "businessName": "Unstoppable Drain & Company",
+  "place_id": "ChIJ18gSWitetaMRQkSPgnyDoSQ",
+  "phone": "+1 706-570-1584",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.6017094,
+  "longitude": -84.8741234,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7:30AM-4:30PM\", \"Tuesday\": \"7:30AM-4:30PM\", \"Wednesday\": \"7:30AM-4:30PM\", \"Thursday\": \"7:30AM-4:30PM\", \"Friday\": \"7:30AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
