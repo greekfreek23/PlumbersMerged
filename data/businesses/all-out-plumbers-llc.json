@@ -84,7 +84,7 @@
     {
       "searchString": "place_id:ChIJtx6RsCUrNAYRPdM-62ctTGE",
       "name": "NeNe Young",
-      "text": "Never used this company but whoever drives the red truck for your company needs to learn basic road safety rules and respect. They almost caused an accident on S Memorial Pkwy at the Martin Rd exit just to get in front of another vehicle. Don\u2019t drive recklessly with the company on the vehicle. Not smart either way \ud83d\ude2c\ud83d\ude44",
+      "text": "Never used this company but whoever drives the red truck for your company needs to learn basic road safety rules and respect. They almost caused an accident on S Memorial Pkwy at the Martin Rd exit just to get in front of another vehicle. Don?t drive recklessly with the company on the vehicle. Not smart either way ??",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-03-25T22:55:30.629Z",
@@ -338,5 +338,19 @@
       "Rapid response times and 24/7 emergency services to address urgent plumbing issues promptly.",
       "Cutting-edge tools and techniques to ensure efficient and long-lasting solutions for your plumbing challenges."
     ]
-  }
+  },
+  "place_id": "ChIJtx6RsCUrNAYRPdM-62ctTGE",
+  "phone": "+1 256-298-3708",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.4909095,
+  "longitude": -86.88779699999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"6AM-6PM\", \"Tuesday\": \"6AM-6PM\", \"Wednesday\": \"6AM-6PM\", \"Thursday\": \"6AM-6PM\", \"Friday\": \"6AM-6PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 3.7,
+  "reviews_count": 0,
+  "reviews": []
 }
