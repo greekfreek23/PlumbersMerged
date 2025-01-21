@@ -45,5 +45,22 @@
       "Meticulous attention to detail and a commitment to using only the highest-quality materials and techniques.",
       "Personalized service tailored to your unique needs, with a focus on clear communication and exceeding your expectations."
     ]
-  }
+  },
+  "businessName": "Done Rite Restorations Home Repair Specialist 369 B Lafayette Street Roanoke Alabama",
+  "place_id": "ChIJa4Z5q3Iv-goRQVAqhavucCY",
+  "phone": "+1 941-258-1452",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.1472386,
+  "longitude": -85.37107499999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-6PM\", \"Tuesday\": \"7AM-6PM\", \"Wednesday\": \"7AM-6PM\", \"Thursday\": \"7AM-6PM\", \"Friday\": \"7AM-6PM\", \"Saturday\": \"7AM-6PM\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
