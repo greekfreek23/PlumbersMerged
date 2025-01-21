@@ -263,7 +263,7 @@
     {
       "searchString": "place_id:ChIJ0dUplGv_iYgRm4hjeLCoORw",
       "name": "Privatestoc2",
-      "text": "Very Professional, called when he was on his way. Competent, explained the problem, and didn\u2019t waste any time getting it resolved.\nHIGHLY RECOMMEND!",
+      "text": "Very Professional, called when he was on his way. Competent, explained the problem, and didn?t waste any time getting it resolved.\nHIGHLY RECOMMEND!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-12-21T00:29:28.576Z",
@@ -471,5 +471,19 @@
       "Cutting-edge techniques and state-of-the-art equipment, guaranteeing superior results and long-lasting solutions.",
       "Unwavering dedication to customer satisfaction, with a team of friendly and knowledgeable professionals who prioritize your needs."
     ]
-  }
+  },
+  "place_id": "ChIJ0dUplGv_iYgRm4hjeLCoORw",
+  "phone": "+1 256-572-9349",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.349608,
+  "longitude": -86.319824,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
