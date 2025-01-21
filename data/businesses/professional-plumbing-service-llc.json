@@ -99,5 +99,19 @@
       "Prompt and professional service: We understand the urgency of plumbing issues and prioritize prompt response times, arriving at your doorstep fully equipped to handle any situation with professionalism and care.",
       "Commitment to quality: We take pride in our work and use only the highest-quality materials and techniques, ensuring long-lasting solutions that meet or exceed industry standards."
     ]
-  }
+  },
+  "place_id": "ChIJJyRFa9WbjIgRh48m54XQHgk",
+  "phone": "+1 334-755-5766",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.277606899999995,
+  "longitude": -86.36670989999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
