@@ -82,7 +82,7 @@
     {
       "searchString": "place_id:ChIJc6N5z3-hSk0R3SFkp3CFKbQ",
       "name": "cam wilk",
-      "text": "We had a what we thought was a \u201csmall\u201d problem, that turned into a major one. PP&D came thru for us. Jerry and his crew kept us informed and did the work as promised. Definitely recommend Professional Plumbing and drain!",
+      "text": "We had a what we thought was a ?small? problem, that turned into a major one. PP&D came thru for us. Jerry and his crew kept us informed and did the work as promised. Definitely recommend Professional Plumbing and drain!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-06-18T21:55:25.788Z",
@@ -146,5 +146,19 @@
       "Transparent and competitive pricing with clear estimates upfront, ensuring no hidden costs.",
       "Mastery of the latest plumbing techniques and technologies, enabling us to tackle even the most complex issues efficiently."
     ]
-  }
+  },
+  "place_id": "ChIJc6N5z3-hSk0R3SFkp3CFKbQ",
+  "phone": "+1 251-259-6190",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.731721,
+  "longitude": -87.899299,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
