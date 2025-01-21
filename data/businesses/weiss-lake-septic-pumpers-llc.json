@@ -463,7 +463,7 @@
     {
       "searchString": "place_id:ChIJc13qQxdhiogR0Brzlwg_TNc",
       "name": "Katrina Jolly",
-      "text": "I can\u2019t say enough about these guys they have always went above and beyond for us! When you need them they are there and we definitely needed them today solved all of our issues within a few minutes! Ben and Dillon thank you once again for your urgency on our problems! Y\u2019all are the best! Highly recommend these guys over anyone else",
+      "text": "I can?t say enough about these guys they have always went above and beyond for us! When you need them they are there and we definitely needed them today solved all of our issues within a few minutes! Ben and Dillon thank you once again for your urgency on our problems! Y?all are the best! Highly recommend these guys over anyone else",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-06-12T20:59:42.162Z",
@@ -628,5 +628,19 @@
       "Thorough inspections and maintenance to extend the lifespan of your septic system and avoid costly repairs.",
       "Specialized expertise in septic system repairs and installations tailored to the unique soil conditions of the Centre area."
     ]
-  }
+  },
+  "place_id": "ChIJc13qQxdhiogR0Brzlwg_TNc",
+  "phone": "+1 256-557-7865",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.1571245,
+  "longitude": -85.6878804,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
