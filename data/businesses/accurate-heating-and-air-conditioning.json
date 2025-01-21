@@ -597,5 +597,19 @@
       "24/7 emergency services ensuring your cooling issues are addressed promptly, day or night.",
       "Transparent pricing and honest recommendations tailored to your specific HVAC requirements."
     ]
-  }
+  },
+  "place_id": "ChIJuzqxSaZMiIgRTDZhDsluNRo",
+  "phone": "+1 256-287-1323",
+  "address": "3570 AL-69 South, Cullman, AL 35057",
+  "city": "Cullman",
+  "state": "Alabama",
+  "postal_code": 35057,
+  "country": "United States of America",
+  "latitude": 34.0223744,
+  "longitude": -86.9141343,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"7AM-7PM\", \"Sunday\": \"7AM-7PM\"}",
+  "rating": 4.4,
+  "reviews_count": 0,
+  "reviews": []
 }
