@@ -96,7 +96,7 @@
     {
       "searchString": "place_id:ChIJXayqj-rujIgRbAuWrpv1130",
       "name": "Jennifer Abernathy-Smith",
-      "text": "Andrew Bates is the most reliable plumber I know. He is extremely knowledgeable and trustworthy. I would recommend him to anyone who is in need of a plumber. He fixed my grandmother\u2019s sink and did a excellent job. He had to crawl through multiple spider webs, stagnant water, and mud to fix the problem. Even more impressive, he did not charge my grandmother, who\u2019s 87, has health problems, and very little income one single penny. That\u2019s a stand up guy in my book and I\u2019ll forever be grateful for what he did for her. I Highly Recommend!!!!\u2019",
+      "text": "Andrew Bates is the most reliable plumber I know. He is extremely knowledgeable and trustworthy. I would recommend him to anyone who is in need of a plumber. He fixed my grandmother?s sink and did a excellent job. He had to crawl through multiple spider webs, stagnant water, and mud to fix the problem. Even more impressive, he did not charge my grandmother, who?s 87, has health problems, and very little income one single penny. That?s a stand up guy in my book and I?ll forever be grateful for what he did for her. I Highly Recommend!!!!?",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-11-19T01:58:13.448Z",
@@ -142,7 +142,7 @@
     {
       "searchString": "place_id:ChIJXayqj-rujIgRbAuWrpv1130",
       "name": "Ina Blankenship",
-      "text": "Excellent quality work; reasonable rates; very professional and extremely knowledgeable about all aspects of plumbing! When he schedules time he is always prompt; if can\u2019t make it due to an emergency he lets you know. He provides solutions to problems an executives correctly. Best plumbing company in town! I recommend him to family and friends! \ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb\ud83d\udc4d\ud83c\udffb Not sure who the individual was that said he was unprofessional but obvious to me he doesn\u2019t know anything about this company!\ud83e\udd14",
+      "text": "Excellent quality work; reasonable rates; very professional and extremely knowledgeable about all aspects of plumbing! When he schedules time he is always prompt; if can?t make it due to an emergency he lets you know. He provides solutions to problems an executives correctly. Best plumbing company in town! I recommend him to family and friends! ?????????? Not sure who the individual was that said he was unprofessional but obvious to me he doesn?t know anything about this company!?",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-11-11T19:14:02.853Z",
@@ -300,5 +300,22 @@
       "State-of-the-art equipment and techniques, allowing us to tackle even the most challenging plumbing problems with precision and effectiveness.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "businessName": "Bates Plumbing LLC",
+  "place_id": "ChIJXayqj-rujIgRbAuWrpv1130",
+  "phone": "+1 334-559-8575",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.6821975,
+  "longitude": -85.5630594,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 3.7,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
