@@ -80,5 +80,19 @@
       "Comprehensive range of services, including drain cleaning, water heater installation, and sewer line repair.",
       "Prompt and efficient service, with a focus on minimizing disruptions and ensuring customer satisfaction."
     ]
-  }
+  },
+  "place_id": "ChIJkfZyMw_BEgERQSiSiM-N5VQ",
+  "phone": "+1 470-276-0849",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.6372724,
+  "longitude": -85.13399799999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-9PM\", \"Tuesday\": \"8AM-9PM\", \"Wednesday\": \"8AM-9PM\", \"Thursday\": \"8AM-9PM\", \"Friday\": \"8AM-9PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": []
 }
