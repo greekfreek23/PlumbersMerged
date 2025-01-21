@@ -1,0 +1,16 @@
+{
+  "businessName": "Preston's Plumbing and Drain Cleaning Service",
+  "place_id": "ChIJFcjSJte3i4gRxs0CV8C21xI",
+  "phone": "+1 256-454-5962",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.592772499999995,
+  "longitude": -85.8819714,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.4,
+  "reviews_count": 0
+}
