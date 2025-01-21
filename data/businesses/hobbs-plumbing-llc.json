@@ -372,7 +372,7 @@
     {
       "searchString": "place_id:ChIJi6nH7f_0jIgR1vNuF8-NhNQ",
       "name": "Joyce Forehand",
-      "text": "I called Hobbs Plumbing spoke with a nice lady named Brittany she scheduled me for the same day I called. A very pleasant and knowledgeable young man named Bryan came out assessed our situation. We had a loud noise in our water pipes, I called it  the \u201cdinosaur\u201d. Our house is 30 years old.  He checked our water pressure it was high.  I suspected it was our PRV and it was.  Bryan relocated our PRV near our water meter instead of at our house in the crawl space. I\u2019m very pleased with the service we received. I will definitely  will use Hobbs Plumbing when needed again.",
+      "text": "I called Hobbs Plumbing spoke with a nice lady named Brittany she scheduled me for the same day I called. A very pleasant and knowledgeable young man named Bryan came out assessed our situation. We had a loud noise in our water pipes, I called it  the ?dinosaur?. Our house is 30 years old.  He checked our water pressure it was high.  I suspected it was our PRV and it was.  Bryan relocated our PRV near our water meter instead of at our house in the crawl space. I?m very pleased with the service we received. I will definitely  will use Hobbs Plumbing when needed again.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-12-15T02:38:35.120Z",
@@ -1740,7 +1740,7 @@
     {
       "searchString": "place_id:ChIJi6nH7f_0jIgR1vNuF8-NhNQ",
       "name": "LISA Potter/Briggs",
-      "text": "Best plumber in the area! He cares about what you have going on and will fix it. We\u2019ve used Blake a few times and can always rely on him! \u2764\ufe0f",
+      "text": "Best plumber in the area! He cares about what you have going on and will fix it. We?ve used Blake a few times and can always rely on him! ??",
       "textTranslated": null,
       "publishAt": "5 years ago",
       "publishedAtDate": "2019-10-22T16:05:31.195Z",
@@ -2016,7 +2016,7 @@
     {
       "searchString": "place_id:ChIJi6nH7f_0jIgR1vNuF8-NhNQ",
       "name": "Aleah Payne",
-      "text": "Awesome experience with Hobb\u2019s Plumbing! Got in touch with them yesterday and they were able to fix my issue today! Great service with very reasonable pricing!",
+      "text": "Awesome experience with Hobb?s Plumbing! Got in touch with them yesterday and they were able to fix my issue today! Great service with very reasonable pricing!",
       "textTranslated": null,
       "publishAt": "6 years ago",
       "publishedAtDate": "2018-05-22T17:22:32.758Z",
@@ -2273,5 +2273,22 @@
       "Comprehensive range of plumbing services, from routine maintenance to complex remodels and specialized solutions like sewer camera inspections and no-dig sewer repairs.",
       "Commitment to customer satisfaction, ensuring every job is completed with precision, attention to detail, and a focus on your long-term plumbing needs."
     ]
-  }
+  },
+  "businessName": "Hobbs Plumbing LLC",
+  "place_id": "ChIJi6nH7f_0jIgR1vNuF8-NhNQ",
+  "phone": "+1 334-750-5743",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5781851,
+  "longitude": -85.47073689999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-4:30PM\", \"Tuesday\": \"8AM-4:30PM\", \"Wednesday\": \"8AM-4:30PM\", \"Thursday\": \"8AM-4:30PM\", \"Friday\": \"8AM-4:30PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
