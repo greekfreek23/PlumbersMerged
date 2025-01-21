@@ -190,7 +190,7 @@
       "stars": 1,
       "rating": null,
       "responseFromOwnerDate": "2020-02-24T18:02:42.000Z",
-      "responseFromOwnerText": "You never had a service call scheduled with us. We have never even spoken before and Your home warranty company put you on my schedule and didn\u2019t follow it up. Not my issue. Maybe call a plumber direct next time you have a plumbing issue.",
+      "responseFromOwnerText": "You never had a service call scheduled with us. We have never even spoken before and Your home warranty company put you on my schedule and didn?t follow it up. Not my issue. Maybe call a plumber direct next time you have a plumbing issue.",
       "reviewImageUrls": [],
       "reviewContext": {},
       "reviewDetailedRating": {},
@@ -220,7 +220,7 @@
     {
       "searchString": "place_id:ChIJVWpYrItM84gR_r0ih6fLFoc",
       "name": "Bridget Kessler",
-      "text": "I always cringe when I have to call someone I\u2019m not familiar with, but we were very happy our service. He fixed the problem quickly, and we thought the price was reasonable. I\u2019m hoping I don\u2019t need a plumber again anytime soon, but if I do, I would definitely call Harris County Plumbing again.",
+      "text": "I always cringe when I have to call someone I?m not familiar with, but we were very happy our service. He fixed the problem quickly, and we thought the price was reasonable. I?m hoping I don?t need a plumber again anytime soon, but if I do, I would definitely call Harris County Plumbing again.",
       "textTranslated": null,
       "publishAt": "5 years ago",
       "publishedAtDate": "2019-04-24T16:43:41.976Z",
@@ -700,5 +700,19 @@
       "Comprehensive solutions tailored to your specific needs, backed by our team's extensive training and expertise.",
       "Transparent pricing and upfront cost estimates, so you know exactly what to expect before any work begins."
     ]
-  }
+  },
+  "place_id": "ChIJVWpYrItM84gR_r0ih6fLFoc",
+  "phone": "+1 706-406-8409",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.0474435,
+  "longitude": -84.86352839999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 3.9,
+  "reviews_count": 0,
+  "reviews": []
 }
