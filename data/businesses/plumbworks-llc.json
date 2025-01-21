@@ -220,7 +220,7 @@
     {
       "searchString": "place_id:ChIJ1yk45xOXLq0RKDnc2GlfUIs",
       "name": "William Durst",
-      "text": "Excellent affordable punctual professional service. We have used Plumbworks for the past several years for maintenance and repair work for rental properties as well as our primary residence. They have done new plumbing work on some home remodel projects as well. Always quality affordable service. Can\u2019t recommend them highly enough. Give Jack and crew a call for any of your plumbing issues you will be glad you did.",
+      "text": "Excellent affordable punctual professional service. We have used Plumbworks for the past several years for maintenance and repair work for rental properties as well as our primary residence. They have done new plumbing work on some home remodel projects as well. Always quality affordable service. Can?t recommend them highly enough. Give Jack and crew a call for any of your plumbing issues you will be glad you did.",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2024-01-11T16:58:58.971Z",
@@ -426,5 +426,19 @@
       "Rapid response: We understand the urgency of plumbing issues and offer prompt, reliable service to minimize disruptions to your daily routine.",
       "Cutting-edge technology: We leverage the latest tools and techniques to diagnose and resolve plumbing problems efficiently, ensuring long-lasting results."
     ]
-  }
+  },
+  "place_id": "ChIJ1yk45xOXLq0RKDnc2GlfUIs",
+  "phone": "+1 205-470-0251",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.3175175,
+  "longitude": -86.737254,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-4PM\", \"Tuesday\": \"8AM-4PM\", \"Wednesday\": \"8AM-4PM\", \"Thursday\": \"8AM-4PM\", \"Friday\": \"8AM-4PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
