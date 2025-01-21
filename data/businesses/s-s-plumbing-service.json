@@ -9,5 +9,23 @@
       "Rapid response times and same-day service for emergencies, minimizing disruptions and potential damage to your property.",
       "Specialized expertise in trenchless lead service line replacement, providing a cost-effective and minimally invasive solution for aging infrastructure."
     ]
-  }
+  },
+  "businessName": "S&S Plumbing Service",
+  "place_id": "ChIJ6TcdO_8YiYgRykT_9o3BuKE",
+  "phone": "+1 205-862-4220",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.5762265,
+  "longitude": -86.6807364,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": [],
+  "servicesMentioned": []
 }
