@@ -378,7 +378,7 @@
     {
       "searchString": "place_id:ChIJHd33zBMpiogRaem6WI0-Rmw",
       "name": "Kristin Countryman",
-      "text": "This is the best team for all your restoration needs!  Our entire home flooded from a busted pipe upstairs.  Richard and his team responded quickly and they helped us through the entire process.  Great quality work, fast, dependable and honest!  We couldn\u2019t be happier with our home!",
+      "text": "This is the best team for all your restoration needs!  Our entire home flooded from a busted pipe upstairs.  Richard and his team responded quickly and they helped us through the entire process.  Great quality work, fast, dependable and honest!  We couldn?t be happier with our home!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-07-03T23:14:45.205Z",
@@ -535,7 +535,7 @@
     {
       "searchString": "place_id:ChIJHd33zBMpiogRaem6WI0-Rmw",
       "name": "Kim moss",
-      "text": "Richard Restoration responded quickly to my house when i had a leak and it flooded.  They took care of the problem and remodeled my house. I couldn\u2019t be happier with the outcome.  I appreciate them!   They did such a good job.  Thanks, Richard Restoration! I\u2019m one happy customer and highly recommend them for any of your restoration needs",
+      "text": "Richard Restoration responded quickly to my house when i had a leak and it flooded.  They took care of the problem and remodeled my house. I couldn?t be happier with the outcome.  I appreciate them!   They did such a good job.  Thanks, Richard Restoration! I?m one happy customer and highly recommend them for any of your restoration needs",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-04-14T01:44:03.128Z",
@@ -614,5 +614,22 @@
       "Prompt emergency response and 24/7 availability to ensure your plumbing issues are resolved quickly and efficiently.",
       "Commitment to using high-quality materials and adhering to industry best practices for long-lasting solutions."
     ]
-  }
+  },
+  "businessName": "Richard Restoration",
+  "place_id": "ChIJHd33zBMpiogRaem6WI0-Rmw",
+  "phone": "+1 205-506-2192",
+  "address": "71 6th Ave, Ashville, AL 35953",
+  "city": "Ashville",
+  "state": "Alabama",
+  "postal_code": 35953,
+  "country": "United States of America",
+  "latitude": 33.8366403,
+  "longitude": -86.2555984,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.8,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
