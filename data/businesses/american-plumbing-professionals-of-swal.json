@@ -65,5 +65,22 @@
       "State-of-the-art equipment and techniques to diagnose and resolve even the most challenging plumbing problems efficiently.",
       "Commitment to ongoing training and education, ensuring our technicians stay up-to-date with the latest industry advancements and best practices."
     ]
-  }
+  },
+  "businessName": "American Plumbing Professionals of SWAL",
+  "place_id": "ChIJsSgnP9dDmogRki1_AiyZX7M",
+  "phone": "+1 251-626-0155",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.731721,
+  "longitude": -87.899299,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 1,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
