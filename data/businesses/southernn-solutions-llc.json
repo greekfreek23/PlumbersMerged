@@ -222,5 +222,19 @@
       "Highly trained and certified technicians equipped with the latest tools and techniques to handle any plumbing challenge.",
       "Commitment to using high-quality materials and following industry best practices for long-lasting solutions."
     ]
-  }
+  },
+  "place_id": "ChIJT6OIheRLiogRQc75SXUZ8FY",
+  "phone": "+1 256-371-2780",
+  "address": "8781 U.S. Hwy 431, Alexandria, AL 36250",
+  "city": "Alexandria",
+  "state": "Alabama",
+  "postal_code": 36250,
+  "country": "United States of America",
+  "latitude": 33.780210499999995,
+  "longitude": -85.8966476,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "reviews": []
 }
