@@ -546,5 +546,19 @@
       "Meticulous craftsmanship: We take pride in our attention to detail and commitment to delivering exceptional results that exceed industry standards.",
       "Personalized service: Our customer-centric approach ensures that your unique needs and preferences are carefully considered, resulting in tailored solutions that meet your specific requirements."
     ]
-  }
+  },
+  "place_id": "ChIJ34ZNcEfoYogRb-lZ08V9Ye4",
+  "phone": "+1 256-998-2039",
+  "address": "17345 Mooresville Rd, Athens, AL 35613",
+  "city": "Athens",
+  "state": "Alabama",
+  "postal_code": 35613,
+  "country": "United States of America",
+  "latitude": 34.8081239,
+  "longitude": -86.8772886,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.8,
+  "reviews_count": 0,
+  "reviews": []
 }
