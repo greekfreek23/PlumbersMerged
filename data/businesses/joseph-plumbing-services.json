@@ -96,7 +96,7 @@
     {
       "searchString": "place_id:ChIJ_fxawXWASCAR1P2unkbAX94",
       "name": "Sarah Witherspoon",
-      "text": "I\u2019m very disappointed with Joseph plumbing services. I made an appointment based on his availability. I took a day off from work for the appointment. I called over a dozen times throughout the day. No one answered and after several rings the call was disconnected. This behavior is totally unacceptable and unprofessional for a business. I would not recommend Joseph plumbing services to anyone!\nSarah",
+      "text": "I?m very disappointed with Joseph plumbing services. I made an appointment based on his availability. I took a day off from work for the appointment. I called over a dozen times throughout the day. No one answered and after several rings the call was disconnected. This behavior is totally unacceptable and unprofessional for a business. I would not recommend Joseph plumbing services to anyone!\nSarah",
       "textTranslated": null,
       "publishAt": "4 months ago",
       "publishedAtDate": "2024-08-16T15:07:35.188Z",
@@ -142,7 +142,7 @@
     {
       "searchString": "place_id:ChIJ_fxawXWASCAR1P2unkbAX94",
       "name": "Tenna Kardell",
-      "text": "These guys really hustled and did the job ! Replaced the electric water heater. They were priced right , on time, cleaned up after themselves, very courteous. I would recommend Joseph Plumbing. \ud83d\udcaf",
+      "text": "These guys really hustled and did the job ! Replaced the electric water heater. They were priced right , on time, cleaned up after themselves, very courteous. I would recommend Joseph Plumbing. ?",
       "textTranslated": null,
       "publishAt": "5 months ago",
       "publishedAtDate": "2024-07-17T17:47:24.396Z",
@@ -754,7 +754,7 @@
     {
       "searchString": "place_id:ChIJ_fxawXWASCAR1P2unkbAX94",
       "name": "Brittany Douglas",
-      "text": "Joseph is our go to plumber from now on ! Very friendly , and professional. He didn\u2019t try to upcharge , and throw in unnecessary repairs . HIGHLY RECOMMEND \u203c\ufe0f",
+      "text": "Joseph is our go to plumber from now on ! Very friendly , and professional. He didn?t try to upcharge , and throw in unnecessary repairs . HIGHLY RECOMMEND ??",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-04-26T23:12:08.105Z",
@@ -2042,7 +2042,7 @@
     {
       "searchString": "place_id:ChIJ_fxawXWASCAR1P2unkbAX94",
       "name": "Ellen Carter",
-      "text": "Nice young man. Came with assistant who is very polite also. Gave me the estimate, did the job with no issues or problems, cleaned up after themselves. This is the second time I\u2019ve used this service and both times times it was a surprisingly easy and straightforward experience. Surprisingly because plumbers aren\u2019t usually like that! Highly recommend!",
+      "text": "Nice young man. Came with assistant who is very polite also. Gave me the estimate, did the job with no issues or problems, cleaned up after themselves. This is the second time I?ve used this service and both times times it was a surprisingly easy and straightforward experience. Surprisingly because plumbers aren?t usually like that! Highly recommend!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-09-13T00:03:03.107Z",
@@ -2381,5 +2381,22 @@
       "Comprehensive expertise in all aspects of plumbing, from minor repairs to complex installations.",
       "Commitment to transparent communication and fair, upfront pricing for exceptional value."
     ]
-  }
+  },
+  "businessName": "Joseph Plumbing Services",
+  "place_id": "ChIJ_fxawXWASCAR1P2unkbAX94",
+  "phone": "+1 251-607-8760",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.731721,
+  "longitude": -87.899299,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.7,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
