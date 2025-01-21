@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJC6rU5v8NYogRo5xDG3uSkN4",
       "name": "Valerie Furst",
-      "text": "Boxcar, Chris Seals is the only handymen I trust and use. He has done several jobs for me in the last two years since I moved here. I am very fortunate to have him help me. There are so many scams and bad people out there. Chris does an excellent job, detail oriented, tries to save money the best he can. Chris has helped me through emergencies and always shows up even though he is extremely busy. His skills as an electrician has been amazing in my kitchen in my open cabinets. Chris has the ability to \u201c work out\u201d problems in my home that I wanted but didn\u2019t think it was possible. Very good work, trustworthy and great pricing!",
+      "text": "Boxcar, Chris Seals is the only handymen I trust and use. He has done several jobs for me in the last two years since I moved here. I am very fortunate to have him help me. There are so many scams and bad people out there. Chris does an excellent job, detail oriented, tries to save money the best he can. Chris has helped me through emergencies and always shows up even though he is extremely busy. His skills as an electrician has been amazing in my kitchen in my open cabinets. Chris has the ability to ? work out? problems in my home that I wanted but didn?t think it was possible. Very good work, trustworthy and great pricing!",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-09-17T17:46:48.075Z",
@@ -492,7 +492,7 @@
     {
       "searchString": "place_id:ChIJC6rU5v8NYogRo5xDG3uSkN4",
       "name": "kelly mercado",
-      "text": "I needed help mounting my tv on my tv stand. The movers didn\u2019t leave the screws in the box when I moved. I called Chris and he did a great job getting me the screws and putting the TV up. I knew I would need help in the future for things around the house as I just moved here and don\u2019t really know anyone yet. So glad I found Chris! He was helpful and very professional! Will be calling him again anytime I need things done!",
+      "text": "I needed help mounting my tv on my tv stand. The movers didn?t leave the screws in the box when I moved. I called Chris and he did a great job getting me the screws and putting the TV up. I knew I would need help in the future for things around the house as I just moved here and don?t really know anyone yet. So glad I found Chris! He was helpful and very professional! Will be calling him again anytime I need things done!",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-03-20T18:19:58.604Z",
@@ -570,5 +570,19 @@
       "Competitive pricing that doesn't compromise on quality, ensuring you get the best bang for your buck.",
       "Commitment to using only the highest-quality materials and equipment, guaranteeing long-lasting results."
     ]
-  }
+  },
+  "place_id": "ChIJC6rU5v8NYogRo5xDG3uSkN4",
+  "phone": "+1 256-655-7871",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.7316738,
+  "longitude": -86.6428435,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-7PM\", \"Tuesday\": \"7AM-7PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"7AM-7PM\", \"Friday\": \"7AM-7PM\", \"Saturday\": \"7AM-7PM\", \"Sunday\": \"7AM-7PM\"}",
+  "rating": 4.6,
+  "reviews_count": 0,
+  "reviews": []
 }
