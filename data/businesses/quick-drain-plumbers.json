@@ -139,7 +139,7 @@
     {
       "searchString": "place_id:ChIJUUbGd3wNiYgRknJo4xmPUUA",
       "name": "Derrick Lewis",
-      "text": "Zach was very professional and thorough when explaining the process of repair our slab leak in our home. He and his crew worked fast, solved the problem, & cleaned up our floors after finishing the job. I\u2019m also a real estate investor and I\u2019m saving his contact for future investment properties I acquire. I highly recommend them!!!",
+      "text": "Zach was very professional and thorough when explaining the process of repair our slab leak in our home. He and his crew worked fast, solved the problem, & cleaned up our floors after finishing the job. I?m also a real estate investor and I?m saving his contact for future investment properties I acquire. I highly recommend them!!!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-03-16T21:36:02.322Z",
@@ -278,7 +278,7 @@
     {
       "searchString": "place_id:ChIJUUbGd3wNiYgRknJo4xmPUUA",
       "name": "David Lanshaw",
-      "text": "Real Estate Investors Beware. Zac did a rough out and final on a 9-unit apartment building for me. He\u2019s a knowledgeable plumber and work is OK, though not to the levels he charges. But the biggest issue was he stopped showing up to work and stopped answering his phone when it was time to complete inspections. Really too bad as he\u2019s a nice guy.",
+      "text": "Real Estate Investors Beware. Zac did a rough out and final on a 9-unit apartment building for me. He?s a knowledgeable plumber and work is OK, though not to the levels he charges. But the biggest issue was he stopped showing up to work and stopped answering his phone when it was time to complete inspections. Really too bad as he?s a nice guy.",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-03-03T16:01:21.107Z",
@@ -325,7 +325,7 @@
     {
       "searchString": "place_id:ChIJUUbGd3wNiYgRknJo4xmPUUA",
       "name": "Uhuru wa Kabila",
-      "text": "I really appreciate the job well done in a timely fashion. Very professional business. I highly recommend.\ud83d\udcaa\ud83c\udfff",
+      "text": "I really appreciate the job well done in a timely fashion. Very professional business. I highly recommend.??",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-02-28T19:32:10.853Z",
@@ -579,5 +579,22 @@
       "Extensive knowledge and capabilities in tackling even the most complex plumbing challenges.",
       "Prompt and reliable service, ensuring your plumbing issues are resolved efficiently and effectively."
     ]
-  }
+  },
+  "businessName": "Quick Drain Plumbers",
+  "place_id": "ChIJUUbGd3wNiYgRknJo4xmPUUA",
+  "phone": "+1 205-335-9521",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.4996479,
+  "longitude": -86.8159075,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-7:30PM\", \"Tuesday\": \"8AM-7:30PM\", \"Wednesday\": \"7AM-7PM\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"7AM-5AM\"}",
+  "rating": 4,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
