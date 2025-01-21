@@ -45,5 +45,22 @@
       "Comprehensive solutions tailored to your specific plumbing needs, backed by our team's extensive training and industry expertise.",
       "Commitment to using the latest techniques and high-quality materials to ensure long-lasting, durable results for every job."
     ]
-  }
+  },
+  "businessName": "DB Plumbing LLC",
+  "place_id": "ChIJO8CJqJXPGCYRp1oJsCMjBwE",
+  "phone": "+1 334-750-1493",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.627903,
+  "longitude": -85.50323949999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": null,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
