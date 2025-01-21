@@ -270,7 +270,7 @@
     {
       "searchString": "place_id:ChIJ5cqQU123i4gRN8EjzgylvAo",
       "name": "Michelle Godfrey",
-      "text": "Definitely do not recommend! They showed up at our house several hours after they stated they\u2019d be there, only to dig up our front yard and say they couldn\u2019t find our septic tank and would have to come back. Now they have continually given us the run around stating they\u2019ll be out \u201csometime tomorrow\u201d or \u201cin a few hours\u201d and they have never showed back up! Worst service!",
+      "text": "Definitely do not recommend! They showed up at our house several hours after they stated they?d be there, only to dig up our front yard and say they couldn?t find our septic tank and would have to come back. Now they have continually given us the run around stating they?ll be out ?sometime tomorrow? or ?in a few hours? and they have never showed back up! Worst service!",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-04-26T07:23:00.808Z",
@@ -976,7 +976,7 @@
     {
       "searchString": "place_id:ChIJ5cqQU123i4gRN8EjzgylvAo",
       "name": "Tyler Lackey",
-      "text": "Okay well I chose these guys the first time I had an issue with septic tank over flowing. Was told several different times that they would be here to check it out. They never show up when they say they will and will give you the run around quick. Well after finally getting them out here, he gave me a quote and went though and fixed my issue. I decided that maybe he just had a bunch going on at the time and he seemed like a good guy and did good work. Well about 5 months later, another issue arises with my system. I chose them again because they eventually fixed me up. Well I called him to ask if he would come check it out and he started the whole \u201cI\u2019ll be there tonight or tomorrow\u201d well tomorrow came and didn\u2019t hear a word. I tried calling him and he ignored my phone for 2 more days. My wife calls from a different number, they answer and say they will come check it out. Next day still no word and another ignored call. DO NOT USE THESE GUYS if you have something you want fixed in a timely manner.",
+      "text": "Okay well I chose these guys the first time I had an issue with septic tank over flowing. Was told several different times that they would be here to check it out. They never show up when they say they will and will give you the run around quick. Well after finally getting them out here, he gave me a quote and went though and fixed my issue. I decided that maybe he just had a bunch going on at the time and he seemed like a good guy and did good work. Well about 5 months later, another issue arises with my system. I chose them again because they eventually fixed me up. Well I called him to ask if he would come check it out and he started the whole ?I?ll be there tonight or tomorrow? well tomorrow came and didn?t hear a word. I tried calling him and he ignored my phone for 2 more days. My wife calls from a different number, they answer and say they will come check it out. Next day still no word and another ignored call. DO NOT USE THESE GUYS if you have something you want fixed in a timely manner.",
       "textTranslated": null,
       "publishAt": "3 years ago",
       "publishedAtDate": "2021-02-12T22:11:08.225Z",
@@ -1024,7 +1024,7 @@
     {
       "searchString": "place_id:ChIJ5cqQU123i4gRN8EjzgylvAo",
       "name": "Kayak USA",
-      "text": "I want to give a HUGE shoutout to Jason and Krystal! They own and operate Affordable Septic LLC. I came home from work yesterday to find a busted field line and a soggy yard. I called Affordable Septic and they were at my house within hours! They busted their butt all night and was still working on it well after the sun came up this morning. They dug up and replaced my crushed field lines then install a new header pipe. Not to mention they charged me HUNDREDS less than anyone else around here! They really took pride in their work and made sure it was done right before they left my house.\nI guarantee you, there\u2019s not another septic company around here that will work to fix your problem from sun down to sun up on a Friday night! Thanks again Jason and Krystal!!\n\nPlease share this post if you can, Help spread the word about this great company!",
+      "text": "I want to give a HUGE shoutout to Jason and Krystal! They own and operate Affordable Septic LLC. I came home from work yesterday to find a busted field line and a soggy yard. I called Affordable Septic and they were at my house within hours! They busted their butt all night and was still working on it well after the sun came up this morning. They dug up and replaced my crushed field lines then install a new header pipe. Not to mention they charged me HUNDREDS less than anyone else around here! They really took pride in their work and made sure it was done right before they left my house.\nI guarantee you, there?s not another septic company around here that will work to fix your problem from sun down to sun up on a Friday night! Thanks again Jason and Krystal!!\n\nPlease share this post if you can, Help spread the word about this great company!",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-11-21T21:37:42.256Z",
@@ -1262,7 +1262,7 @@
     {
       "searchString": "place_id:ChIJ5cqQU123i4gRN8EjzgylvAo",
       "name": "Chase Coody",
-      "text": "These people are incredible! So kind and courteous even after a long day of work! They were able to find and fix my issues faster than anyone else I\u2019ve tried! Highly recommended",
+      "text": "These people are incredible! So kind and courteous even after a long day of work! They were able to find and fix my issues faster than anyone else I?ve tried! Highly recommended",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-10-02T17:34:26.905Z",
@@ -2025,5 +2025,19 @@
       "Thorough septic tank inspections and maintenance to identify and address issues before they escalate.",
       "Expertise in septic system installations, adhering to local regulations and best practices for long-lasting performance."
     ]
-  }
+  },
+  "place_id": "ChIJ5cqQU123i4gRN8EjzgylvAo",
+  "phone": "+1 256-292-0333",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.7138469,
+  "longitude": -86.435565,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.2,
+  "reviews_count": 0,
+  "reviews": []
 }
