@@ -1,0 +1,16 @@
+{
+  "businessName": "J.W. Lawson Plumbing",
+  "place_id": "ChIJx3pEn1CviYgRjY8q67aFEdM",
+  "phone": "+1 205-229-4450",
+  "address": "205 Chapel Rd, Warrior, AL 35180",
+  "city": "Warrior",
+  "state": "Alabama",
+  "postal_code": 35180,
+  "country": "United States of America",
+  "latitude": 33.8556773,
+  "longitude": -86.8021239,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 4.9,
+  "reviews_count": 0
+}
