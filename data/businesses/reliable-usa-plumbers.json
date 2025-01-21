@@ -36,7 +36,7 @@
     {
       "searchString": "place_id:ChIJvT1J8v9PmogRcAffq7b_pok",
       "name": "RutheGales kiopm",
-      "text": "These plumbers were the most excellent plumber I\u2019ve ever met. When I had them for a tub repair, they were so friendly. They got along nicely with me while repairing. Also, they finished the job for us fast. Thanks, guys.",
+      "text": "These plumbers were the most excellent plumber I?ve ever met. When I had them for a tub repair, they were so friendly. They got along nicely with me while repairing. Also, they finished the job for us fast. Thanks, guys.",
       "textTranslated": null,
       "publishAt": "2 years ago",
       "publishedAtDate": "2022-11-11T04:56:33.657Z",
@@ -106,5 +106,19 @@
       "Comprehensive plumbing solutions backed by years of experience and ongoing training in the latest techniques and technologies.",
       "Commitment to transparent communication and upfront pricing, so you know exactly what to expect."
     ]
-  }
+  },
+  "place_id": "ChIJvT1J8v9PmogRcAffq7b_pok",
+  "phone": "+1 251-304-9569",
+  "address": "263 S Broad St, Mobile, AL 36603",
+  "city": "Mobile",
+  "state": "Alabama",
+  "postal_code": 36603,
+  "country": "United States of America",
+  "latitude": 30.6815153,
+  "longitude": -88.0531371,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
