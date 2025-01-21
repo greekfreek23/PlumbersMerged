@@ -1152,7 +1152,7 @@
     {
       "searchString": "place_id:ChIJ1SnXvb0WHCQRRRzL0uKBx6s",
       "name": "Lauri Cook",
-      "text": "Highly recommend! Prompt response, knowledgeable and efficient work. Reasonable pricing. Call for all plumbing needs. Showed up when he said he would and didn\u2019t waste my time.",
+      "text": "Highly recommend! Prompt response, knowledgeable and efficient work. Reasonable pricing. Call for all plumbing needs. Showed up when he said he would and didn?t waste my time.",
       "textTranslated": null,
       "publishAt": "3 months ago",
       "publishedAtDate": "2024-09-27T00:23:38.901Z",
@@ -1244,7 +1244,7 @@
     {
       "searchString": "place_id:ChIJ1SnXvb0WHCQRRRzL0uKBx6s",
       "name": "Michael Dutton",
-      "text": "Austin at ACE Plumbing is the best! He\u2019s down-to-earth, trustworthy, and always gets the job done right. No shortcuts or half-done work\u2014he takes pride in doing things properly. Whenever I have a plumbing issue, I know exactly who to call. If you want reliable, top-quality service, go with ACE Plumbing!",
+      "text": "Austin at ACE Plumbing is the best! He?s down-to-earth, trustworthy, and always gets the job done right. No shortcuts or half-done work?he takes pride in doing things properly. Whenever I have a plumbing issue, I know exactly who to call. If you want reliable, top-quality service, go with ACE Plumbing!",
       "textTranslated": null,
       "publishAt": "4 months ago",
       "publishedAtDate": "2024-09-15T16:49:38.544Z",
@@ -1298,5 +1298,19 @@
   "last60": 12,
   "last90": 18,
   "last180": 27,
-  "last365": 27
+  "last365": 27,
+  "place_id": "ChIJ1SnXvb0WHCQRRRzL0uKBx6s",
+  "phone": "+1 850-865-9607",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 30.6044959,
+  "longitude": -86.32262999999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
