@@ -41,5 +41,20 @@
       "Commitment to using the latest techniques and equipment to ensure efficient and long-lasting results.",
       "Personalized service tailored to your specific requirements, with a focus on clear communication and customer satisfaction."
     ]
-  }
+  },
+  "place_id": "ChIJwfxhzAhLYIgRpKzgckm_o-g",
+  "phone": "+1 706-657-5710",
+  "address": "84 Michaels Rd, Trenton, GA 30752",
+  "city": "Trenton",
+  "state": "Georgia",
+  "postal_code": 30752,
+  "country": "United States of America",
+  "latitude": 34.8390571,
+  "longitude": -85.5643096,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7:30AM-6PM\", \"Tuesday\": \"7:30AM-6PM\", \"Wednesday\": \"7:30AM-7:30PM\", \"Thursday\": \"7:30AM-6PM\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.9,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
