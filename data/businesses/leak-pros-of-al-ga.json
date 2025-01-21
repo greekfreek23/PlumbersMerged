@@ -41,5 +41,20 @@
       "Highly trained technicians with extensive knowledge of plumbing systems and leak repair techniques.",
       "Commitment to using industry-leading methods and materials for long-lasting, reliable solutions."
     ]
-  }
+  },
+  "place_id": "ChIJi9TixeQ5OqcRgN3tEjSFHlo",
+  "phone": "+1 256-610-4516",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.5575636,
+  "longitude": -85.4512244,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
