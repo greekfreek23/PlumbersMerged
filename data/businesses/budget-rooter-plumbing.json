@@ -41,5 +41,20 @@
       "Commitment to using the latest techniques and equipment to ensure efficient and long-lasting solutions.",
       "Transparent and competitive pricing, ensuring you receive exceptional value for your investment."
     ]
-  }
+  },
+  "place_id": "ChIJq6qqqpoRiYgR2atEHvt3XOY",
+  "phone": "+1 205-427-7778",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 37.481347,
+  "longitude": -87.1382479,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"7AM-5PM\", \"Sunday\": \"Closed\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
