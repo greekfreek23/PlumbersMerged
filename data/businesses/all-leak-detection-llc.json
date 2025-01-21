@@ -490,5 +490,22 @@
       "Highly trained and certified technicians dedicated to delivering accurate results and effective solutions for all your leak detection needs.",
       "Personalized service tailored to your specific requirements, ensuring a seamless experience from start to finish."
     ]
-  }
+  },
+  "businessName": "All Leak Detection LLC",
+  "place_id": "ChIJV3COajMdiogRtcFqpBVVCB4",
+  "phone": "+1 256-738-5625",
+  "address": "16 Winter Fir, Albertville, AL 35950",
+  "city": "Albertville",
+  "state": "Alabama",
+  "postal_code": 35950,
+  "country": "United States of America",
+  "latitude": 34.2403079,
+  "longitude": -86.2250799,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.8,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
