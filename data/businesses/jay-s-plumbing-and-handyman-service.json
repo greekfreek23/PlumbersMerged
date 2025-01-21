@@ -46,7 +46,7 @@
     {
       "searchString": "place_id:ChIJ2_aWE_qFkYgRynnTKMLTkFI",
       "name": "Tracy Harbuck",
-      "text": "I googled plumbers in my town, jays popped up so i called left a voicemail he called me back fairly quick! I needed my ice and water hooked up for my new refrigerator he came the next day to look at my hook ups and followed up the next day to fix it! He explained everything very clearly. Super nice, professional and understanding.  A little pricey but in all fairness everything has become so pricey. He did eagerly show up to get the job done, right!\nI plan on calling on him for a couple other jobs! Thanks Jay \ud83d\ude01",
+      "text": "I googled plumbers in my town, jays popped up so i called left a voicemail he called me back fairly quick! I needed my ice and water hooked up for my new refrigerator he came the next day to look at my hook ups and followed up the next day to fix it! He explained everything very clearly. Super nice, professional and understanding.  A little pricey but in all fairness everything has become so pricey. He did eagerly show up to get the job done, right!\nI plan on calling on him for a couple other jobs! Thanks Jay ?",
       "textTranslated": null,
       "publishAt": "a year ago",
       "publishedAtDate": "2023-06-11T17:54:12.589Z",
@@ -220,5 +220,19 @@
   "last60": 0,
   "last90": 0,
   "last180": 0,
-  "last365": 0
+  "last365": 0,
+  "place_id": "ChIJ2_aWE_qFkYgRynnTKMLTkFI",
+  "phone": "+1 334-343-4849",
+  "address": "709 Savage Rd, Florala, AL 36442",
+  "city": "Florala",
+  "state": "Alabama",
+  "postal_code": 36442,
+  "country": "United States of America",
+  "latitude": 30.9998357,
+  "longitude": -86.28217269999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": []
 }
