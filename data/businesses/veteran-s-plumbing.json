@@ -1,0 +1,16 @@
+{
+  "businessName": "Veteran's Plumbing",
+  "place_id": "ChIJm3IdRvUyzgURGeWkxmpxm2g",
+  "phone": "+1 256-342-6829",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 33.5357021,
+  "longitude": -85.9040146,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Closed\"}",
+  "rating": null,
+  "reviews_count": 0
+}
