@@ -132,7 +132,7 @@
     {
       "searchString": "place_id:ChIJEeL0scsfiogRVoUdcyLv8rs",
       "name": "Ashley Mccall",
-      "text": "Chris has been to our home twice already to repair a stopped main sewer line. He drilled a hole in our pipe and \u201cpatched\u201d it which ended up flooding our yard an additional two times. He says he will be out at your house one day then doesn\u2019t show up OR respond to texts and calls for days or sometimes weeks. Now because of the hole drilled into our pipes we have to have the whole sewer line replaced because of the type of pipe that is there already. Over all he is not professional. He does not communicate well with his customers. Leaves customers waiting around days and weeks to hear back from him (if at all) and does not stick to the estimated prices he gives. I tried being nice and reaching out multiple times for him to correct these things and still haven\u2019t heard from him. Would not recommend him for anyone in need to plumbing fixes.",
+      "text": "Chris has been to our home twice already to repair a stopped main sewer line. He drilled a hole in our pipe and ?patched? it which ended up flooding our yard an additional two times. He says he will be out at your house one day then doesn?t show up OR respond to texts and calls for days or sometimes weeks. Now because of the hole drilled into our pipes we have to have the whole sewer line replaced because of the type of pipe that is there already. Over all he is not professional. He does not communicate well with his customers. Leaves customers waiting around days and weeks to hear back from him (if at all) and does not stick to the estimated prices he gives. I tried being nice and reaching out multiple times for him to correct these things and still haven?t heard from him. Would not recommend him for anyone in need to plumbing fixes.",
       "textTranslated": null,
       "publishAt": "4 years ago",
       "publishedAtDate": "2020-09-18T20:02:39.918Z",
@@ -228,7 +228,7 @@
     {
       "searchString": "place_id:ChIJEeL0scsfiogRVoUdcyLv8rs",
       "name": "Dannilee McNeel",
-      "text": "I called multiple plumbers & no one could deal with my emergency for at least a week. This man rearranged his schedule & was at my home in a couple hours. He was thorough, fast & most importantly fixed my problem. The drain pipe was disconnected & dumping everything under my house. Thank You!!!!!  You will be who I call 1st next time. I highly recommend this local biz\ud83d\ude0a",
+      "text": "I called multiple plumbers & no one could deal with my emergency for at least a week. This man rearranged his schedule & was at my home in a couple hours. He was thorough, fast & most importantly fixed my problem. The drain pipe was disconnected & dumping everything under my house. Thank You!!!!!  You will be who I call 1st next time. I highly recommend this local biz?",
       "textTranslated": null,
       "publishAt": "5 years ago",
       "publishedAtDate": "2019-08-07T13:27:54.314Z",
@@ -550,7 +550,7 @@
     {
       "searchString": "place_id:ChIJEeL0scsfiogRVoUdcyLv8rs",
       "name": "Savanah Banks",
-      "text": "Half the time you can\u2019t get a plumber out for less than 200$, he came out and did the job for less than 100$ and was done in 20-30 min! Great service! AND we called at night and he was over first thing that morning! Can\u2019t be better than that people!",
+      "text": "Half the time you can?t get a plumber out for less than 200$, he came out and did the job for less than 100$ and was done in 20-30 min! Great service! AND we called at night and he was over first thing that morning! Can?t be better than that people!",
       "textTranslated": null,
       "publishAt": "6 years ago",
       "publishedAtDate": "2018-11-30T15:11:10.609Z",
@@ -801,5 +801,19 @@
       "Highly trained technicians with extensive knowledge of the latest plumbing techniques and technologies.",
       "Commitment to using high-quality materials and equipment for long-lasting repairs and installations."
     ]
-  }
+  },
+  "place_id": "ChIJEeL0scsfiogRVoUdcyLv8rs",
+  "phone": "+1 205-359-2247",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 34.1972229,
+  "longitude": -86.1531139,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"7AM-5PM\", \"Tuesday\": \"7AM-5PM\", \"Wednesday\": \"7AM-5PM\", \"Thursday\": \"7AM-5PM\", \"Friday\": \"7AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 4.5,
+  "reviews_count": 0,
+  "reviews": []
 }
