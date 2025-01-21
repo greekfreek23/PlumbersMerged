@@ -41,5 +41,20 @@
       "Prompt and efficient service, with a commitment to minimizing disruptions and maximizing customer convenience.",
       "Comprehensive solutions tailored to your specific needs, ensuring optimal performance and energy savings."
     ]
-  }
+  },
+  "place_id": "ChIJW1wAvTt5kYgRmgBzMqHjerg",
+  "phone": "+1 850-966-1381",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 35.5742455,
+  "longitude": -86.50931949999999,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}",
+  "rating": 5,
+  "reviews_count": 0,
+  "reviews": [],
+  "servicesMentioned": []
 }
