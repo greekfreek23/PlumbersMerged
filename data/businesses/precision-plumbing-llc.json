@@ -112,5 +112,22 @@
       "Prompt and reliable emergency plumbing services available 24/7 to address urgent situations.",
       "Commitment to using the latest techniques and equipment to ensure efficient and effective plumbing solutions."
     ]
-  }
+  },
+  "businessName": "Precision Plumbing, LLC",
+  "place_id": "ChIJ0fqaQyUIpE0RxAe-aneAYYw",
+  "phone": "+1 706-681-3889",
+  "address": "",
+  "city": "",
+  "state": "",
+  "postal_code": "",
+  "country": "",
+  "latitude": 32.710913999999995,
+  "longitude": -84.9439804,
+  "categories": [],
+  "working_hours": "{\"Monday\": \"8AM-5PM\", \"Tuesday\": \"8AM-5PM\", \"Wednesday\": \"8AM-5PM\", \"Thursday\": \"8AM-5PM\", \"Friday\": \"8AM-5PM\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}",
+  "rating": 3,
+  "reviews_count": 0,
+  "heroSection": [],
+  "aboutUsSection": [],
+  "reviews": []
 }
